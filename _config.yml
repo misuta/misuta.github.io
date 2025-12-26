@@ -31,6 +31,7 @@ github_username:  misuta
 bitcoin_address: bc1q4fth4ln90wp795v5n849gjjrltlskvxaa4aqjd
 lightning_address: mizuta@getalby.com
 
+
 # Build settings
 theme: minima
 plugins:
