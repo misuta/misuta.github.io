@@ -13,4 +13,4 @@ El blog Mizuta’s Playground es un blog en ingles donde comparto mis pensamient
 Espero sea de su agrado.   
 
 Yukio Mizuta.   
-Veritas ibi est.
+Veritas ibi illic est.
