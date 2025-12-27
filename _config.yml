@@ -21,9 +21,10 @@
 title: Mizuta's Blog
 email: yukio.mizuta@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about programming, technology, and other random things.
-  Occasionally, I might write about my personal life as well.
-  Welcome to my blog!
+ Este blog es para compartir mis pensamientos e ideas sobre varios temas.
+ Podran encontrar cuentos, ensayos y reflexiones personales.
+  Espero que disfruten leyendo tanto como yo disfruto escribiendo.
+  Gracias por visitar mi blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mizuta.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mizutabushi
