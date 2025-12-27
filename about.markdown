@@ -10,5 +10,5 @@ Aquí podrás encontrar cuentos cortos, ensayos, opiniones y otros escritos refl
 
 Espero lo disfruten.
 
-Yukio Mizuta.
+Yukio Mizuta.   
 Veritas ibi illic est.
