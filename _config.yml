@@ -33,7 +33,8 @@ bitcoin_address: bc1qmm4kear4579f7fpn4cv2sj4hmacjusu3aduyrw
 lightning_address: mizuta@getalby.com
 google_analytics: G-Q35N08830K
 
-
+include:
+  - _pages
 # Build settings
 theme: minima
 plugins:
