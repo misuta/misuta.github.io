@@ -11,9 +11,9 @@ tags: [bitcoin, wallet, seguridad, principiantes]
 
 ---
 
-Compraste tus primeros Bitcoin. ¿Y ahora dónde los guardas?
+Compraste tus primeros Bitcoin. ¿Y ahora dónde los guardas? 
 
-Esta es la pregunta que nadie te explica bien al principio. Y es importante: guardar Bitcoin en el lugar equivocado es uno de los errores más costosos que puede cometer un principiante.
+Esta es la pregunta que nadie te explica bien al principio.<!--more--> Y es importante: guardar Bitcoin en el lugar equivocado es uno de los errores más costosos que puede cometer un principiante.
 
 En esta guía te explico qué es una wallet, qué tipos existen y cuál te conviene según tu situación, sin tecnicismos innecesarios.
 
