@@ -32,6 +32,7 @@ github_username:  misuta
 bitcoin_address: bc1qmm4kear4579f7fpn4cv2sj4hmacjusu3aduyrw
 lightning_address: mizuta@getalby.com
 google_analytics: G-Q35N08830K
+google-site-verification: Tt-ImPa4Ehxokwk8kvzE1afzBOsUX6OrnKAP2JtzKGI
 
 include:
   - _pages
