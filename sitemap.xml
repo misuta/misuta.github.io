@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+---
+layout: none
+---
+{%- assign xml_declaration = '<?xml version="1.0" encoding="UTF-8"?>' -%}
+{{ xml_declaration }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
   http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   {% for page in site.pages %}
-  {% if page.url != '/feed.xml' %}
+  {% unless page.url contains 'feed' or page.url contains 'sitemap' or page.url contains '.css' or page.url contains '404' %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
     {% if page.date %}
     <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
     {% endif %}
   </url>
-  {% endif %}
+  {% endunless %}
   {% endfor %}
   {% for post in site.posts %}
   <url>
