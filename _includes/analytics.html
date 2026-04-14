@@ -1,4 +1,4 @@
-{% if site.google_analytics and jekyll.environment == 'production' %}
+{% if site.google_analytics and jekyll.environment == 'production' and page.path != 'sitemap.xml' %}
 <!-- Google Consent Mode -->
 <script>
   window.dataLayer = window.dataLayer || [];
