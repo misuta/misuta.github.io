@@ -71,9 +71,3 @@ excerpt_separator: "<!--more-->"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-defaults:
-  - scope:
-      path: "sitemap.xml"
-    values:
-      layout: null
-      sitemap: true
