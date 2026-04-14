@@ -1,4 +1,4 @@
-{% if site.google_analytics and jekyll.environment == 'production' and page.path != 'sitemap.xml' %}
+{% if site.ga_measurement_id and jekyll.environment == 'production' %}
 <!-- Google Consent Mode -->
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -10,10 +10,10 @@
   });
 </script>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_measurement_id }}"></script>
 <script>
   gtag('js', new Date());
-  gtag('config', '{{ site.google_analytics }}');
+  gtag('config', '{{ site.ga_measurement_id }}');
 </script>
 
 <!-- Banner de consentimiento -->
