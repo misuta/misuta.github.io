@@ -90,6 +90,62 @@ Hay varias razones por las que la gente usa Bitcoin:
 
 ---
 
+## ¿Cuánto vale un Bitcoin? ¿Y el precio?
+
+El precio de Bitcoin es uno de los temas que más curiosidad genera. Y también uno de los más llamativos, porque su historia es una montaña rusa.
+
+En 2010, un Bitcoin valía menos de un céntimo. En 2017 llegó a casi 20.000 dólares. En 2021 rozó los 69.000. Luego cayó. Luego volvió a subir. En 2024 superó los 100.000 dólares por primera vez en su historia.
+
+¿Por qué sube y baja tanto? Básicamente porque Bitcoin no está respaldado por ningún activo físico ni por ningún gobierno. Su precio lo determina únicamente la oferta y la demanda: cuanta más gente quiere comprarlo, más sube; cuando mucha gente vende a la vez, baja.
+
+Un detalle importante: **no hace falta comprar un Bitcoin entero**. Puedes comprar fracciones muy pequeñas. La unidad mínima se llama *satoshi*, y equivale a 0,00000001 Bitcoin. Es decir, con 10 euros puedes comprar una fracción proporcional, igual que puedes comprar 0,5 kg de queso sin necesidad de comprar el queso entero.
+
+---
+
+## ¿Dónde se guarda el Bitcoin? La cartera (wallet)
+
+Aquí viene un concepto clave que mucha gente pasa por alto al principio: el Bitcoin no se guarda "en internet" ni en ninguna empresa. Lo que tú tienes es una **llave secreta** que demuestra que esos Bitcoin son tuyos. Quien controla esa llave, controla el dinero.
+
+Para gestionar esa llave y hacer transacciones, se usa lo que se llama una **cartera** o **wallet**. Hay varios tipos:
+
+**Carteras en exchange (custodiadas)**
+Es la opción más sencilla para empezar. Cuando compras Bitcoin en una plataforma como Coinbase o Binance, ellos guardan tus Bitcoin por ti, igual que un banco. Es cómodo, pero dependes de que esa empresa no quiebre ni sea hackeada.
+
+> *"Not your keys, not your coins"* — dice el refrán en el mundo Bitcoin. Si no controlas tú la llave, técnicamente no son tus Bitcoin del todo.
+
+**Carteras de software (en tu móvil u ordenador)**
+Son aplicaciones como Electrum o Trust Wallet. Tú controlas la llave, que está guardada en tu dispositivo. Más autonomía, pero si pierdes el móvil sin hacer copia de seguridad, pierdes el acceso.
+
+**Carteras físicas (hardware wallet)**
+Son dispositivos parecidos a un USB, como Ledger o Trezor. Guardan la llave de forma completamente offline, lo que las hace muy seguras. Es la opción recomendada si tienes cantidades significativas. El precio ronda los 50-150€.
+
+**¿Cuál elegir?** Para empezar y con cantidades pequeñas, un exchange conocido está bien. Si te tomas Bitcoin más en serio, lo ideal es mover tus fondos a una wallet donde controles tú las llaves.
+
+---
+
+## ¿Cómo comprar Bitcoin por primera vez?
+
+Si después de leer todo esto tienes curiosidad y quieres comprar algo de Bitcoin, aquí va una guía básica de los pasos habituales:
+
+**1. Elige una plataforma (exchange)**
+Las más usadas y conocidas en España y Europa son Coinbase, Binance y Kraken. Todas están reguladas y permiten comprar con tarjeta o transferencia bancaria. Evita plataformas desconocidas o que te llegan por recomendación en redes sociales.
+
+**2. Crea tu cuenta y verifica tu identidad**
+Por ley, estas plataformas están obligadas a verificar quién eres (proceso KYC). Necesitarás tu DNI o pasaporte y posiblemente una foto tuya. Es normal y obligatorio.
+
+**3. Añade un método de pago**
+Tarjeta de crédito/débito o transferencia bancaria. La transferencia suele tener comisiones más bajas.
+
+**4. Compra la cantidad que quieras**
+Recuerda: no necesitas comprar un Bitcoin entero. Puedes empezar con 20€ o 50€ para familiarizarte.
+
+**5. Decide dónde guardarlo**
+Si es una cantidad pequeña para probar, puedes dejarlo en el exchange. Si es una cantidad mayor o piensas mantenerlo a largo plazo, considera moverlo a una wallet propia.
+
+⚠️ **Regla de oro**: nunca inviertas más de lo que estás dispuesto a perder completamente. Bitcoin puede bajar mucho, y rápido.
+
+---
+
 ## ¿Y los riesgos?
 
 Sería irresponsable no mencionarlos:
@@ -121,4 +177,28 @@ Si tienes curiosidad, lo más prudente es empezar por aprender antes de invertir
 
 ---
 
-*¿Tienes preguntas o algo no quedó claro? Déjame un comentario en el correo — intentaré responder a todo.*
+## ¿Por dónde empiezo? Plataformas recomendadas
+
+Si decides dar el paso y comprar Bitcoin por primera vez, estas son las plataformas que yo usaría (y uso). Son las más establecidas, reguladas en Europa y con buena experiencia de usuario para principiantes:
+
+- **[Coinbase](https://advanced.coinbase.com/join/9B4EBKZ)** — La más sencilla para empezar. Interfaz muy limpia, ideal si es tu primera vez. Disponible en español.
+- **[Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V)** — La plataforma más grande del mundo. Más opciones y comisiones algo más bajas, aunque la interfaz puede resultar un poco abrumadora al principio.
+- **[Kraken](https://invite.kraken.com/JDNW/hgnwussv)** — Muy reputada en Europa, con buen soporte y buena seguridad. Buena opción intermedia.
+
+> 🔗 **Nota de transparencia:** Los enlaces anteriores son enlaces de afiliado. Si te registras a través de ellos, es posible que yo reciba una pequeña comisión y/o que tú recibas un beneficio (como comisiones reducidas o un bono de bienvenida). Esto no tiene ningún coste adicional para ti y no influye en mi opinión sobre estas plataformas — las recomendaría igualmente. Siempre puedes buscarlas directamente en Google si lo prefieres.
+
+---
+
+## ⚠️ Aviso legal y disclaimer
+
+*El contenido de este artículo tiene únicamente fines informativos y educativos. No constituye asesoramiento financiero, de inversión, legal ni fiscal.*
+
+*Bitcoin y las criptomonedas en general son activos de alto riesgo y alta volatilidad. Su valor puede subir o bajar drásticamente en poco tiempo, y existe la posibilidad de perder todo el capital invertido.*
+
+*Antes de tomar cualquier decisión de inversión, te recomiendo consultar con un asesor financiero profesional y hacer tu propia investigación. Invierte únicamente lo que estés dispuesto a perder por completo.*
+
+*Este blog no se hace responsable de las decisiones financieras que puedas tomar basándote en la información aquí publicada.*
+
+---
+
+*¿Tienes preguntas o algo no quedó claro? Déjame un comentario abajo — intentaré responder a todo.*
