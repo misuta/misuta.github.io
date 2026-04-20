@@ -9,8 +9,8 @@ tags: [bitcoin, criptomonedas, explicación, principiantes]
 Seguramente has escuchado hablar de Bitcoin en las noticias, en conversaciones con amigos o incluso en la radio. Quizás te has preguntado: *¿qué es exactamente eso?* ¿Es dinero de verdad? ¿Cómo funciona? ¿Es seguro?
 
 En este artículo voy a intentar explicártelo de la forma más sencilla posible. Sin tecnicismos, sin fórmulas matemáticas, con ejemplos del día a día.
-
---- <!--more-->
+<!--more-->
+---
 
 ## Empecemos por el principio: ¿qué es el dinero?
 
