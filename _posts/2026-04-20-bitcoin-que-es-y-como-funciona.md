@@ -10,6 +10,7 @@ Seguramente has escuchado hablar de Bitcoin en las noticias, en conversaciones c
 
 En este artículo voy a intentar explicártelo de la forma más sencilla posible. Sin tecnicismos, sin fórmulas matemáticas, con ejemplos del día a día.
 <!--more-->
+
 ---
 
 ## Empecemos por el principio: ¿qué es el dinero?
