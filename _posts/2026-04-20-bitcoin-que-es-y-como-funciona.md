@@ -201,4 +201,4 @@ Si decides dar el paso y comprar Bitcoin por primera vez, estas son las platafor
 
 ---
 
-*¿Tienes preguntas o algo no quedó claro? Déjame un comentario abajo — intentaré responder a todo.*
+*¿Tienes preguntas o algo no quedó claro? Déjame un comentario en el correo — intentaré responder a todo.*
