@@ -6,11 +6,11 @@ categories: [Criptomonedas, Tecnología]
 tags: [blockchain, bitcoin, criptomonedas, descentralización, tecnología]
 ---
 
-# ¿Qué es la Blockchain y por qué importa en el mundo cripto?
-
 ## La gran pregunta: ¿en quién confías?
 
 Cuando haces una transferencia bancaria, confías en que tu banco registre correctamente quién envió dinero y a quién. El banco es el árbitro: él lleva la contabilidad y tú dependes de él. Pero, ¿qué pasaría si no necesitaras ese árbitro? Esa es exactamente la pregunta que respondió la tecnología **blockchain**.
+
+<!--more-->
 
 ---
 
