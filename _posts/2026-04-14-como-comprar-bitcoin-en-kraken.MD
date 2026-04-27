@@ -5,6 +5,7 @@ description: "Aprende a comprar tu primer Bitcoin en Kraken en menos de 20 minut
 date: 2026-04-14
 categories: [exchanges, guias]
 tags: [bitcoin, kraken, comprar bitcoin, principiantes, europa]
+image: /assets/images/como-comprar-bitcoin-en-kraken.jpg
 ---
 
 > *Aviso: Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti.*

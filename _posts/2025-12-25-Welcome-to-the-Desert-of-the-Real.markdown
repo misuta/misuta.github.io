@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to the Desert of the Real "
 date:   2025-12-25 22:24:05 +0100
 categories: bienvenida 
+image: /assets/images/welcome-to-the-desert-of-the-real.jpg
 ---
 ## Este blog está en constante construcción
 

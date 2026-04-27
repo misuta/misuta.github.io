@@ -4,6 +4,7 @@ title: "Bitcoin: ¿Qué es y cómo funciona? Una guía para todos"
 date: 2026-04-20
 categories: [tecnología, finanzas]
 tags: [bitcoin, criptomonedas, explicación, principiantes]
+image: /assets/images/bitcoin-que-es-y-como-funciona.jpg
 ---
 
 Seguramente has escuchado hablar de Bitcoin en las noticias, en conversaciones con amigos o incluso en la radio. Quizás te has preguntado: *¿qué es exactamente eso?* ¿Es dinero de verdad? ¿Cómo funciona? ¿Es seguro?
