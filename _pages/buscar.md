@@ -1,12 +1,13 @@
 ---
-layout: default
-title: "Blog"
+layout: page
+title: Buscar
+permalink: /buscar/
 ---
 
-<!-- ✅ BUSCADOR -->
-<div class="home-search">
+<div class="search-wrapper">
   <input type="text" id="search-input" placeholder="Buscar artículos..." autocomplete="off">
   <ul id="results-container"></ul>
+  <p id="no-results" style="display:none;">No se encontraron resultados.</p>
 </div>
 
 <script src="https://unpkg.com/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
@@ -23,14 +24,15 @@ SimpleJekyllSearch({
         <span class="result-excerpt">{excerpt}</span>
       </a>
     </li>`,
-  noResultsText: 'No se encontraron resultados.',
+  noResultsText: '',
   limit: 10,
-  fuzzy: false
+  fuzzy: false,
+ 
 });
 </script>
 
 <style>
-.home-search { margin-bottom: 2rem; }
+.search-wrapper { max-width: 680px; margin: 0 auto; }
 #search-input {
   width: 100%;
   padding: 12px 16px;
@@ -57,33 +59,5 @@ SimpleJekyllSearch({
 .result-title { font-size: 16px; font-weight: 600; color: #1a0a2e; }
 .result-meta { font-size: 12px; color: #1db87a; text-transform: uppercase; letter-spacing: 0.05em; }
 .result-excerpt { font-size: 14px; color: #555; line-height: 1.5; }
+#no-results { color: #888; font-size: 15px; margin-top: 1rem; }
 </style>
-<!-- ✅ FIN BUSCADOR -->
-
-{% for post in paginator.posts %}
-  <article>
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    {% if post.image %}
-  <a href="{{ post.url }}">
-    <img src="{{ post.image }}" alt="{{ post.title }}" class="post-list-image">
-  </a>
-{% endif %}
-    <p>{{ post.date | date: "%d %B %Y" }}</p>
-    <p>{{ post.excerpt }}</p>
-    <a href="{{ post.url }}">Leer más →</a>
-  </article>
-{% endfor %}
-
-{% if paginator.total_pages > 1 %}
-  <nav>
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}">← Más recientes</a>
-    {% endif %}
-
-    <span>Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}">Más antiguos →</a>
-    {% endif %}
-  </nav>
-{% endif %}
