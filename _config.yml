@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Gracias por visitar mi blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mizuta.eu" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mizutabushi
+twitter_username: MizutasBlog
 github_username:  misuta
 bitcoin_address: bc1qmm4kear4579f7fpn4cv2sj4hmacjusu3aduyrw
 lightning_address: mizuta@getalby.com
