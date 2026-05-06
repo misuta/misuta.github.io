@@ -178,25 +178,15 @@ Desde agosto de 2021, con la actualización **EIP-1559**, parte de las comisione
 
 ## ¿Cómo comprar Ethereum?
 
-Si después de leer todo esto quieres adquirir ETH, el proceso es sencillo. La forma más recomendable para principiantes es usar un **exchange regulado** como **Kraken**.
+Si después de leer todo esto quieres adquirir ETH, el proceso es sencillo. Estas son las plataformas más recomendadas, reguladas y disponibles en Europa y América Latina:
 
-Kraken es uno de los exchanges más antiguos y seguros del sector, con soporte en español y disponible tanto en Europa como en gran parte de Latinoamérica.
+- **[Kraken](https://invite.kraken.com/JDNW/2bz45mfj)** — Muy reputada en Europa, con buen soporte y excelente seguridad. Ideal si estás en España o la UE. *(enlace de afiliado)*
+- **[Coinbase](https://advanced.coinbase.com/join/9B4EBKZ)** — La más sencilla para principiantes. Interfaz muy limpia, disponible en español. *(enlace de afiliado)*
+- **[Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V)** — El exchange con mayor volumen del mundo. Más opciones y comisiones algo más bajas. *(enlace de afiliado)*
 
-### Desde Europa
-Puedes comprar ETH directamente con **euros (EUR)** mediante transferencia bancaria SEPA o tarjeta. Es el método más barato y rápido para usuarios en España, Alemania, Francia y el resto de la UE.
+> 🔗 **Nota de transparencia:** Los enlaces anteriores son de afiliado. Si te registras a través de ellos, es posible que reciba una pequeña comisión, sin coste adicional para ti.
 
-### Desde Latinoamérica
-Kraken acepta usuarios de múltiples países latinoamericanos. Aunque la plataforma opera principalmente en USD, puedes financiar tu cuenta mediante:
-
-- **Transferencia bancaria internacional** desde México, Argentina, Colombia, Chile, Perú y otros países
-- **Tarjeta de débito/crédito** en moneda local (el cargo se convierte automáticamente a USD)
-- En algunos países, mediante pasarelas locales de pago compatibles
-
-Ten en cuenta que dependiendo de tu país, el tipo de cambio de tu moneda local al dólar puede afectar el precio final que pagas por ETH. Consulta siempre las tarifas vigentes antes de operar.
-
-👉 [Compra Ethereum en Kraken](https://invite.kraken.com/JDNW/2bz45mfj) *(enlace de afiliado — sin coste adicional para ti)*
-
-> **¿Ya tienes cuenta en Kraken?** Consulta nuestra guía paso a paso: [Cómo comprar Ethereum en Kraken](/guia-comprar-ethereum-kraken) *(publicada el 1 de mayo)*
+> **¿Ya tienes cuenta?** Consulta nuestra guía paso a paso: [Cómo comprar Ethereum en Kraken](https://mizuta.eu/2026/05/01/como-comprar-ethereum-kraken)
 
 ---
 
