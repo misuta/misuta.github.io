@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¿Qué es el Bitcoin Halving? La cuenta regresiva que mueve los mercados"
+title: "¿Qué es el Bitcoin Halving? La cuenta regresiva del mercado"
 date: 2026-04-29 09:00:00 +0200
 categories: [educación, bitcoin]
 tags: [bitcoin, halving, minería, precio, oferta]

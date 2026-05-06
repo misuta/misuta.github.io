@@ -113,8 +113,8 @@ Si quieres comprar Bitcoin o Ethereum de forma segura, estos son los tres exchan
 
 Si quieres una guía paso a paso para Kraken, tenemos tutoriales detallados:
 
-- [Cómo comprar Bitcoin en Kraken](https://mizuta.eu/kraken-comprar-bitcoin)
-- [Cómo comprar Ethereum en Kraken](https://mizuta.eu/2026/05/01/como-comprar-ethereum-kraken)
+- [Cómo comprar Bitcoin en Kraken](/2026/04/14/como-comprar-bitcoin-en-kraken)
+- [Cómo comprar Ethereum en Kraken](/2026/05/1/Cómo-comprar-Ethereum-en-Kraken)
 ---
 
 ## Conclusión

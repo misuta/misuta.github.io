@@ -186,7 +186,7 @@ Si después de leer todo esto quieres adquirir ETH, el proceso es sencillo. Esta
 
 > 🔗 **Nota de transparencia:** Los enlaces anteriores son de afiliado. Si te registras a través de ellos, es posible que reciba una pequeña comisión, sin coste adicional para ti.
 
-> **¿Ya tienes cuenta?** Consulta nuestra guía paso a paso: [Cómo comprar Ethereum en Kraken](https://mizuta.eu/2026/05/01/como-comprar-ethereum-kraken)
+> **¿Ya tienes cuenta?** Consulta nuestra guía paso a paso: [Cómo comprar Ethereum en Kraken](/2026/05/1/Cómo-comprar-Ethereum-en-Kraken)
 
 ---
 
