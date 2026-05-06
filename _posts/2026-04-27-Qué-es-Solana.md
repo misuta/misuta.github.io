@@ -183,7 +183,7 @@ Solana es una de las blockchains más innovadoras y activas del ecosistema crypt
 
 ¿Es perfecta? No. Tiene sus riesgos y sus críticos tienen puntos válidos. Pero su tecnología es genuinamente interesante y su adopción — tanto de usuarios como de instituciones — sigue creciendo.
 
-Si quieres profundizar más en el ecosistema crypto, te recomendamos también leer nuestra guía sobre **[¿Qué es Bitcoin y cómo funciona?](/2026/04/20/bitcoin-que-es-y-como-funciona)** — la criptomoneda que lo inició todo.
+Si quieres profundizar más en el ecosistema crypto, te recomendamos también leer nuestra guía sobre **[¿Qué es Bitcoin y cómo funciona?](/tecnología/finanzas/2026/04/20/bitcoin-que-es-y-como-funciona.html)** — la criptomoneda que lo inició todo.
 
 ---
 
