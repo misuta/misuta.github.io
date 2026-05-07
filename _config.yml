@@ -22,10 +22,8 @@ title: 水田 Mizuta's Blog
 author: Yukio Mizuta
 email: yukio.mizuta@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Este blog es para compartir mis pensamientos e ideas sobre varios temas.
- Podran encontrar cuentos, ensayos y reflexiones personales.
-  Espero que disfruten leyendo tanto como yo disfruto escribiendo.
-  Gracias por visitar mi blog.
+  Blog de Bitcoin y criptomonedas en español. Aprende desde cero cómo funciona Bitcoin, cómo comprar cripto de forma segura y
+   cómo proteger tus activos digitales."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mizuta.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MizutasBlog
