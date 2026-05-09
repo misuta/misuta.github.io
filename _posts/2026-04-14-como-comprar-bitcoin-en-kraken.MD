@@ -6,6 +6,18 @@ date: 2026-04-14
 categories: [exchanges, guias]
 tags: [bitcoin, kraken, comprar bitcoin, principiantes, europa]
 image: /assets/images/como-comprar-bitcoin-en-kraken.jpg
+
+faq:
+  - question: "¿Es seguro comprar Bitcoin en Kraken?"
+    answer: "Sí. Kraken es uno de los exchanges de criptomonedas más antiguos y seguros del mundo, fundado en 2011. Está regulado en Estados Unidos y Europa, nunca ha sufrido un hackeo significativo y cuenta con medidas de seguridad avanzadas como autenticación en dos pasos y cifrado de datos."
+  - question: "¿Cuánto dinero mínimo necesito para comprar Bitcoin en Kraken?"
+    answer: "El mínimo por operación en Kraken es de aproximadamente 10 euros, lo que lo hace accesible para cualquier presupuesto. No necesitas comprar un Bitcoin entero: puedes adquirir fracciones muy pequeñas llamadas satoshis."
+  - question: "¿Cuánto tiempo tarda en llegar mi Bitcoin después de comprarlo?"
+    answer: "La compra es prácticamente instantánea: tu saldo en Bitcoin aparece en tu cuenta de Kraken en segundos. Si luego decides transferirlo a una wallet propia, la confirmación en la red Bitcoin tarda normalmente entre 10 y 30 minutos dependiendo de la congestión de la red."
+  - question: "¿Necesito verificar mi identidad en Kraken?"
+    answer: "Sí. Kraken exige verificación de identidad (KYC) para poder depositar euros y operar. Necesitarás subir una foto de tu documento de identidad y un selfie. El proceso suele completarse en menos de 48 horas, y en muchos casos en minutos."
+  - question: "¿Puedo comprar Bitcoin en Kraken desde España o Latinoamérica?"
+    answer: "Sí. Kraken está disponible en España y en la mayoría de países de Latinoamérica. Desde España puedes depositar euros por transferencia bancaria SEPA sin comisión. Desde Latinoamérica las opciones varían por país, aunque generalmente se puede usar tarjeta de crédito o transferencia internacional."
 ---
 
 > *Aviso: Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti.*

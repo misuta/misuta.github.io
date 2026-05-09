@@ -6,6 +6,18 @@ date: 2026-04-13
 categories: [wallets, guias]
 tags: [bitcoin, wallet, seguridad, principiantes]
 image: /assets/images/mejores-wallets-de-bitcoin.jpg
+faq:
+  - question: "¿Qué es una wallet de Bitcoin y para qué sirve?"
+    answer: "Una wallet de Bitcoin es una aplicación o dispositivo que guarda las claves privadas que te dan acceso a tus bitcoins. No almacena Bitcoin directamente, sino las claves necesarias para demostrar que esos bitcoins son tuyos y poder enviarlos o recibirlos."
+  - question: "¿Es seguro guardar Bitcoin en una wallet?"
+    answer: "Sí, especialmente en una wallet de hardware (wallet fría). Este tipo de wallet guarda tus claves privadas desconectadas de internet, lo que las hace prácticamente invulnerables a hackeos. Las wallets de software también son seguras si se usan correctamente y en dispositivos libres de malware."
+  - question: "¿Cuál es la diferencia entre una wallet fría y una wallet caliente?"
+    answer: "Una wallet caliente está conectada a internet (apps móviles como BlueWallet o Exodus), lo que la hace más cómoda para el uso diario pero más expuesta a riesgos online. Una wallet fría es un dispositivo físico (como Trezor o Keystone) que guarda tus claves sin conexión a internet, ideal para guardar cantidades grandes a largo plazo."
+  - question: "¿Puedo perder mi Bitcoin si pierdo mi wallet?"
+    answer: "No, siempre que hayas guardado tu frase semilla (seed phrase), que son las 12 o 24 palabras que se generan al crear la wallet. Con esa frase puedes recuperar tu Bitcoin en cualquier dispositivo compatible, aunque pierdas o rompass el original. Nunca compartas esa frase con nadie."
+  - question: "¿Necesito una wallet si compro Bitcoin en un exchange como Kraken?"
+    answer: "No es obligatorio, pero sí recomendable si piensas guardar Bitcoin a largo plazo. Cuando tus bitcoins están en un exchange, técnicamente no son tuyos del todo: el exchange controla las claves privadas. Transferirlos a tu propia wallet te da control total sobre tus fondos."
+
 ---
 
 > *Aviso: Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti.*
