@@ -56,6 +56,12 @@ header_pages:
   - about.markdown
   - _pages/buscar.md
   - _pages/politica-de-cookies.md
+
+defaults:
+  - scope:
+      path: "blog/page*"
+    values:
+      sitemap: false
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
