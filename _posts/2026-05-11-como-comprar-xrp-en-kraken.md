@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo comprar XRP en Kraken: guía paso a paso para principiantes"
 date: 2026-05-11
-categories: [exchanges, guias]
+categories: [guia]
 tags: [kraken, xrp, ripple, comprar, afiliado]
 author: Yukio Mizuta
 image: /assets/images/como-comprar-xrp-en-kraken.webp

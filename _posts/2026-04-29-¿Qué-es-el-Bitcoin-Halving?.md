@@ -2,7 +2,7 @@
 layout: post
 title: "¿Qué es el Bitcoin Halving? La cuenta regresiva del mercado"
 date: 2026-04-29 09:00:00 +0200
-categories: [educación, bitcoin]
+categories: [educacion]
 tags: [bitcoin, halving, minería, precio, oferta]
 description: "Descubre qué es el Bitcoin Halving, por qué ocurre cada cuatro años y cómo ha impactado históricamente el precio de BTC. Explicado de forma simple."
 image: /assets/images/bitcoin-halving.jpg

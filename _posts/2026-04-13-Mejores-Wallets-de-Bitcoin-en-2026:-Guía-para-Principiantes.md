@@ -3,7 +3,7 @@ layout: post
 title: "Mejores Wallets de Bitcoin en 2026: Guía para Principiantes"
 description: "¿No sabes dónde guardar tus Bitcoin? Analizamos las mejores wallets para principiantes: seguras, fáciles y gratuitas. Guía actualizada 2026."
 date: 2026-04-13
-categories: [wallets, guias]
+categories: [guia]
 tags: [bitcoin, wallet, seguridad, principiantes]
 image: /assets/images/mejores-wallets-de-bitcoin.jpg
 faq:

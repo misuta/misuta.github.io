@@ -2,7 +2,7 @@
 layout: post
 title: "Bitcoin vs Ethereum: ¿Cuál es la diferencia y cuál te conviene?"
 date: 2026-05-06 09:00:00 +0200
-categories: [Educación, Comparación]
+categories: [comparativa]
 description: "Bitcoin y Ethereum son las dos criptomonedas más importantes del mundo. Pero no son lo mismo. Te explicamos sus diferencias técnicas, su potencial como inversión y cuál encaja mejor contigo."
 image: /assets/images/bitcoin-vs-ethereum.webp
 ---

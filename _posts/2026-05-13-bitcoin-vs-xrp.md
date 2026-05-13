@@ -2,7 +2,7 @@
 layout: post
 title: "Bitcoin vs XRP: ¿Cuál es la diferencia y cuál te conviene?"
 date: 2026-05-13
-categories: [Comparativa]
+categories: [comparativa]
 tags: [bitcoin, xrp, ripple, comparativa, criptomonedas]
 image: /assets/images/bitcoin-vs-xrp.webp
 excerpt: "Bitcoin y XRP son dos de las criptomonedas más conocidas del mundo, pero tienen objetivos muy distintos. Te explicamos en qué se diferencian y cuál encaja mejor con lo que buscas."

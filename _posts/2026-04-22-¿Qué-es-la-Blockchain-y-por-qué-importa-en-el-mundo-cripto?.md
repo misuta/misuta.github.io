@@ -2,7 +2,7 @@
 layout: post
 title: "¿Qué es la Blockchain y por qué importa en el mundo cripto?"
 date: 2026-04-22
-categories: [Criptomonedas, Tecnología]
+categories: [educacion]
 tags: [blockchain, bitcoin, criptomonedas, descentralización, tecnología]
 image: /assets/images/que-es-la-blockchain.jpg
 ---

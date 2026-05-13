@@ -3,7 +3,7 @@ layout: post
 title: "¿Qué es Solana y cómo funciona? Guía completa para principiantes"
 description: "Descubre qué es Solana, cómo funciona su tecnología Proof of History, para qué sirve el token SOL y cómo comprar tu primera SOL paso a paso."
 date: 2026-04-27
-categories: [criptomonedas, educación]
+categories: [educacion]
 tags: [solana, SOL, blockchain, criptomonedas, DeFi, proof-of-history]
 author: Mizuta
 image: /assets/images/que-es-solana.jpg

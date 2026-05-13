@@ -2,7 +2,7 @@
 layout: post
 title: "Bienvenido a Mizuta's Blog: Bitcoin explicado para todos"
 date: 2026-04-18
-categories: [educación]
+categories: [educacion]
 tags: [bitcoin, bienvenida, educación, criptomonedas]
 image: /assets/images/2026-04-18-bienvenido-a-mizutas-blog.webp
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Cómo comprar Ethereum en Kraken: guía paso a paso"
 date: 2026-05-01 09:00:00 +0200
-categories: [guía, kraken, ethereum]
+categories: [guia]
 description: "Aprende cómo comprar Ethereum (ETH) en Kraken de forma segura y sencilla. Guía completa en español con pasos detallados, métodos de pago y consejos de self custody."
 image: /assets/images/ethereum-kraken-guide.webp
 ---

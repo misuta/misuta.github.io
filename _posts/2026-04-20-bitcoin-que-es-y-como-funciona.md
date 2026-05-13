@@ -2,7 +2,7 @@
 layout: post
 title: "Bitcoin: ¿Qué es y cómo funciona? Una guía para todos"
 date: 2026-04-20
-categories: [tecnología, finanzas]
+categories: [educacion]
 tags: [bitcoin, criptomonedas, explicación, principiantes]
 image: /assets/images/bitcoin-que-es-y-como-funciona.jpg
 ---

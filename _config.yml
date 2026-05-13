@@ -52,6 +52,8 @@ feed:
 
 excerpt_separator: "<!--more-->"
 
+permalink: /:year/:month/:day/:title/
+
 header_pages:
   - about.markdown
   - _pages/buscar.md
