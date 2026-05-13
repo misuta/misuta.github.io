@@ -3,7 +3,7 @@ layout: post
 title: "Cómo Comprar Bitcoin en Kraken: Guía para Principiantes"
 description: "Aprende a comprar tu primer Bitcoin en Kraken en menos de 20 minutos. Guía completa con cada paso explicado para principiantes absolutos."
 date: 2026-04-14
-categories: [exchanges, guias]
+categories: [guia]
 tags: [bitcoin, kraken, comprar bitcoin, principiantes, europa]
 image: /assets/images/como-comprar-bitcoin-en-kraken.jpg
 
