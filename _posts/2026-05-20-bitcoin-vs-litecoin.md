@@ -86,7 +86,7 @@ Litecoin fue creado en 2011 por Charlie Lee, un exingeniero de Google. Tomó el 
 ## Bitcoin vs Litecoin: comparativa directa
 
 | Característica | Bitcoin (BTC) | Litecoin (LTC) |
-|---|---|---|
+| --- | --- | --- |
 | Año de creación | 2009 | 2011 |
 | Creador | Satoshi Nakamoto | Charlie Lee |
 | Suministro máximo | 21 millones | 84 millones |
