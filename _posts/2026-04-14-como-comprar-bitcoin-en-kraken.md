@@ -125,7 +125,7 @@ Aquí viene el consejo más importante de toda la guía: **no dejes tus Bitcoin 
 
 Kraken es seguro, pero los exchanges son custodiales — ellos guardan tus claves privadas, no tú. Si algo le pasa a Kraken, podrías perder tus fondos.
 
-La práctica recomendada es transferir tus Bitcoin a una wallet propia donde tú controles las claves. Si aún no tienes wallet, te recomiendo leer mi guía sobre las [mejores wallets de Bitcoin para principiantes](/wallets/guias/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Gu%C3%ADa-para-Principiantes.html) antes de hacer la transferencia.
+La práctica recomendada es transferir tus Bitcoin a una wallet propia donde tú controles las claves. Si aún no tienes wallet, te recomiendo leer mi guía sobre las [mejores wallets de Bitcoin para principiantes](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/) antes de hacer la transferencia.
 
 La regla de oro es: **compra en Kraken, guarda en tu wallet.**
 

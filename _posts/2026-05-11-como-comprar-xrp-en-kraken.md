@@ -90,7 +90,7 @@ Si vas a operar con frecuencia o a corto plazo, dejarlo en Kraken es cómodo. Pe
 
 Con una wallet propia, las claves privadas son tuyas y nadie más puede acceder a tus fondos. En Kraken, técnicamente los fondos están custodiados por el exchange.
 
-> Puedes leer nuestra guía de [mejores wallets de Bitcoin para principiantes](/wallets/guias/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Gu%C3%ADa-para-Principiantes.html) — muchas de ellas también son compatibles con XRP.
+> Puedes leer nuestra guía de [mejores wallets de Bitcoin para principiantes](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/) — muchas de ellas también son compatibles con XRP.
 
 ## Conclusión
 
