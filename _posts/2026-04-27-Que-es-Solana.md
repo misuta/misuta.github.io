@@ -78,18 +78,23 @@ La fusión de PoH + PoS es lo que le da a Solana su capacidad de procesar miles 
 La velocidad y el bajo costo de Solana la convierten en una plataforma ideal para muchos casos de uso:
 
 ### DeFi (Finanzas Descentralizadas)
+
 Solana alberga algunos de los protocolos DeFi más activos del ecosistema crypto. Los usuarios pueden prestar, pedir prestado, hacer trading y generar rendimientos sin intermediarios como bancos o brokers.
 
 ### NFTs y arte digital
+
 La red fue hogar de una explosión de mercados de NFTs gracias a sus bajas comisiones. Crear o comprar un NFT en Solana cuesta una fracción de lo que costaría en Ethereum.
 
 ### Gaming y mundos virtuales
+
 Los juegos blockchain que requieren miles de microtransacciones encuentran en Solana un entorno ideal. Las comisiones casi nulas hacen viable la economía dentro del juego.
 
 ### Pagos y stablecoins
+
 Solana es una de las redes más usadas para transferir stablecoins como USDC. Su velocidad la hace práctica para pagos del día a día.
 
 ### Aplicaciones del mundo real
+
 Instituciones financieras y empresas están comenzando a construir sobre Solana para tokenizar activos del mundo real, como bonos, inmuebles o materias primas.
 
 ---
@@ -110,7 +115,6 @@ Para almacenar SOL necesitas una **wallet compatible con Solana**. Las más popu
 - **Solflare** — Otra opción popular con soporte para staking.
 - **[Trezor](https://affil.trezor.io/aff_c?offer_id=137&aff_id=10383)** — Hardware wallet para máxima seguridad. *(enlace de afiliado)*
 
-
 ---
 
 ## Solana vs Ethereum: ¿cuál es mejor?
@@ -118,7 +122,7 @@ Para almacenar SOL necesitas una **wallet compatible con Solana**. Las más popu
 Esta es quizás la comparación más frecuente en el mundo crypto. La respuesta honesta es: **depende de para qué**.
 
 | | **Solana** | **Ethereum** |
-|---|---|---|
+| --- | --- | --- |
 | Velocidad | Miles de TPS | ~15-30 TPS (L1) |
 | Comisiones | Fracciones de centavo | Variables, pueden ser altas |
 | Ecosistema | Creciendo rápido | El más maduro y grande |
@@ -157,6 +161,7 @@ El espacio de blockchains de alto rendimiento es competitivo. Proyectos como Eth
 Si después de entender qué es Solana quieres adquirir SOL, el proceso es sencillo a través de un exchange centralizado.
 
 ### Paso 1: Elige un exchange confiable
+
 Las plataformas más reconocidas donde puedes comprar SOL son:
 
 - **[Coinbase](https://advanced.coinbase.com/join/9B4EBKZ)** — Ideal para principiantes, muy fácil de usar. *(enlace de afiliado)*
@@ -164,15 +169,19 @@ Las plataformas más reconocidas donde puedes comprar SOL son:
 - **[Kraken](https://invite.kraken.com/JDNW/2bz45mfj)** — Conocido por su seguridad y reputación. *(enlace de afiliado)*
 
 ### Paso 2: Crea y verifica tu cuenta
+
 Necesitarás proporcionar tu correo electrónico, crear una contraseña y verificar tu identidad (KYC) con un documento oficial. Este proceso suele tardar entre unos minutos y 24 horas.
 
 ### Paso 3: Deposita fondos
+
 Puedes depositar dinero fiat (dólares, euros, etc.) mediante transferencia bancaria o tarjeta de crédito/débito.
 
 ### Paso 4: Compra SOL
+
 Busca el par SOL/USD (o SOL/EUR), introduce la cantidad que deseas comprar y confirma la transacción.
 
 ### Paso 5: Considera mover tu SOL a una wallet propia
+
 Para mayor seguridad, especialmente si planeas mantener SOL a largo plazo, considera transferirlo a una wallet como Phantom o un hardware wallet. En crypto existe un dicho: *"not your keys, not your coins"* — si no controlas las llaves privadas, no controlas realmente tus monedas.
 
 ---
