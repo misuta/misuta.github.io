@@ -1,3 +1,1 @@
 # Work in progress...
-
-Este blog está en constante desarrollo.
