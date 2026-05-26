@@ -164,7 +164,7 @@ Sería irresponsable no mencionarlos:
 ## Resumen
 
 | | Dinero tradicional | Bitcoin |
-|---|---|---|
+| --- | --- | --- |
 | ¿Quién lo controla? | Bancos y gobiernos | Nadie (todos) |
 | ¿Dónde está el registro? | En los bancos | En miles de ordenadores |
 | ¿Cantidad limitada? | No (pueden imprimir más) | Sí (máximo 21 millones) |
