@@ -3,11 +3,13 @@ name: Scheduled Publish
 on:
   schedule:
     - cron: '0 7 * * *'  # 07:00 UTC = 09:00 hora alemana (CEST)
-  workflow_dispatch:      # permite lanzarlo manualmente desde GitHub si hace falta
+  workflow_dispatch:
 
 jobs:
   rebuild:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:

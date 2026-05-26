@@ -5,6 +5,8 @@ date: 2026-04-20
 categories: [educacion]
 tags: [bitcoin, criptomonedas, explicación, principiantes]
 image: /assets/images/bitcoin-que-es-y-como-funciona.jpg
+redirect_from:
+  - /tecnología/finanzas/2026/04/20/bitcoin-que-es-y-como-funciona.html
 ---
 
 Seguramente has escuchado hablar de Bitcoin en las noticias, en conversaciones con amigos o incluso en la radio. Quizás te has preguntado: *¿qué es exactamente eso?* ¿Es dinero de verdad? ¿Cómo funciona? ¿Es seguro?
