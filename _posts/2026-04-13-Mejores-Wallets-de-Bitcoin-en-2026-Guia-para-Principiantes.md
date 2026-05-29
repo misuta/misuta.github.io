@@ -5,7 +5,7 @@ description: "¿No sabes dónde guardar tus Bitcoin? Analizamos las mejores wall
 date: 2026-04-13
 categories: [guia]
 tags: [bitcoin, wallet, seguridad, principiantes]
-image: /assets/images/mejores-wallets-de-bitcoin.jpg
+image: /assets/images/mejores-wallets-de-bitcoin.webp
 faq:
   - question: "¿Qué es una wallet de Bitcoin y para qué sirve?"
     answer: "Una wallet de Bitcoin es una aplicación o dispositivo que guarda las claves privadas que te dan acceso a tus bitcoins. No almacena Bitcoin directamente, sino las claves necesarias para demostrar que esos bitcoins son tuyos y poder enviarlos o recibirlos."
