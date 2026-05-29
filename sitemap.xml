@@ -13,11 +13,18 @@ layout: null
     {% endif %}
   </url>
   {% endfor %}
+  {% assign excluded_paths = "404.html,sitemap.xml,search.json,redirects.json,feed.xml,robots.txt" | split: "," %}
   {% for page in site.pages %}
-  {% unless page.url contains '/blog/page' or page.sitemap == false %}
+    {% assign is_excluded = false %}
+    {% for excl in excluded_paths %}
+      {% if page.path == excl %}{% assign is_excluded = true %}{% endif %}
+    {% endfor %}
+    {% if page.url contains '/blog/page' %}{% assign is_excluded = true %}{% endif %}
+    {% if page.url contains '/assets/' %}{% assign is_excluded = true %}{% endif %}
+    {% unless is_excluded or page.sitemap == false %}
   <url>
     <loc>{{ page.url | prepend: site.url }}</loc>
   </url>
-  {% endunless %}
+    {% endunless %}
   {% endfor %}
 </urlset>
