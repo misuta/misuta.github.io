@@ -38,7 +38,6 @@ include:
 # Build settings
 theme: minima
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
@@ -65,18 +64,6 @@ defaults:
       path: "blog/page*"
     values:
       sitemap: false
-
-sitemap:
-  exclude:
-    - /blog/page2/
-    - /blog/page3/
-    - /blog/page4/
-    - /blog/page5/
-    - /blog/page6/
-    - /blog/page7/
-    - /blog/page8/
-    - /blog/page9/
-    - /blog/page10/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
