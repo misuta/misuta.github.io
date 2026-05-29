@@ -1,38 +1,30 @@
 name: Scheduled Publish
-
 on:
   schedule:
     - cron: '15 7 * * *'  # 07:15 UTC = 09:15 hora alemana (CEST)
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
-
+        uses: actions/checkout@v4.2.2
       - name: Setup Pages
-        uses: actions/configure-pages@v5
-
+        uses: actions/configure-pages@v5.0.0
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
-
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-
+        uses: actions/upload-pages-artifact@v3.0.1
   deploy:
     environment:
       name: github-pages
@@ -42,4 +34,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4.0.5
