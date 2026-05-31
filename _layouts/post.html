@@ -9,6 +9,8 @@ layout: default
     <img src="{{ page.image | relative_url }}"
          alt="{{ page.title | escape }}"
          class="post-featured-image"
+         loading="lazy"
+         decoding="async"
          itemprop="image">
     {%- endif -%}
 

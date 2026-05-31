@@ -14,6 +14,15 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
+        {%- if post.image -%}
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.image | relative_url }}"
+                 alt="{{ post.title | escape }}"
+                 class="post-list-image"
+                 loading="lazy"
+                 decoding="async">
+          </a>
+        {%- endif -%}
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -21,13 +30,6 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if post.image -%}
-          <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}"
-               alt="{{ post.title | escape }}"
-              class="post-list-image">
-          </a>
-        {%- endif -%}
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
