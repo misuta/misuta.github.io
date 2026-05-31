@@ -141,7 +141,7 @@ Depende de lo que busques:
 
 Si quieres comprar Bitcoin o XRP, una de las opciones más seguras y reguladas disponibles tanto en Europa como en Latinoamérica es **Kraken**. Puedes abrir tu cuenta fácilmente y empezar con cantidades pequeñas.
 
-👉 [Abre tu cuenta en Kraken](https://invite.kraken.com/JDNW/2bz45mfj) *(enlace de afiliado — sin coste adicional para ti)*
+👉 [Abre tu cuenta en Kraken](https://invite.kraken.com/JDNW/nmlddl67) *(enlace de afiliado — sin coste adicional para ti)*
 
 ---
 

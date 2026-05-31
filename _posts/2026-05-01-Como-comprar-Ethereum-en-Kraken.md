@@ -22,13 +22,13 @@ Kraken lleva operando desde 2011 y es uno de los exchanges con mejor historial d
 - **Soporte 24/7**: disponible en español.
 - **Disponible en Europa y Latinoamérica**: con soporte para euros (EUR) y otras monedas locales.
 
-Si todavía no tienes cuenta, puedes [registrarte en Kraken aquí](https://invite.kraken.com/JDNW/2bz45mfj){:target="_blank" rel="noopener noreferrer"} — es gratuito y el proceso toma pocos minutos.
+Si todavía no tienes cuenta, puedes [registrarte en Kraken aquí](https://invite.kraken.com/JDNW/nmlddl67){:target="_blank" rel="noopener noreferrer"} — es gratuito y el proceso toma pocos minutos.
 
 ---
 
 ## Paso 1: Crea tu cuenta en Kraken
 
-Entra a [kraken.com](https://invite.kraken.com/JDNW/2bz45mfj){:target="_blank" rel="noopener noreferrer"} y haz clic en **"Crear cuenta"**. Necesitarás:
+Entra a [kraken.com](https://invite.kraken.com/JDNW/nmlddl67){:target="_blank" rel="noopener noreferrer"} y haz clic en **"Crear cuenta"**. Necesitarás:
 
 - Un correo electrónico válido
 - Una contraseña segura

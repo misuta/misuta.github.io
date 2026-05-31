@@ -75,7 +75,7 @@ Sin Chainlink (o proyectos similares), la mayoría de aplicaciones DeFi, seguros
 
 LINK está disponible en los principales exchanges del mercado. Si ya tienes cuenta en Kraken, puedes comprarlo directamente en la plataforma de forma sencilla y segura.
 
-👉 **¿No tienes cuenta en Kraken todavía?** Regístrate usando [nuestro enlace de afiliado](https://invite.kraken.com/JDNW/2bz45mfj) y empieza a operar con criptomonedas desde España, Europa o Latinoamérica.
+👉 **¿No tienes cuenta en Kraken todavía?** Regístrate usando [nuestro enlace de afiliado](https://invite.kraken.com/JDNW/nmlddl67) y empieza a operar con criptomonedas desde España, Europa o Latinoamérica.
 
 ---
 

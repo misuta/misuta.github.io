@@ -187,7 +187,7 @@ Si decides dar el paso y comprar Bitcoin por primera vez, estas son las platafor
 
 - **[Coinbase](https://advanced.coinbase.com/join/9B4EBKZ)** — La más sencilla para empezar. Interfaz muy limpia, ideal si es tu primera vez. Disponible en español.
 - **[Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V)** — La plataforma más grande del mundo. Más opciones y comisiones algo más bajas, aunque la interfaz puede resultar un poco abrumadora al principio.
-- **[Kraken](https://invite.kraken.com/JDNW/hgnwussv)** — Muy reputada en Europa, con buen soporte y buena seguridad. Buena opción intermedia.
+- **[Kraken](https://invite.kraken.com/JDNW/nmlddl67)** — Muy reputada en Europa, con buen soporte y buena seguridad. Buena opción intermedia.
 
 > 🔗 **Nota de transparencia:** Los enlaces anteriores son enlaces de afiliado. Si te registras a través de ellos, es posible que yo reciba una pequeña comisión y/o que tú recibas un beneficio (como comisiones reducidas o un bono de bienvenida). Esto no tiene ningún coste adicional para ti y no influye en mi opinión sobre estas plataformas — las recomendaría igualmente. Siempre puedes buscarlas directamente en Google si lo prefieres.
 

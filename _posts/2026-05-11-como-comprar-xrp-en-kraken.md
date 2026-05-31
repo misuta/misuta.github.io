@@ -46,11 +46,11 @@ Kraken es uno de los exchanges más seguros y con mayor trayectoria del sector, 
 - **Depósito SEPA gratuito** — si estás en España o Europa, puedes ingresar euros sin pagar comisión.
 - **Interfaz en español** — disponible tanto en web como en la app móvil.
 
-Si aún no tienes cuenta, puedes abrirla aquí: [Registrarse en Kraken](https://invite.kraken.com/JDNW/2bz45mfj)
+Si aún no tienes cuenta, puedes abrirla aquí: [Registrarse en Kraken](https://invite.kraken.com/JDNW/nmlddl67)
 
 ## Paso 1: Crea tu cuenta en Kraken
 
-Ve a [Kraken](https://invite.kraken.com/JDNW/2bz45mfj) y haz clic en **"Crear cuenta"**. Necesitarás un correo electrónico y una contraseña segura.
+Ve a [Kraken](https://invite.kraken.com/JDNW/nmlddl67) y haz clic en **"Crear cuenta"**. Necesitarás un correo electrónico y una contraseña segura.
 
 Una vez registrado, recibirás un email de verificación. Confírmalo antes de continuar.
 
@@ -98,7 +98,7 @@ Comprar XRP en Kraken es un proceso sencillo que cualquier persona puede complet
 
 Si tienes cualquier duda, déjala en los comentarios. Y si esta guía te ha sido útil, puedes apoyar el blog usando el enlace de afiliado para registrarte en Kraken:
 
-👉 [Abrir cuenta en Kraken](https://invite.kraken.com/JDNW/2bz45mfj)
+👉 [Abrir cuenta en Kraken](https://invite.kraken.com/JDNW/nmlddl67)
 
 ---
 

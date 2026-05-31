@@ -102,7 +102,7 @@ Comprar Cardano en Kraken es un proceso sencillo que cualquier persona puede com
 
 Si esta guía te ha sido útil, puedes apoyar el blog usando el enlace de afiliado para registrarte en Kraken:
 
-👉 [Abrir cuenta en Kraken](https://invite.kraken.com/JDNW/2bz45mfj)
+👉 [Abrir cuenta en Kraken](https://invite.kraken.com/JDNW/nmlddl67)
 
 ---
 

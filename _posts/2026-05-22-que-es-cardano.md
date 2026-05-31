@@ -171,7 +171,7 @@ Sería incompleto no mencionar las críticas más habituales al proyecto:
 
 Si después de leer esto quieres adquirir ADA, estas son las plataformas más recomendadas, reguladas y disponibles tanto en España y Europa como en Latinoamérica:
 
-- **[Kraken](https://invite.kraken.com/JDNW/2bz45mfj)** — Muy reputada en Europa, con buen soporte y excelente seguridad. *(enlace de afiliado)*
+- **[Kraken](https://invite.kraken.com/JDNW/nmlddl67)** — Muy reputada en Europa, con buen soporte y excelente seguridad. *(enlace de afiliado)*
 - **[Coinbase](https://advanced.coinbase.com/join/9B4EBKZ)** — La más sencilla para principiantes. Interfaz muy limpia, disponible en español. *(enlace de afiliado)*
 - **[Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V)** — El exchange con mayor volumen del mundo, muy popular en Latinoamérica. *(enlace de afiliado)*
 

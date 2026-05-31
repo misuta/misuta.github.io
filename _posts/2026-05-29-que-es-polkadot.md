@@ -98,7 +98,7 @@ El ecosistema Polkadot tiene una presencia creciente en la comunidad hispanohabl
 
 Si te interesa explorar el ecosistema más allá de comprar DOT, vale la pena seguir los proyectos que se están construyendo sobre Polkadot, muchos de los cuales tienen interfaces y documentación en español.
 
-Si quieres empezar a operar con DOT, puedes hacerlo desde España, México, Argentina, Colombia y la mayoría de países hispanohablantes a través de [Kraken](https://invite.kraken.com/JDNW/2bz45mfj), [Coinbase](https://advanced.coinbase.com/join/9B4EBKZ) o [Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V).
+Si quieres empezar a operar con DOT, puedes hacerlo desde España, México, Argentina, Colombia y la mayoría de países hispanohablantes a través de [Kraken](https://invite.kraken.com/JDNW/nmlddl67), [Coinbase](https://advanced.coinbase.com/join/9B4EBKZ) o [Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V).
 
 *Aviso: los enlaces anteriores son de afiliado. Si te registras a través de ellos, recibo una pequeña comisión sin coste adicional para ti.*
 
@@ -121,7 +121,7 @@ Polkadot es uno de los proyectos más ambiciosos e innovadores del ecosistema cr
 
 No es un proyecto para sustituir a Bitcoin o Ethereum, sino para completar el ecosistema: una red de redes donde cada blockchain puede especializarse en lo que mejor sabe hacer, y comunicarse con todas las demás de forma segura y eficiente.
 
-Si quieres dar el siguiente paso y añadir DOT a tu cartera, en el próximo post te explicamos paso a paso cómo comprar Polkadot en [Kraken](https://invite.kraken.com/JDNW/2bz45mfj). También puedes explorar [Coinbase](https://advanced.coinbase.com/join/9B4EBKZ) y [Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V) como alternativas disponibles tanto en Europa como en Latinoamérica.
+Si quieres dar el siguiente paso y añadir DOT a tu cartera, en el próximo post te explicamos paso a paso cómo comprar Polkadot en [Kraken](https://invite.kraken.com/JDNW/nmlddl67). También puedes explorar [Coinbase](https://advanced.coinbase.com/join/9B4EBKZ) y [Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V) como alternativas disponibles tanto en Europa como en Latinoamérica.
 
 ---
 
@@ -134,7 +134,7 @@ Kusama es la red experimental de Polkadot, también llamada "red canario". Compa
 Como cualquier criptomoneda, DOT es un activo volátil y especulativo. Polkadot es un proyecto con una base técnica sólida y un equipo reconocido, pero eso no elimina el riesgo. Nunca inviertas más de lo que estás dispuesto a perder, y considera diversificar tu cartera.
 
 **¿Dónde puedo comprar DOT?**
-DOT está disponible en los principales exchanges del mundo, tanto en Europa como en América Latina. [Kraken](https://invite.kraken.com/JDNW/2bz45mfj), [Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V) y [Coinbase](https://advanced.coinbase.com/join/9B4EBKZ) son algunas de las plataformas más utilizadas. En el próximo post te explicamos paso a paso cómo comprarlo en Kraken.
+DOT está disponible en los principales exchanges del mundo, tanto en Europa como en América Latina. [Kraken](https://invite.kraken.com/JDNW/nmlddl67), [Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V) y [Coinbase](https://advanced.coinbase.com/join/9B4EBKZ) son algunas de las plataformas más utilizadas. En el próximo post te explicamos paso a paso cómo comprarlo en Kraken.
 
 **¿Polkadot tiene contratos inteligentes?**
 No directamente en la Relay Chain, que está diseñada para coordinación y seguridad. Sin embargo, varias parachains del ecosistema sí soportan contratos inteligentes, como **Moonbeam** (compatible con Ethereum) o **Astar**. Esto permite a los desarrolladores aprovechar la seguridad de Polkadot sin renunciar a la flexibilidad de los smart contracts.

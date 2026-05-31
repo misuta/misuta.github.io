@@ -106,7 +106,7 @@ Puedes seguir el conteo en tiempo real en webs como [nicehash.com/bitcoin-halvin
 
 Si este artículo te ha despertado el interés por invertir en Bitcoin, el primer paso es elegir un exchange de confianza. Yo uso y recomiendo **Kraken**, una plataforma con sede en Europa, con altos estándares de seguridad y disponible en español.
 
-👉 [Crea tu cuenta en Kraken](https://invite.kraken.com/JDNW/2bz45mfj) y compra tus primeros satoshis de forma segura.
+👉 [Crea tu cuenta en Kraken](https://invite.kraken.com/JDNW/nmlddl67) y compra tus primeros satoshis de forma segura.
 
 ---
 

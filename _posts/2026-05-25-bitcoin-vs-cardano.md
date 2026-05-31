@@ -99,7 +99,7 @@ Bitcoin y Cardano representan dos filosofías distintas dentro del mundo cripto.
 
 Si quieres dar el siguiente paso y adquirir alguna de estas criptomonedas, puedes hacerlo de forma segura en **Kraken**, uno de los exchanges más confiables disponibles tanto en España y Europa como en Latinoamérica.
 
-👉 [Crea tu cuenta en Kraken](https://invite.kraken.com/JDNW/2bz45mfj) y empieza a explorar el mundo cripto con una plataforma regulada y con años de experiencia en el mercado.
+👉 [Crea tu cuenta en Kraken](https://invite.kraken.com/JDNW/nmlddl67) y empieza a explorar el mundo cripto con una plataforma regulada y con años de experiencia en el mercado.
 
 ---
 

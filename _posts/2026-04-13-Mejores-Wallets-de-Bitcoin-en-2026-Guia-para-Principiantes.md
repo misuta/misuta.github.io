@@ -127,7 +127,7 @@ Si la transparencia y el open source son importantes para ti, Trezor es la elecc
 
 ## El error más común: dejar los Bitcoin en el exchange
 
-Muchos principiantes compran Bitcoin en un exchange como [Kraken](https://invite.kraken.com/JDNW/bsbfadwh) y los dejan ahí sin moverlos. Es comprensible — es cómodo y no tienes que configurar nada.
+Muchos principiantes compran Bitcoin en un exchange como [Kraken](https://invite.kraken.com/JDNW/nmlddl67) y los dejan ahí sin moverlos. Es comprensible — es cómodo y no tienes que configurar nada.
 
 Kraken es uno de los exchanges más seguros y regulados del mundo, y para empezar está bien. Pero si tu inversión crece, lo más prudente es mover tus Bitcoin a una wallet donde tú controles las claves.
 

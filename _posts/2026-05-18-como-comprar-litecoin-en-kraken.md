@@ -35,7 +35,7 @@ Kraken es una de las plataformas de intercambio de criptomonedas más respetadas
 
 Lo primero es registrarte en la plataforma. Es un proceso rápido y gratuito.
 
-👉 [Regístrate en Kraken aquí](https://invite.kraken.com/JDNW/2bz45mfj)
+👉 [Regístrate en Kraken aquí](https://invite.kraken.com/JDNW/nmlddl67)
 
 Durante el registro necesitarás:
 
@@ -120,7 +120,7 @@ Recuerda la regla de oro del mundo cripto: **"Not your keys, not your coins"**. 
 
 Kraken es una de las plataformas más sólidas y fiables para comprar Litecoin, tanto si estás en España, en el resto de Europa o en Latinoamérica. Su interfaz es intuitiva, sus tarifas son competitivas y su historial de seguridad habla por sí solo.
 
-👉 [Abre tu cuenta en Kraken y compra tus primeros Litecoin](https://invite.kraken.com/JDNW/2bz45mfj)
+👉 [Abre tu cuenta en Kraken y compra tus primeros Litecoin](https://invite.kraken.com/JDNW/nmlddl67)
 
 ---
 

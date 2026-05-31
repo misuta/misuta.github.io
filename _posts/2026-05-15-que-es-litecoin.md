@@ -120,7 +120,7 @@ Algunos puntos a favor:
 
 Si quieres comprar Litecoin, una de las opciones más seguras y reguladas tanto en España y Europa como en Latinoamérica es **Kraken**. Es un exchange con más de una década de trayectoria, disponible en español y con soporte para múltiples monedas locales.
 
-👉 [Abre tu cuenta en Kraken](https://invite.kraken.com/JDNW/2bz45mfj) *(enlace de afiliado — sin coste adicional para ti)*
+👉 [Abre tu cuenta en Kraken](https://invite.kraken.com/JDNW/nmlddl67) *(enlace de afiliado — sin coste adicional para ti)*
 
 ---
 

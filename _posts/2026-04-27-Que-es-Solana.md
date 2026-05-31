@@ -166,7 +166,7 @@ Las plataformas más reconocidas donde puedes comprar SOL son:
 
 - **[Coinbase](https://advanced.coinbase.com/join/9B4EBKZ)** — Ideal para principiantes, muy fácil de usar. *(enlace de afiliado)*
 - **[Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V)** — El exchange con mayor volumen del mundo, más opciones avanzadas. *(enlace de afiliado)*
-- **[Kraken](https://invite.kraken.com/JDNW/2bz45mfj)** — Conocido por su seguridad y reputación. *(enlace de afiliado)*
+- **[Kraken](https://invite.kraken.com/JDNW/nmlddl67)** — Conocido por su seguridad y reputación. *(enlace de afiliado)*
 
 ### Paso 2: Crea y verifica tu cuenta
 
@@ -197,3 +197,6 @@ Si quieres profundizar más en el ecosistema crypto, te recomendamos también le
 ---
 
 *¿Te fue útil esta guía? Compártela con alguien que esté comenzando en el mundo crypto. Y si tienes preguntas, déjalas en el correo.*
+
+
+---

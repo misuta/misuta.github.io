@@ -155,7 +155,7 @@ En cualquier caso, recuerda que invertir en criptomonedas conlleva riesgos. Nunc
 
 Si quieres empezar, **Kraken** es uno de los exchanges más seguros y regulados del mercado, disponible tanto en España y Europa como en Latinoamérica.
 
-👉 [Abre tu cuenta en Kraken](https://invite.kraken.com/JDNW/2bz45mfj){:target="_blank" rel="nofollow sponsored"} y compra Bitcoin o Litecoin de forma sencilla.
+👉 [Abre tu cuenta en Kraken](https://invite.kraken.com/JDNW/nmlddl67){:target="_blank" rel="nofollow sponsored"} y compra Bitcoin o Litecoin de forma sencilla.
 
 ---
 

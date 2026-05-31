@@ -107,7 +107,7 @@ Piénsalo así:
 
 Si quieres comprar Bitcoin o Ethereum de forma segura, estos son los tres exchanges más recomendados, disponibles en Europa y América Latina:
 
-- **[Kraken](https://invite.kraken.com/JDNW/2bz45mfj)** — Uno de los exchanges más regulados y con mejor reputación a nivel mundial. Ideal si estás en Europa. *(enlace de afiliado)*
+- **[Kraken](https://invite.kraken.com/JDNW/nmlddl67)** — Uno de los exchanges más regulados y con mejor reputación a nivel mundial. Ideal si estás en Europa. *(enlace de afiliado)*
 - **[Coinbase](https://advanced.coinbase.com/join/9B4EBKZ)** — Interfaz muy intuitiva, perfecta para principiantes. *(enlace de afiliado)*
 - **[Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V)** — El exchange con mayor volumen del mundo, muy popular en Latinoamérica. *(enlace de afiliado)*
 

@@ -55,7 +55,7 @@ Hay tres razones concretas por las que lo recomiendo para principiantes:
 
 ## Paso 1 — Crear tu cuenta
 
-Ve a [Kraken y crea tu cuenta gratuita](https://invite.kraken.com/JDNW/bh48mfx4) — el proceso tarda menos de 2 minutos.
+Ve a [Kraken y crea tu cuenta gratuita](https://invite.kraken.com/JDNW/nmlddl67) — el proceso tarda menos de 2 minutos.
 
 Rellena el formulario con tu correo electrónico y una contraseña segura. Usa una contraseña única que no uses en ningún otro sitio — estamos hablando de dinero real.
 
@@ -134,7 +134,7 @@ La regla de oro es: **compra en Kraken, guarda en tu wallet.**
 ## Preguntas frecuentes
 
 **¿Es seguro Kraken?**
-Sí. Kraken lleva operando desde 2011 sin hackeos significativos y está regulado en Europa. Es uno de los exchanges más seguros del mercado. Puedes [crear tu cuenta aquí](https://invite.kraken.com/JDNW/bh48mfx4) con total confianza.
+Sí. Kraken lleva operando desde 2011 sin hackeos significativos y está regulado en Europa. Es uno de los exchanges más seguros del mercado. Puedes [crear tu cuenta aquí](https://invite.kraken.com/JDNW/nmlddl67) con total confianza.
 
 **¿Cuánto tarda en verificarse mi cuenta?**
 Normalmente entre 10 minutos y 24 horas. En periodos de mucha demanda puede tardar algo más.
@@ -160,4 +160,4 @@ Si tienes dudas sobre algún paso concreto, déjame un comentario y te ayudo.
 
 ---
 
-*¿Ya tienes tu cuenta en Kraken? Puedes crearla desde [este enlace](https://invite.kraken.com/JDNW/bh48mfx4).*
+*¿Ya tienes tu cuenta en Kraken? Puedes crearla desde [este enlace](https://invite.kraken.com/JDNW/nmlddl67).*
