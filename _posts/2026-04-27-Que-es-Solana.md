@@ -7,6 +7,9 @@ categories: [educacion]
 tags: [solana, SOL, blockchain, criptomonedas, DeFi, proof-of-history]
 author: Mizuta
 image: /assets/images/que-es-solana.webp
+redirect_from:
+  - /criptomonedas/educaci%C3%B3n/2026/04/27/Qu%C3%A9-es-Solana.html
+  - /criptomonedas/educacion/2026/04/27/Que-es-Solana.html
 ---
 
 Si llevas algún tiempo en el mundo de las criptomonedas, seguramente has escuchado hablar de **Solana**. Es una de las blockchains más activas del ecosistema crypto y el nombre de su token nativo, **SOL**, aparece constantemente entre las criptomonedas más buscadas a nivel mundial.
