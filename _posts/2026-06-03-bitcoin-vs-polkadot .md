@@ -20,7 +20,7 @@ Bitcoin (BTC) es la primera criptomoneda de la historia, creada en 2009 por el s
 En 2026, Bitcoin sigue siendo el activo dominante del mercado cripto, con una capitalización de mercado que supera a cualquier otra criptomoneda por amplio margen. Los ETFs de Bitcoin al contado en EE.UU., aprobados en 2024, han abierto las puertas a inversores institucionales tanto en España y Europa como en mercados latinoamericanos como México, Brasil y Argentina.
 
 **Características clave de Bitcoin:**
-- Suministro máximo: 21 millones de BTC
+- Suministro máximo: 21 millones de BTC 
 - Consenso: Proof of Work (PoW)
 - Función principal: reserva de valor y medio de intercambio
 - Cuarto halving completado en abril de 2024
