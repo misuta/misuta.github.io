@@ -57,7 +57,7 @@ Hay dos formas:
 - **Validador:** necesitas al menos 2.000 AVAX y gestionar tu propio nodo. Participas directamente en el consenso.
 - **Delegador:** a partir de 25 AVAX puedes delegar tu stake a un validador existente y recibir recompensas sin gestionar infraestructura.
 
-Plataformas como Kraken también ofrecen staking de AVAX de forma simplificada para quienes prefieren no gestionar un nodo.
+Plataformas como [Kraken](https://invite.kraken.com/JDNW/nmlddl67) también ofrecen staking de AVAX de forma simplificada para quienes prefieren no gestionar un nodo.
 
 ## Avalanche vs. Ethereum
 
@@ -75,13 +75,13 @@ La C-Chain de Avalanche es compatible con Ethereum, lo que significa que cualqui
 
 El ecosistema de Avalanche incluye protocolos DeFi consolidados como **Trader Joe** y **Benqi**, y ha atraído colaboraciones con **AWS** y **Chainlink**. Tras el upgrade Etna, la reducción de comisiones en la C-Chain ha dinamizado la actividad de desarrolladores en España, Latinoamérica y el resto del mundo.
 
-El precio actual de AVAX ronda los **7-9 dólares** (junio 2026), con un máximo histórico de **144,96 dólares** en noviembre de 2021.
+El máximo histórico de AVAX fue de **144,96 dólares** en noviembre de 2021, lo que da una idea del potencial que el mercado le ha atribuido en momentos de euforia.
 
 ## ¿Es Avalanche una buena inversión?
 
 Toda inversión en criptomonedas conlleva riesgos. El mercado es altamente volátil y el precio de AVAX ha bajado más de un 95% desde su máximo histórico. Antes de tomar cualquier decisión, infórmate bien y no inviertas más de lo que puedas permitirte perder.
 
-Si quieres aprender a comprar AVAX de forma segura, en nuestra próxima guía te explicamos paso a paso cómo hacerlo en Kraken.
+Si quieres aprender a comprar AVAX de forma segura, en nuestra próxima guía te explicamos paso a paso cómo hacerlo en [Kraken](https://invite.kraken.com/JDNW/nmlddl67).
 
 ---
 
