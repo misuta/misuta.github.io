@@ -6,6 +6,8 @@ categories: [educacion]
 tags: [avalanche, avax, blockchain, defi, smart-contracts, altcoins]
 description: "Descubre qué es Avalanche (AVAX), cómo funciona su arquitectura de tres cadenas, qué son los Avalanche L1s y por qué es una de las alternativas más rápidas a Ethereum."
 image: /assets/images/que-es-avalanche.webp
+redirect_from:
+  - /educacion/2026/06/08/que-es-avalanche/
 ---
 
 Si buscas una blockchain rápida, barata y compatible con Ethereum, **Avalanche** es uno de los nombres que más se repite en el mundo cripto. Pero, ¿qué la hace diferente del resto?

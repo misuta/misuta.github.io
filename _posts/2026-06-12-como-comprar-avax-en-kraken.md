@@ -6,6 +6,8 @@ categories: guia
 tags: [avalanche, avax, kraken, comprar, guia]
 image: /assets/images/como-comprar-avax-en-kraken.webp
 description: "Aprende cómo comprar Avalanche (AVAX) en Kraken de forma segura. Guía paso a paso para usuarios de España, Europa y Latinoamérica."
+redirect_from:
+  - /guia/2026/06/12/como-comprar-avax-en-kraken/
 ---
 
 Si quieres saber qué es Avalanche antes de empezar, te recomendamos leer primero nuestra [introducción a Avalanche](https://mizuta.eu/educacion/2026/06/08/que-es-avalanche/). Si ya lo tienes claro y quieres dar el siguiente paso, esta guía te explica cómo comprar AVAX en Kraken de forma segura y sencilla.
