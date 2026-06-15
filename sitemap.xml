@@ -24,6 +24,9 @@ layout: null
     {% unless is_excluded or page.sitemap == false %}
   <url>
     <loc>{{ page.url | prepend: site.url }}</loc>
+    {% if page.date %}
+    <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+    {% endif %}
   </url>
     {% endunless %}
   {% endfor %}

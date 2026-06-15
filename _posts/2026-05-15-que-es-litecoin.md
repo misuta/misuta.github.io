@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Qué es Litecoin? La guía completa para hispanohablantes"
-date: 2026-05-15
+date: 2026-05-15 06:00:00 +0200
 categories: [educacion]
 tags: [litecoin, ltc, criptomonedas, bitcoin, blockchain]
 image: /assets/images/que-es-litecoin.webp
@@ -65,7 +65,9 @@ Si llevas algún tiempo en el mundo de las criptomonedas, seguramente has escuch
 
 Litecoin (LTC) es una criptomoneda creada en 2011 por Charlie Lee, un ex ingeniero de Google. Nació como una versión mejorada de Bitcoin: más rápida, más barata de usar y con una mayor cantidad de monedas disponibles.
 
-Durante años se le conoció como "la plata del Bitcoin" — si Bitcoin es el oro digital, Litecoin sería la plata. Una analogía que refleja bien su posición en el mercado: no aspira a destronar a Bitcoin, sino a complementarlo para usos cotidianos.
+Charlie Lee era ingeniero en Google cuando, en 2011, decidió hacer algo que pocos se atrevían: mejorar Bitcoin. No para competir con él, sino para resolver sus limitaciones prácticas. Esperar diez minutos para confirmar una transacción era demasiado para pagos cotidianos. Así que tomó el código de Bitcoin, lo modificó y lanzó Litecoin. Su objetivo era claro: crear una moneda digital más rápida y accesible para el día a día.
+
+Durante años se le conoció como "la plata del Bitcoin", y la analogía es más precisa de lo que parece. El oro se usa como reserva de valor — no lo sacas para pagar el café. La plata, en cambio, tiene un uso más industrial y cotidiano. Con Bitcoin y Litecoin ocurre algo similar: Bitcoin se ha consolidado como reserva de valor digital, mientras que Litecoin está pensado para mover dinero de verdad, rápido y con comisiones bajas.
 
 ---
 
@@ -100,6 +102,18 @@ Litecoin fue diseñado para ser una moneda de uso diario. Sus ventajas en veloci
 - **Enviar dinero internacionalmente** sin pasar por bancos ni pagar comisiones elevadas.
 - **Micropagos**: transferencias pequeñas donde las comisiones de Bitcoin serían desproporcionadas.
 - **Pagos entre particulares**: en comunidades de habla hispana de Europa y Latinoamérica, cada vez más personas usan Litecoin para enviarse dinero de forma rápida y económica.
+
+En términos prácticos, Litecoin sirve para todo lo que Bitcoin hace mal en el día a día: pagar sin esperar, transferir sin pagar comisiones desproporcionadas y hacerlo desde cualquier parte del mundo sin necesidad de un banco. En países de Latinoamérica con restricciones cambiarias o acceso limitado al sistema financiero tradicional, Litecoin se ha convertido en una herramienta real para mover valor entre personas.
+
+---
+
+## Litecoin y la privacidad: MimbleWimble
+
+Una de las novedades más importantes de Litecoin en los últimos años fue la implementación de **MimbleWimble Extension Blocks (MWEB)**, un protocolo que permite realizar transacciones con mayor privacidad, ocultando los importes transferidos.
+
+Esto diferencia a Litecoin de Bitcoin, donde todas las transacciones son públicas y trazables. Con MWEB, los usuarios que lo deseen pueden optar por transacciones más discretas, sin abandonar la red principal de Litecoin.
+
+Es una funcionalidad que pocos competidores han implementado a nivel de capa base, y que añade un caso de uso relevante para quienes valoran la privacidad financiera.
 
 ---
 
