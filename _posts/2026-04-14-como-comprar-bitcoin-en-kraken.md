@@ -6,6 +6,8 @@ date: 2026-04-14
 categories: [guia]
 tags: [bitcoin, kraken, comprar bitcoin, principiantes, europa]
 image: /assets/images/como-comprar-bitcoin-en-kraken.webp
+redirect_from:
+  - /exchanges/guias/2026/04/14/como-comprar-bitcoin-en-kraken.html
 
 faq:
   - question: "¿Es seguro comprar Bitcoin en Kraken?"
