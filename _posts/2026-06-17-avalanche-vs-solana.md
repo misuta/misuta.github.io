@@ -50,7 +50,7 @@ Solana fue creada por **Anatoly Yakovenko** (ex-Qualcomm) junto a Raj Gokal, y l
 ## Avalanche vs Solana: Comparativa directa
 
 | Característica | Avalanche (AVAX) | Solana (SOL) |
-|---|---|---|
+| --- | --- | --- |
 | **Año de lanzamiento** | 2020 | 2020 |
 | **Fundador** | Emin Gün Sirer | Anatoly Yakovenko |
 | **Arquitectura** | 3 cadenas + L1s soberanos | Cadena única monolítica |
