@@ -6,6 +6,8 @@ permalink: /2026/04/22/Que-es-la-Blockchain-y-por-que-importa-en-el-mundo-cripto
 categories: [educacion]
 tags: [blockchain, bitcoin, criptomonedas, descentralización, tecnología]
 image: /assets/images/que-es-la-blockchain.webp
+redirect_from:
+  - /criptomonedas/tecnolog%C3%ADa/2026/04/22/Qu%C3%A9-es-la-Blockchain-y-por-qu%C3%A9-importa-en-el-mundo-cripto.html
 ---
 
 ## La gran pregunta: ¿en quién confías?
