@@ -3,6 +3,111 @@
 
 @import "minima";
 
+// ── Dark mode: variables ─────────────────────────────────────
+:root {
+  --bg: #ffffff;
+  --bg-secondary: #f7f7f7;
+  --text: #111111;
+  --text-secondary: #555555;
+  --link: #2a7ae2;
+  --border: #e8e8e8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1a0a2e;
+    --bg-secondary: #241540;
+    --text: #f0eaf7;
+    --text-secondary: #b8a9cc;
+    --link: #1db87a;
+    --border: #3d2a5c;
+  }
+
+  :root:not([data-theme="light"]) .theme-toggle {
+    .icon-sun { display: none; }
+    .icon-moon { display: inline-block; }
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #1a0a2e;
+  --bg-secondary: #241540;
+  --text: #f0eaf7;
+  --text-secondary: #b8a9cc;
+  --link: #1db87a;
+  --border: #3d2a5c;
+}
+
+:root[data-theme="dark"] .theme-toggle {
+  .icon-sun { display: none; }
+  .icon-moon { display: inline-block; }
+}
+
+// ── Dark mode: apply to minima elements ──────────────────────
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.site-header, .site-footer {
+  background-color: var(--bg);
+  border-color: var(--border);
+}
+
+.site-title, .site-title:visited {
+  color: var(--text);
+}
+
+.site-nav .page-link {
+  color: var(--text);
+}
+
+.site-nav .trigger {
+  background-color: var(--bg);
+}
+
+a {
+  color: var(--link);
+}
+
+.post-content, .page-content, .home {
+  color: var(--text);
+
+  blockquote {
+    color: var(--text-secondary);
+    border-color: var(--border);
+  }
+
+  pre, code {
+    background-color: var(--bg-secondary);
+    color: var(--text);
+  }
+
+  table {
+    th, td { border-color: var(--border); }
+    tr:nth-child(even) { background-color: var(--bg-secondary); }
+  }
+}
+
+.footer-heading, .contact-list, .social-media-list {
+  color: var(--text);
+}
+
+// ── Theme toggle button ───────────────────────────────────────
+.theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+  color: var(--text);
+  float: right;
+  margin-top: 8px;
+
+  .icon-moon { display: none; }
+  .icon-sun { display: inline-block; }
+}
+
 // ── Featured image in post ──────────────────────────────────
 .post-featured-image {
   width: 100%;
