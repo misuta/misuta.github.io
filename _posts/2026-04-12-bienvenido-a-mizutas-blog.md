@@ -27,7 +27,7 @@ No necesitas saber programar. No necesitas ser economista. Solo necesitas querer
 
 Cada semana publicamos nuevo contenido pensado para acompañarte en cada etapa de tu aprendizaje:
 
-- **Guías paso a paso** para comprar, guardar y usar criptomonedas de forma segura.
+- **Guías paso a paso** para comprar, guardar y usar criptomonedas de forma segura, como [cómo comprar Bitcoin en Kraken](/2026/04/14/como-comprar-bitcoin-en-kraken/) o [qué wallet elegir](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/).
 - **Explicaciones claras** sobre conceptos como blockchain, wallets, halvings y más.
 - **Comparativas y análisis** para ayudarte a tomar decisiones informadas.
 

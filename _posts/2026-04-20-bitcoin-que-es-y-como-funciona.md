@@ -125,6 +125,8 @@ Son dispositivos parecidos a un USB, como Ledger o Trezor. Guardan la llave de f
 
 **¿Cuál elegir?** Para empezar y con cantidades pequeñas, un exchange conocido está bien. Si te tomas Bitcoin más en serio, lo ideal es mover tus fondos a una wallet donde controles tú las llaves.
 
+Si quieres profundizar en cuál te conviene según tu situación, tenemos una [guía completa de las mejores wallets de Bitcoin para principiantes](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/).
+
 ---
 
 ## ¿Cómo comprar Bitcoin por primera vez?
@@ -187,7 +189,7 @@ Si decides dar el paso y comprar Bitcoin por primera vez, estas son las platafor
 
 - **[Coinbase](https://advanced.coinbase.com/join/9B4EBKZ)** — La más sencilla para empezar. Interfaz muy limpia, ideal si es tu primera vez. Disponible en español.
 - **[Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V)** — La plataforma más grande del mundo. Más opciones y comisiones algo más bajas, aunque la interfaz puede resultar un poco abrumadora al principio.
-- **[Kraken](https://invite.kraken.com/JDNW/nmlddl67)** — Muy reputada en Europa, con buen soporte y buena seguridad. Buena opción intermedia.
+- **[Kraken](https://invite.kraken.com/JDNW/nmlddl67)** — Muy reputada en Europa, con buen soporte y buena seguridad. Buena opción intermedia. Si eliges Kraken, tenemos una [guía paso a paso para comprar tu primer Bitcoin](/2026/04/14/como-comprar-bitcoin-en-kraken/) que te lleva por todo el proceso.
 
 > 🔗 **Nota de transparencia:** Los enlaces anteriores son enlaces de afiliado. Si te registras a través de ellos, es posible que yo reciba una pequeña comisión y/o que tú recibas un beneficio (como comisiones reducidas o un bono de bienvenida). Esto no tiene ningún coste adicional para ti y no influye en mi opinión sobre estas plataformas — las recomendaría igualmente. Siempre puedes buscarlas directamente en Google si lo prefieres.
 

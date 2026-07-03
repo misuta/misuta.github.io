@@ -67,7 +67,7 @@ La hoja de ruta del proyecto sigue enfocada en aumentar la capacidad de procesam
 
 Como toda criptomoneda, POL es un activo volátil y su precio ha caído de forma significativa desde el máximo histórico de MATIC en 2021. Antes de invertir, infórmate bien, entiende los riesgos y nunca destines más dinero del que puedas permitirte perder.
 
-Si quieres aprender a comprar POL de forma segura, en nuestra próxima guía te explicamos paso a paso cómo hacerlo en [Kraken](https://invite.kraken.com/JDNW/nmlddl67).
+Si quieres aprender a comprar POL de forma segura, tenemos una [guía completa paso a paso](/2026/06/26/como-comprar-pol-kraken/) para comprarlo en [Kraken](https://invite.kraken.com/JDNW/nmlddl67).
 
 ---
 

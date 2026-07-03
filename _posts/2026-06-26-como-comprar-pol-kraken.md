@@ -78,7 +78,7 @@ Con fondos disponibles en tu cuenta, ya puedes comprar:
 Si eres principiante, es la opción más cómoda. Kraken es un exchange de confianza con buenas medidas de seguridad.
 
 **Opción 2: Retirarlo a una wallet propia**
-Si vas a mantener POL a largo plazo, lo más recomendable es moverlo a una **wallet de autocustodia**. Así tienes el control total de tus activos:
+Si vas a mantener POL a largo plazo, lo más recomendable es moverlo a una [**wallet de autocustodia**](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/). Así tienes el control total de tus activos:
 
 - **Trezor Safe 3** (entrada): [trezor.io](https://affil.trezor.io/SH13Y) — ideal para quien empieza con hardware wallets.
 - **Keystone** (opción air-gapped): [keyst.one](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) — sin conexión USB, máxima seguridad.
