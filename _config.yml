@@ -54,6 +54,11 @@ excerpt_separator: "<!--more-->"
 
 permalink: /:year/:month/:day/:title/
 
+# Puerto 4000 (y el rango bajo en general) queda reservado dinámicamente por
+# Windows/WinNAT en este equipo (Yumi), lo que provoca EADDRINUSE incluso sin
+# ningún proceso escuchando ahí. Usamos un puerto alto fuera del rango dinámico.
+port: 45678
+
 header_pages:
   - about.markdown
   - _pages/buscar.md
