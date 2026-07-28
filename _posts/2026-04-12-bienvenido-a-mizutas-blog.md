@@ -5,6 +5,8 @@ date: 2026-04-12
 categories: [educacion]
 tags: [bitcoin, bienvenida, educación, criptomonedas]
 image: /assets/images/2026-04-18-bienvenido-a-mizutas-blog.webp
+redirect_from:
+  - /bienvenida/2025/12/25/Welcome-to-the-Desert-of-the-Real.html
 ---
 
 ¿Alguna vez escuchaste hablar de Bitcoin y no entendiste nada? No te preocupes — este blog existe exactamente para eso.

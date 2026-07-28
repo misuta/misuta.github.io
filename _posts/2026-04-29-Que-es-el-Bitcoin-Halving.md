@@ -6,6 +6,8 @@ categories: [educacion]
 tags: [bitcoin, halving, minería, precio, oferta]
 description: "Descubre qué es el Bitcoin Halving, por qué ocurre cada cuatro años y cómo ha impactado históricamente el precio de BTC. Explicado de forma simple."
 image: /assets/images/bitcoin-halving.webp
+redirect_from:
+  - /2026/04/29/Qu%C3%A9-es-el-Bitcoin-Halving/
 ---
 
 Si llevas aunque sea unas semanas en el mundo de Bitcoin, es probable que hayas escuchado la palabra *halving*. Se menciona en foros, en redes sociales, en artículos de análisis… pero ¿qué significa exactamente? ¿Por qué tanta gente lo considera un evento tan importante?
