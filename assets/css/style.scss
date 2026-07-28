@@ -67,7 +67,7 @@ body {
   background-color: var(--bg);
 }
 
-a {
+a, a:link, a:visited {
   color: var(--link);
 }
 
