@@ -71,7 +71,7 @@ Si lo vas a usar para trading o como refugio temporal ante la volatilidad, tener
 Si vas a mantener USDT durante más tiempo o moverlo entre plataformas con frecuencia, lo más recomendable es usar una [**wallet de autocustodia**](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/):
 
 - **Trezor Safe 3** (entrada): [trezor.io](https://affil.trezor.io/SH13Y) — ideal para quien empieza con hardware wallets.
-- **Keystone** (opción air-gapped): [keyst.one](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) — permite firmar sin conexión (vía código QR), aunque también admite conexión USB si la prefieres.
+- **Keystone** (opción air-gapped): [keyst.one](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) — wallet air-gapped por defecto (firma vía código QR); también admite firmar por USB si lo prefieres, aunque el modo air-gapped es el más seguro.
 
 Recuerda elegir la red correcta (Ethereum, Tron, Solana, etc.) tanto al retirar como al recibir, ya que enviar USDT por una red equivocada puede hacer que se pierdan los fondos.
 

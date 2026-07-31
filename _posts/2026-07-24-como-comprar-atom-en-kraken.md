@@ -47,7 +47,7 @@ Para quien recién empieza, la orden de mercado es más simple; la orden límite
 Dejar tus fondos en el exchange es cómodo, pero no es tu custodia. Si piensas mantener tus ATOM a mediano ó largo plazo, considera retirarlos a una wallet propia. Dos opciones recomendadas:
 
 - [**Trezor**](https://affil.trezor.io/SH13Y) — hardware wallet con años de trayectoria y código abierto.
-- [**Keystone**](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) — wallet sin conexión Bluetooth/USB, pensada para máxima seguridad offline.
+- [**Keystone**](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) — wallet air-gapped por defecto (firma vía código QR); también admite firmar por USB si lo prefieres, aunque el modo air-gapped es el más seguro.
 
 ---
 
