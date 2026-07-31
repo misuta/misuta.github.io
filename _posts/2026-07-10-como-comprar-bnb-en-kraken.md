@@ -73,7 +73,7 @@ Si lo vas a usar para trading o para operar puntualmente, tenerlo en el propio e
 Si vas a usar BNB para interactuar con dApps en la BNB Chain o mantenerlo a largo plazo, lo más recomendable es usar una [**wallet de autocustodia**](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/):
 
 - **Trezor Safe 3** (entrada): [trezor.io](https://affil.trezor.io/SH13Y) — ideal para quien empieza con hardware wallets.
-- **Keystone** (opción air-gapped): [keyst.one](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) — wallet air-gapped por defecto (firma vía código QR); también admite firmar por USB si lo prefieres, aunque el modo air-gapped es el más seguro.
+- **Keystone** (opción air-gapped): [keyst.one](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) — wallet air-gapped por defecto (firma vía código QR); su modelo 3 Pro también habilita firmar por USB si lo prefieres, aunque el modo air-gapped es el más seguro.
 
 Recuerda seleccionar la red correcta (BNB Chain, BEP-20) al retirar y al recibir, ya que enviar BNB por una red equivocada puede hacer que se pierdan los fondos.
 
