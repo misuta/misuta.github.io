@@ -15,49 +15,4 @@
   gtag('js', new Date());
   gtag('config', '{{ site.ga_measurement_id }}');
 </script>
-
-<!-- Banner de consentimiento -->
-<div id="cookie-banner" style="display:none; position:fixed; bottom:0; left:0; right:0;
-  background:#1a1a1a; color:#fff; padding:20px; z-index:9999;
-  font-family:sans-serif; font-size:14px; text-align:center;">
-  <p style="margin:0 0 12px;">
-    Usamos cookies de analítica para entender cómo se usa este sitio.
-    Puedes aceptar o rechazar su uso.
-    <a href="/politica-de-cookies" style="color:#f7931a;">Más información</a>
-  </p>
-  <button onclick="aceptarCookies()" style="background:#f7931a; color:#fff;
-    border:none; padding:10px 24px; margin:0 8px; cursor:pointer; border-radius:4px;">
-    Aceptar
-  </button>
-  <button onclick="rechazarCookies()" style="background:transparent; color:#fff;
-    border:1px solid #fff; padding:10px 24px; margin:0 8px; cursor:pointer; border-radius:4px;">
-    Rechazar
-  </button>
-</div>
-
-<script>
-  // Mostrar banner si no hay decisión previa
-  if (!localStorage.getItem('cookie_consent')) {
-    document.getElementById('cookie-banner').style.display = 'block';
-  } else if (localStorage.getItem('cookie_consent') === 'accepted') {
-    activarAnalytics();
-  }
-
-  function aceptarCookies() {
-    localStorage.setItem('cookie_consent', 'accepted');
-    document.getElementById('cookie-banner').style.display = 'none';
-    activarAnalytics();
-  }
-
-  function rechazarCookies() {
-    localStorage.setItem('cookie_consent', 'rejected');
-    document.getElementById('cookie-banner').style.display = 'none';
-  }
-
-  function activarAnalytics() {
-    gtag('consent', 'update', {
-      'analytics_storage': 'granted'
-    });
-  }
-</script>
 {% endif %}
