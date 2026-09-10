@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Este blog es un intento personal de exponer mis ideas al mundo.   
-
-Aquí podrás encontrar cuentos cortos, ensayos, opiniones y otros escritos reflejando mi cosmovisión.
+Este blog es un recurso de educación crypto. Podras encontrar información 
+sobre bitcoin y altcoins.
 
 Espero lo disfruten.
 
