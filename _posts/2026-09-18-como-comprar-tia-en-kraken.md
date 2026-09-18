@@ -37,11 +37,12 @@ Kraken pide verificación de identidad (KYC) para operar con más límites. El p
 
 ## Paso 4: Compra TIA
 
-Busca el par TIA/EUR ó TIA/USD. Tienes dos opciones:
-- **Orden de mercado:** compras al precio actual, ejecución inmediata.
-- **Orden límite:** fijas el precio al que quieres comprar, y se ejecuta solo si el mercado llega a ese nivel.
+Busca el par TIA/EUR ó TIA/USD en el buscador de mercados de Kraken. Verás un panel de compra con dos pestañas u opciones de tipo de orden:
 
-Para quien recién empieza, la orden de mercado es más simple; la orden límite te da más control sobre el precio de entrada.
+- **Orden de mercado:** selecciona esta opción si quieres comprar al precio actual. Ingresa la cantidad de TIA que deseas (ó el monto en EUR/USD que quieres gastar) y confirma; la compra se ejecuta de inmediato al mejor precio disponible en ese momento.
+- **Orden límite:** selecciona esta opción si prefieres fijar tú el precio de entrada. Ingresa el precio al que quieres comprar y la cantidad de TIA; la orden queda pendiente y solo se ejecuta si el mercado llega a ese precio (puede tardar minutos, horas ó no llegar a ejecutarse si el precio nunca baja hasta ahí).
+
+Para quien recién empieza, la orden de mercado es más simple; la orden límite te da más control sobre el precio de entrada, aunque implica esperar a que se cumpla.
 
 ## Paso 5 (opcional pero recomendado): Retira tus TIA
 
