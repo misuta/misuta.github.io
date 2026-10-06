@@ -16,11 +16,11 @@ Renderizar una escena en 3D o entrenar un modelo de inteligencia artificial exig
 
 Render Network nació dentro de **OTOY**, la empresa de gráficos fundada en 2008 por **Jules Urbach** y creadora de **OctaneRender**, un motor de renderizado por GPU usado en cine y televisión. El problema que Urbach quería resolver era muy concreto: renderizar escenas complejas es lento y caro, mientras que miles de GPUs de particulares y pequeños estudios permanecen sin usar la mayor parte del tiempo.
 
-La red se anunció en 2017 y su token original, **RNDR**, se emitió como ERC-20 sobre [Ethereum](/2026/05/04/que-es-ethereum/). La red principal llegó en 2020, integrada con las herramientas de OTOY, lo que le dio desde el principio un público real dentro de la industria creativa.
+La red se anunció en 2017 y su token original, **RNDR**, se emitió como ERC-20 sobre [Ethereum](/2026/05/04/Que-es-Ethereum/). La red principal llegó en 2020, integrada con las herramientas de OTOY, lo que le dio desde el principio un público real dentro de la industria creativa.
 
 ## De RNDR a RENDER: la migración a Solana
 
-En 2023, tras una votación de la comunidad, Render decidió migrar a [Solana](/2026/04/27/que-es-solana/). La razón principal era práctica: una red que liquida muchos pagos pequeños por trabajos de cómputo necesita comisiones bajas y transacciones rápidas.
+En 2023, tras una votación de la comunidad, Render decidió migrar a [Solana](/2026/04/27/Que-es-Solana/). La razón principal era práctica: una red que liquida muchos pagos pequeños por trabajos de cómputo necesita comisiones bajas y transacciones rápidas.
 
 La migración se completó en noviembre de 2023 y el token pasó a llamarse **RENDER**, con un canje 1:1 desde RNDR. Por eso verás ambos nombres: RNDR es la versión original en Ethereum; RENDER, la actual en Solana. Desde entonces, los pagos, las recompensas y la gobernanza funcionan sobre Solana.
 
@@ -49,7 +49,7 @@ Este diseño se aprobó mediante la propia gobernanza de la red (RNP-001), igual
 
 Render nació para el renderizado 3D, la animación y los efectos visuales, y ese sigue siendo su núcleo: artistas independientes y estudios que necesitan potencia de GPU bajo demanda sin comprar ni mantener su propio hardware.
 
-Con el tiempo, la red se ha ampliado a otras cargas de trabajo de GPU, como la inferencia y el entrenamiento de modelos de inteligencia artificial. Es un movimiento lógico: la demanda de GPUs para IA ha crecido enormemente y las redes de cómputo descentralizado buscan su hueco en ese mercado. Esto sitúa a Render en un terreno donde también compite [Solana](/2026/04/27/que-es-solana/) como infraestructura, algo que exploraremos en nuestro próximo artículo.
+Con el tiempo, la red se ha ampliado a otras cargas de trabajo de GPU, como la inferencia y el entrenamiento de modelos de inteligencia artificial. Es un movimiento lógico: la demanda de GPUs para IA ha crecido enormemente y las redes de cómputo descentralizado buscan su hueco en ese mercado. Esto sitúa a Render en un terreno donde también compite [Solana](/2026/04/27/Que-es-Solana/) como infraestructura, algo que exploraremos en nuestro próximo artículo.
 
 ## Render frente a la nube tradicional
 
