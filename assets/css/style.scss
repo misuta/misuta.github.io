@@ -157,3 +157,31 @@ article img.post-list-image {
     margin-bottom: 0;
   }
 }
+
+// ── Zap button ───────────────────────────────────────────────
+.zap-wrapper {
+  margin: 2.5rem 0 1rem;
+  text-align: center;
+}
+
+.zap-note {
+  color: var(--text-secondary);
+  margin-bottom: 0.75rem;
+}
+
+.zap-button {
+  background: transparent;
+  color: #1db87a;
+  border: 2px solid #1db87a;
+  border-radius: 8px;
+  padding: 0.5rem 1.6rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.zap-button:hover {
+  background: #1db87a;
+  color: #1a0a2e;
+}
