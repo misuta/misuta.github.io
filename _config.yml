@@ -28,8 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mizuta.eu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MizutasBlog
 github_username:  misuta
-bitcoin_address: bc1qmm4kear4579f7fpn4cv2sj4hmacjusu3aduyrw
-lightning_address: toughprime914@walletofsatoshi.com
+lightning_address: mizuta@getalby.com
 ga_measurement_id: G-Q35N08830K
 google-site-verification: Tt-ImPa4Ehxokwk8kvzE1afzBOsUX6OrnKAP2JtzKGI
 
