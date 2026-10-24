@@ -21,7 +21,7 @@ Si pulsas **Aceptar** en el banner de cookies, se carga **Google Analytics 4** (
 - **Datos que se recogen:** páginas vistas, tiempo en la página, web de procedencia, ubicación aproximada (país/ciudad), tipo de dispositivo y navegador, y un identificador aleatorio guardado en una cookie. Google Analytics 4 no almacena direcciones IP.
 - **Base legal:** tu consentimiento (art. 6.1.a RGPD y § 25.1 TDDDG).
 - **Transferencias fuera de la UE:** los datos pueden ser tratados por Google LLC en EE. UU., certificada en el Marco de Privacidad de Datos UE–EE. UU.
-- **Conservación:** los datos se guardan durante el periodo configurado en Google Analytics y después se eliminan automáticamente.
+- **Conservación:** los datos a nivel de usuario y de evento se guardan durante 2 meses y después Google Analytics los elimina automáticamente. Las estadísticas agregadas (por ejemplo, el total de visitas) no contienen datos personales y pueden conservarse más tiempo.
 
 Puedes retirar tu consentimiento en cualquier momento desde **«Configurar cookies»** al pie de la página. Detalle de las cookies en la [Política de Cookies](/politica-de-cookies/).
 
