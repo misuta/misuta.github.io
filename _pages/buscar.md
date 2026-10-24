@@ -10,7 +10,7 @@ permalink: /buscar/
   <p id="no-results" style="display:none;">No se encontraron resultados.</p>
 </div>
 
-<script src="https://unpkg.com/simple-jekyll-search@1.10.0/dest/simple-jekyll-search.min.js"></script>
+<script src="/assets/js/simple-jekyll-search-1.10.0.min.js"></script>
 <script>
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
