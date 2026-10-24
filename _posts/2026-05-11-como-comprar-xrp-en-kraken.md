@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Cómo comprar XRP en Kraken (2026): guía paso a paso"
+title: "Cómo comprar XRP en Kraken (2026): pasos, comisiones y mínimo"
 date: 2026-05-11
 categories: [guia]
 tags: [kraken, xrp, ripple, comprar, afiliado]
 author: Yukio Mizuta
 image: /assets/images/como-comprar-xrp-en-kraken.webp
-description: "Cómo comprar XRP en Kraken paso a paso: registro, verificación, depósito SEPA o tarjeta y compra. Guía para principiantes en España y Latinoamérica."
+description: "Compra XRP en Kraken desde unos 10 USD: registro, verificación, depósito SEPA gratis o con tarjeta y comisiones reales. Guía para España y Latinoamérica."
 faq:
   - question: "¿Qué es XRP y para qué sirve?"
     answer: "XRP es la criptomoneda nativa de la red Ripple, diseñada para facilitar transferencias internacionales de dinero de forma rápida y barata. A diferencia de Bitcoin, XRP no es minado: todos los tokens fueron creados desde el principio y se distribuyen gradualmente."
