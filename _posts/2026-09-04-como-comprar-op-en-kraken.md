@@ -13,6 +13,8 @@ Ya vimos [¿qué es Optimism (OP)?](/2026/08/31/que-es-optimism-op/) y su Superc
 
 <!--more-->
 
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+
 ## Por qué Kraken para comprar OP
 
 Kraken es uno de los exchanges más antiguos del mercado, con buena reputación en seguridad y presencia regulatoria en Europa, Latinoamérica, EE.UU. y Canadá. Además, permite comprar OP directamente contra euros o dólares, sin pasos intermedios.

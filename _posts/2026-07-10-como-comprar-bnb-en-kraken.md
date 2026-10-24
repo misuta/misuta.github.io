@@ -12,6 +12,8 @@ Si ya sabes [qué es BNB](/2026/07/06/que-es-bnb/) y quieres empezar a usarlo, K
 
 <!--more-->
 
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+
 ## ¿Por qué comprar BNB en Kraken?
 
 Kraken es uno de los exchanges más veteranos y confiables del mercado, fundado en 2011 en San Francisco. Está disponible tanto en España y Europa como en la mayoría de países de Latinoamérica, y ofrece:

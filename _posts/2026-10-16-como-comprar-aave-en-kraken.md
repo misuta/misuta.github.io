@@ -13,6 +13,8 @@ Ya vimos [¿qué es Aave (AAVE)?](/2026/10/12/que-es-aave/) y su mercado de pré
 
 <!--more-->
 
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+
 ## Por qué Kraken para comprar AAVE
 
 Kraken es uno de los exchanges más antiguos del mercado, con buena reputación en seguridad y presencia regulatoria en Europa, Latinoamérica, EE.UU. y Canadá. Además, permite comprar AAVE directamente contra euros o dólares, sin pasos intermedios, aunque la disponibilidad de pares puede variar según tu país.

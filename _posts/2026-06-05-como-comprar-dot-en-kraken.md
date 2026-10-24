@@ -14,6 +14,8 @@ Kraken es uno de los exchanges más veteranos y regulados del mundo, disponible 
 
 <!--more-->
 
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+
 ## ¿Por qué Kraken para comprar DOT?
 
 Antes de entrar en los pasos, conviene saber por qué recomendamos Kraken:

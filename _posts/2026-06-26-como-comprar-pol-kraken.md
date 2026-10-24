@@ -14,6 +14,8 @@ La buena noticia: el proceso de compra es igual de sencillo. En esta guía te ex
 
 <!--more-->
 
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+
 ## ¿Qué es POL y por qué el cambio desde MATIC?
 
 POL es el token nativo de la red Polygon, una solución de escalabilidad Layer-2 construida sobre Ethereum. Su objetivo es hacer las transacciones más rápidas y baratas que en la red principal de Ethereum.

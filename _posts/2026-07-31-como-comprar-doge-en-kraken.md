@@ -13,6 +13,8 @@ Ya vimos [qué es Dogecoin y de dónde viene su comunidad](/2026/07/27/que-es-do
 
 <!--more-->
 
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+
 ## Por qué Kraken para comprar DOGE
 
 Kraken es uno de los exchanges más antiguos del mercado, con buena reputación en seguridad y presencia regulatoria tanto en Europa como en varios países de Latinoamérica. Además, permite comprar DOGE directamente contra euros ó dólares, sin pasos intermedios.

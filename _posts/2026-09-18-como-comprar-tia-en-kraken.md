@@ -13,6 +13,8 @@ Ya vimos [¿qué es Celestia (TIA)?](/2026/09/14/que-es-celestia/) y su enfoque 
 
 <!--more-->
 
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+
 ## Por qué Kraken para comprar TIA
 
 Kraken es uno de los exchanges más antiguos del mercado, con buena reputación en seguridad y presencia regulatoria en Europa, Latinoamérica, EE.UU. y Canadá. Además, permite comprar TIA directamente contra euros ó dólares, sin pasos intermedios.

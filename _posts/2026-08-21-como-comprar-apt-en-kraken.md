@@ -13,6 +13,8 @@ Ya vimos [¿qué es Aptos (APT)?](/2026/08/17/que-es-aptos-apt/) y su origen lig
 
 <!--more-->
 
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+
 ## Por qué Kraken para comprar APT
 
 Kraken es uno de los exchanges más antiguos del mercado, con buena reputación en seguridad y presencia regulatoria tanto en Europa como en varios países de Latinoamérica. Además, permite comprar APT directamente contra euros ó dólares, sin pasos intermedios.

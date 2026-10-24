@@ -13,6 +13,8 @@ Ya vimos [¿qué es Filecoin (FIL)?](/2026/10/19/que-es-filecoin-fil/) y su merc
 
 <!--more-->
 
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+
 ## Por qué Kraken para comprar FIL
 
 Kraken es uno de los exchanges más antiguos del mercado, con buena reputación en seguridad y presencia regulatoria en Europa, Latinoamérica, EE.UU. y Canadá. Permite comprar FIL directamente contra euros o dólares y, además, admite retiros a todos los formatos de dirección de Filecoin, algo que no todos los exchanges ofrecen. La disponibilidad de pares puede variar según tu país.
