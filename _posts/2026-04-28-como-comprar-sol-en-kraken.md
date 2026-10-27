@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cómo comprar SOL en Kraken (2026): pasos y red Solana"
-date: 2026-10-31 06:00:00 +0100
+date: 2026-04-28 06:00:00 +0200
 categories: [guia]
 tags: [solana, sol, kraken, guia, comprar-cripto]
 description: "Compra Solana (SOL) en Kraken en 5 pasos: depósito SEPA sin comisión, orden de mercado o límite y retiro por la red Solana a Phantom, Trezor o Keystone."

@@ -174,7 +174,7 @@ El espacio de blockchains de alto rendimiento es competitivo. Proyectos como Eth
 
 ## ¿Cómo comprar Solana (SOL)?
 
-Si después de entender qué es Solana quieres adquirir SOL, el proceso es sencillo a través de un exchange centralizado. Si quieres el paso a paso completo, lo tienes en nuestra guía [Cómo comprar SOL en Kraken](/2026/10/31/como-comprar-sol-en-kraken/).
+Si después de entender qué es Solana quieres adquirir SOL, el proceso es sencillo a través de un exchange centralizado. Si quieres el paso a paso completo, lo tienes en nuestra guía [Cómo comprar SOL en Kraken](/2026/04/28/como-comprar-sol-en-kraken/).
 
 ### Paso 1: Elige un exchange confiable
 
