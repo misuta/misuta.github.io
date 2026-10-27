@@ -112,6 +112,6 @@ Si este artículo te ha despertado el interés por invertir en Bitcoin, el prime
 
 ---
 
-*Aviso de transparencia: el enlace anterior es un enlace de afiliado. Si te registras a través de él, puedo recibir una comisión sin coste adicional para ti. Esto me ayuda a mantener el blog y seguir publicando contenido gratuito.*
+*Aviso de transparencia: el enlace anterior es un enlace de afiliado. Si te registras a través de él, puedo recibir una comisión sin coste adicional para ti. Esto nos ayuda a mantener el blog y seguir publicando contenido gratuito.*
 
 *Aviso legal: este artículo tiene únicamente fines informativos y educativos. No constituye asesoramiento financiero ni una recomendación de inversión. Invertir en criptomonedas conlleva riesgos; consulta a un asesor financiero antes de tomar decisiones de inversión.*

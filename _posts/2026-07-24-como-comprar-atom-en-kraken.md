@@ -13,7 +13,7 @@ Ya vimos [qué es Cosmos y cómo funciona su ecosistema de blockchains conectada
 
 <!--more-->
 
-> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el blog. Gracias por tu apoyo. 🙏
 
 ## Por qué Kraken para comprar ATOM
 

@@ -130,6 +130,6 @@ Litecoin es mucho más que una alternativa barata a Bitcoin. Es una criptomoneda
 
 ---
 
-*Aviso de afiliado: este artículo contiene enlaces de afiliado a Kraken. Si usas estos enlaces, el blog recibe una pequeña comisión sin coste adicional para ti.*
+*Aviso de afiliado: este artículo contiene enlaces de afiliado a Kraken. Si usas estos enlaces, recibimos una pequeña comisión sin coste adicional para ti.*
 
 *Este contenido es meramente informativo y no constituye asesoramiento financiero. Invertir en criptomonedas conlleva riesgos.*

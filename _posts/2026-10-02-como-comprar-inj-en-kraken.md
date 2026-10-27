@@ -13,7 +13,7 @@ Ya vimos [¿qué es Injective (INJ)?](/2026/09/28/que-es-injective-inj/) y su ap
 
 <!--more-->
 
-> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el blog. Gracias por tu apoyo. 🙏
 
 ## Por qué Kraken para comprar INJ
 
@@ -65,6 +65,6 @@ Comprar INJ en Kraken es un proceso rápido para toda la comunidad hispana, est�
 
 ---
 
-*Aviso de afiliado: este artículo contiene enlaces de afiliado a Kraken, Trezor y Keystone. Si usas estos enlaces, el blog recibe una pequeña comisión sin coste adicional para ti. Solo recomendamos servicios que consideramos de calidad.*
+*Aviso de afiliado: este artículo contiene enlaces de afiliado a Kraken, Trezor y Keystone. Si usas estos enlaces, recibimos una pequeña comisión sin coste adicional para ti. Solo recomendamos servicios que consideramos de calidad.*
 
 *Este contenido es meramente informativo y no constituye asesoramiento financiero. Invertir en criptomonedas conlleva riesgos.*

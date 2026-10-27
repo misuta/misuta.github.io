@@ -22,7 +22,7 @@ faq:
     answer: "Sí. Kraken ofrece la posibilidad de hacer staking de ADA directamente desde la plataforma y ganar recompensas sin necesidad de gestionar una wallet propia ni un nodo. Es una opción cómoda aunque con menor rendimiento que el staking nativo en la red Cardano."
 ---
 
-> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el blog. Gracias por tu apoyo. 🙏
 
 Si ya has leído nuestra guía sobre [qué es Cardano](/2026/05/22/que-es-cardano/), probablemente te estés preguntando cómo dar el siguiente paso y comprar ADA. En esta guía te explico cómo hacerlo en Kraken, uno de los exchanges más seguros y con mayor trayectoria del mercado, disponible tanto en España y Europa como en Latinoamérica.
 

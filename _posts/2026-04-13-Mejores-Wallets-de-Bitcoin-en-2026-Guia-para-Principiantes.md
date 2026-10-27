@@ -22,7 +22,7 @@ faq:
 
 ---
 
-> *Aviso: Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti.*
+> *Aviso: Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibimos una pequeña comisión sin coste adicional para ti.*
 
 ---
 

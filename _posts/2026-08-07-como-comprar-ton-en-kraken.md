@@ -13,7 +13,7 @@ Ya vimos [qué es Toncoin y su vínculo con Telegram](/2026/08/03/que-es-toncoin
 
 <!--more-->
 
-> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el blog. Gracias por tu apoyo. 🙏
 
 ## Por qué Kraken para comprar TON
 
@@ -59,6 +59,6 @@ Comprar TON en Kraken es un proceso rápido tanto si estás en España, el resto
 
 ---
 
-*Aviso de afiliado: este artículo contiene enlaces de afiliado a Kraken, Trezor y Keystone. Si usas estos enlaces para registrarte, el blog recibe una pequeña comisión sin coste adicional para ti. Solo recomendamos servicios que consideramos de calidad.*
+*Aviso de afiliado: este artículo contiene enlaces de afiliado a Kraken, Trezor y Keystone. Si usas estos enlaces para registrarte, recibimos una pequeña comisión sin coste adicional para ti. Solo recomendamos servicios que consideramos de calidad.*
 
 *Este contenido es meramente informativo y no constituye asesoramiento financiero. Invertir en criptomonedas conlleva riesgos.*

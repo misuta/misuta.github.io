@@ -20,7 +20,7 @@ faq:
     answer: "Sí. Kraken está disponible en España y en la mayoría de países de Latinoamérica. Desde España y Europa puedes depositar euros por transferencia SEPA sin comisión. Desde Latinoamérica las opciones varían por país: las más comunes son tarjeta de crédito o débito (con comisión de entre 1,5% y 3,5%) y transferencia bancaria internacional SWIFT. También puedes comprar otra cripto en un exchange local y depositarla en Kraken para operar desde ahí."
 ---
 
-> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibo una pequeña comisión sin coste adicional para ti. Esto me ayuda a mantener el blog. Gracias por tu apoyo. 🙏
+> **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el blog. Gracias por tu apoyo. 🙏
 
 Si ya sabes qué es Bitcoin y cómo funciona un exchange, quizás te estés preguntando qué otras criptomonedas vale la pena explorar. **XRP** es una de las más conocidas y con mayor liquidez del mercado, y comprarla en Kraken es igual de sencillo que comprar Bitcoin.
 

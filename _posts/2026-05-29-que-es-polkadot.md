@@ -100,7 +100,7 @@ Si te interesa explorar el ecosistema más allá de comprar DOT, vale la pena se
 
 Si quieres empezar a operar con DOT, puedes hacerlo desde España, México, Argentina, Colombia y la mayoría de países hispanohablantes a través de [Kraken](https://invite.kraken.com/JDNW/nmlddl67), [Coinbase](https://advanced.coinbase.com/join/9B4EBKZ) o [Binance](https://www.binance.com/referral/earn-together/refer2earn-usdc/claim?hl=en&ref=GRO_28502_IRL6V).
 
-*Aviso: los enlaces anteriores son de afiliado. Si te registras a través de ellos, recibo una pequeña comisión sin coste adicional para ti.*
+*Aviso: los enlaces anteriores son de afiliado. Si te registras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti.*
 
 ---
 

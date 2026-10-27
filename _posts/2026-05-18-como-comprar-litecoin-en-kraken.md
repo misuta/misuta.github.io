@@ -9,7 +9,7 @@ image: /assets/images/como-comprar-litecoin-en-kraken.webp
 author: Yukio Mizuta
 ---
 
-> **Nota de transparencia:** Este artículo contiene enlaces de afiliado a Kraken, Trezor y Keystone. Si te registras o compras a través de ellos, puedo recibir una comisión sin coste adicional para ti. Esto me ayuda a seguir creando contenido educativo gratuito.
+> **Nota de transparencia:** Este artículo contiene enlaces de afiliado a Kraken, Trezor y Keystone. Si te registras o compras a través de ellos, puedo recibir una comisión sin coste adicional para ti. Esto nos ayuda a seguir creando contenido educativo gratuito.
 
 Litecoin (LTC) es una de las criptomonedas más veteranas y consolidadas del mercado. Creada en 2011 por Charlie Lee, fue diseñada para ser más rápida y accesible que Bitcoin, y sigue siendo una de las opciones preferidas por muchos inversores en España, Europa y Latinoamérica.
 
