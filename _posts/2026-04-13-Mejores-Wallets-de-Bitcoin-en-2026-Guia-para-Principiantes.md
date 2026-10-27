@@ -107,7 +107,7 @@ Cuenta con una pantalla táctil grande, tres chips de seguridad independientes y
 **Plataformas:** Compatible con Windows, Mac, Linux  
 **Precio:** ~59€
 
-[Trezor](https://affil.trezor.io/aff_c?offer_id=169&aff_id=10383) es el otro gran nombre en hardware wallets. Tiene una ventaja importante sobre Keystone: el precio de entrada. Su firmware es completamente de código abierto, lo que significa que cualquier experto puede auditarlo.
+[Trezor](https://affil.trezor.io/SH13Y) es el otro gran nombre en hardware wallets. Tiene una ventaja importante sobre Keystone: el precio de entrada. Su firmware es completamente de código abierto, lo que significa que cualquier experto puede auditarlo.
 
 Si la transparencia y el open source son importantes para ti, Trezor es la elección.
 
@@ -123,7 +123,7 @@ Si la transparencia y el open source son importantes para ti, Trezor es la elecc
 | Acabo de comprar mis primeros Bitcoin (<500€) | [Exodus](https://www.exodus.com/) |
 | Uso Bitcoin principalmente desde el móvil | [BlueWallet](https://bluewallet.io/) |
 | Tengo más de 500€ y quiero máxima seguridad | [Keystone 3 Pro](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) |
-| Prefiero soluciones 100% open source | [Trezor Model 3](https://affil.trezor.io/aff_c?offer_id=169&aff_id=10383) |
+| Prefiero soluciones 100% open source | [Trezor Model 3](https://affil.trezor.io/SH13Y) |
 
 ---
 

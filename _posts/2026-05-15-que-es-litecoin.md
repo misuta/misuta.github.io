@@ -6,56 +6,19 @@ categories: [educacion]
 tags: [litecoin, ltc, criptomonedas, bitcoin, blockchain]
 image: /assets/images/que-es-litecoin.webp
 excerpt: "Litecoin es una de las criptomonedas más antiguas y consolidadas del mercado. Te explicamos qué es, cómo funciona y por qué sigue siendo relevante en 2026."
+author: Yukio Mizuta
+faq:
+  - question: "¿Qué es Litecoin?"
+    answer: "Litecoin (LTC) es una criptomoneda creada en 2011 por Charlie Lee, ex ingeniero de Google. Está basada en el código de Bitcoin pero con transacciones más rápidas y comisiones más bajas. Es una de las criptomonedas más antiguas y consolidadas del mercado."
+  - question: "¿En qué se diferencia Litecoin de Bitcoin?"
+    answer: "Litecoin genera un bloque cada ~2,5 minutos frente a los ~10 minutos de Bitcoin, tiene una oferta máxima de 84 millones de LTC (frente a 21 millones de BTC) y usa un algoritmo diferente llamado Scrypt."
+  - question: "¿Es Litecoin una buena inversión?"
+    answer: "Litecoin es una criptomoneda consolidada con más de una década de historial, alta liquidez y amplia disponibilidad en exchanges. Sin embargo, como cualquier criptomoneda, conlleva riesgo. Infórmate bien antes de invertir."
+  - question: "¿Dónde puedo comprar Litecoin?"
+    answer: "Litecoin está disponible en los principales exchanges internacionales, como Kraken, accesible para la comunidad hispana en España, Latinoamérica, EE.UU. y Canadá. Tenemos una guía paso a paso para comprar Litecoin en Kraken."
+  - question: "¿Cuántos Litecoin existen?"
+    answer: "La oferta máxima de Litecoin es de 84 millones de LTC. Al igual que Bitcoin, tiene un suministro limitado, a diferencia de las monedas tradicionales, que pueden emitirse sin límite."
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Qué es Litecoin?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Litecoin (LTC) es una criptomoneda creada en 2011 por Charlie Lee, ex ingeniero de Google. Está basada en el código de Bitcoin pero con mejoras en velocidad y coste de transacción. Se considera una de las criptomonedas más antiguas y consolidadas del mercado."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿En qué se diferencia Litecoin de Bitcoin?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Litecoin confirma transacciones cuatro veces más rápido que Bitcoin (2.5 minutos frente a 10 minutos) y tiene una oferta máxima de 84 millones de LTC, frente a los 21 millones de BTC. Además utiliza un algoritmo diferente llamado Scrypt."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Es Litecoin una buena inversión?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Litecoin es una criptomoneda consolidada con más de una década de historial, alta liquidez y amplia disponibilidad en exchanges. Sin embargo, como cualquier criptomoneda, conlleva riesgo. Siempre es recomendable informarse bien antes de invertir."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Dónde puedo comprar Litecoin desde España o Latinoamérica?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Litecoin está disponible en los principales exchanges internacionales como Kraken, que opera tanto en España y Europa como en la mayoría de países de Latinoamérica."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuántos Litecoin existen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "La oferta máxima de Litecoin es de 84 millones de LTC. Al igual que Bitcoin, tiene un suministro limitado, lo que lo diferencia de las monedas tradicionales que pueden emitirse sin límite."
-      }
-    }
-  ]
-}
-</script>
 
 Si llevas algún tiempo en el mundo de las criptomonedas, seguramente has escuchado hablar de Litecoin. Es una de las criptomonedas más antiguas del mercado y una de las pocas que ha sobrevivido a todos los ciclos del sector. Pero, ¿qué es exactamente y por qué sigue siendo relevante? Te lo explicamos.
 
@@ -92,6 +55,8 @@ Litecoin funciona sobre una blockchain propia, similar a la de Bitcoin pero con 
 | Algoritmo | SHA-256 | Scrypt |
 | Comisiones | Variables (pueden ser altas) | Generalmente bajas |
 | Caso de uso | Reserva de valor | Pagos rápidos del día a día |
+
+Si quieres la comparación completa, lee nuestro análisis [Bitcoin vs Litecoin](/2026/05/20/bitcoin-vs-litecoin/).
 
 ---
 
@@ -134,6 +99,8 @@ Algunos puntos a favor:
 
 Si quieres comprar Litecoin, una de las opciones más seguras y reguladas tanto en España y Europa como en Latinoamérica es **Kraken**. Es un exchange con más de una década de trayectoria, disponible en español y con soporte para múltiples monedas locales.
 
+Te explicamos todo el proceso en nuestra guía [Cómo comprar Litecoin en Kraken](/2026/05/18/como-comprar-litecoin-en-kraken/).
+
 👉 [Abre tu cuenta en Kraken](https://invite.kraken.com/JDNW/nmlddl67) *(enlace de afiliado — sin coste adicional para ti)*
 
 ---
@@ -149,8 +116,8 @@ Litecoin confirma transacciones en ~2,5 minutos frente a los ~10 de Bitcoin, tie
 **¿Es Litecoin una buena inversión?**
 Es una criptomoneda consolidada con más de una década de historial y alta liquidez. Como cualquier activo cripto, conlleva riesgo. Infórmate bien antes de invertir.
 
-**¿Dónde puedo comprar Litecoin desde España o Latinoamérica?**
-En exchanges como Kraken, disponible tanto en España y Europa como en la mayoría de países de Latinoamérica.
+**¿Dónde puedo comprar Litecoin?**
+En exchanges como Kraken, accesible para la comunidad hispana en España, Latinoamérica, EE.UU. y Canadá. Aquí tienes nuestra guía [Cómo comprar Litecoin en Kraken](/2026/05/18/como-comprar-litecoin-en-kraken/).
 
 **¿Cuántos Litecoin existen?**
 La oferta máxima es de 84 millones de LTC, un suministro limitado similar al de Bitcoin.
@@ -160,3 +127,9 @@ La oferta máxima es de 84 millones de LTC, un suministro limitado similar al de
 ## Conclusión
 
 Litecoin es mucho más que una alternativa barata a Bitcoin. Es una criptomoneda con más de una década de historia, tecnología sólida y un caso de uso claro: transacciones rápidas y económicas para el día a día. Si estás empezando en el mundo cripto o buscas una opción consolidada con la que experimentar, Litecoin merece estar en tu radar.
+
+---
+
+*Aviso de afiliado: este artículo contiene enlaces de afiliado a Kraken. Si usas estos enlaces, el blog recibe una pequeña comisión sin coste adicional para ti.*
+
+*Este contenido es meramente informativo y no constituye asesoramiento financiero. Invertir en criptomonedas conlleva riesgos.*
