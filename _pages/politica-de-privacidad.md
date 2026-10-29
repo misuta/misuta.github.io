@@ -4,11 +4,11 @@ title: "Política de Privacidad"
 permalink: /politica-de-privacidad/
 ---
 
-*Última actualización: 24 de octubre de 2026*
+*Última actualización: 29 de octubre de 2026*
 
 ## Responsable
 
-Este sitio lo gestiona Yukio Mizuta. Para cualquier cuestión sobre tus datos, escribe a [yukio.mizuta@protonmail.com](mailto:yukio.mizuta@protonmail.com).
+El responsable del tratamiento es Giovanni Ceballos Contreras (Yukio Mizuta), c/o Autorenglück #49349, Albert-Einstein-Straße 47, 02977 Hoyerswerda, Alemania. Para cualquier cuestión sobre tus datos, escribe a [mizuta@mizuta.eu](mailto:mizuta@mizuta.eu). Más datos en el [Impressum](/impressum/).
 
 ## Alojamiento
 
