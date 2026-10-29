@@ -8,7 +8,7 @@ permalink: /politica-de-privacidad/
 
 ## Responsable
 
-El responsable del tratamiento es Giovanni Ceballos Contreras (Yukio Mizuta), c/o Autorenglück #49349, Albert-Einstein-Straße 47, 02977 Hoyerswerda, Alemania. Para cualquier cuestión sobre tus datos, escribe a [mizuta@mizuta.eu](mailto:mizuta@mizuta.eu). Más datos en el [Impressum](/impressum/).
+El responsable del tratamiento es Giovanni Ceballos Contreras, c/o Autorenglück #49349, Albert-Einstein-Straße 47, 02977 Hoyerswerda, Alemania. Para cualquier cuestión sobre tus datos, escribe a [mizuta@mizuta.eu](mailto:mizuta@mizuta.eu). Más datos en el [Impressum](/impressum/).
 
 ## Alojamiento
 
