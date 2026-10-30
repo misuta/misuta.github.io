@@ -82,4 +82,4 @@ Si vas a enviar USDT por esta red, recuerda que la que elijas debe coincidir con
 
 ## Conclusión
 
-Tron es una blockchain rápida y barata que ha encontrado su gran nicho en el movimiento de stablecoins, especialmente de USDT en Latinoamérica. Su modelo de energía y ancho de banda la hace distinta a otras redes, pero su alta centralización y las polémicas que la rodean son factores que conviene tener presentes. En nuestro próximo artículo la compararemos con Ethereum, la otra gran red del USDT.
+Tron es una blockchain rápida y barata que ha encontrado su gran nicho en el movimiento de stablecoins, especialmente de USDT en Latinoamérica. Su modelo de energía y ancho de banda la hace distinta a otras redes, pero su alta centralización y las polémicas que la rodean son factores que conviene tener presentes. La comparamos con Ethereum, la otra gran red del USDT, en [Tron vs Ethereum](/2026/10/28/tron-vs-ethereum/). Y si quieres hacerte con algo de TRX, te lo explicamos paso a paso en [cómo comprar TRX en Kraken](/2026/10/30/como-comprar-trx-en-kraken/).

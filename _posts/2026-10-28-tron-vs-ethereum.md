@@ -145,7 +145,7 @@ Ojo: que las máquinas virtuales sean compatibles no significa que las redes est
 
 Tanto TRX como ETH están disponibles en **Kraken**, una opción habitual para la comunidad hispana en España, Europa, Latinoamérica, EE. UU. y Canadá, aunque conviene confirmar la disponibilidad según tu país.
 
-Puedes registrarte a través de nuestro [enlace de afiliado en Kraken](https://invite.kraken.com/JDNW/nmlddl67) sin coste adicional para ti. Ya tienes la guía [Cómo comprar Ethereum en Kraken](/2026/05/01/Como-comprar-Ethereum-en-Kraken/), y este viernes publicaremos la de TRX. Si prefieres guardar tus fondos en un monedero propio, [Trezor](https://affil.trezor.io/SH13Y) y [Keystone](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) son opciones habituales para la autocustodia; comprueba antes la compatibilidad con cada red.
+Puedes registrarte a través de nuestro [enlace de afiliado en Kraken](https://invite.kraken.com/JDNW/nmlddl67) sin coste adicional para ti. Ya tienes la guía [Cómo comprar Ethereum en Kraken](/2026/05/01/Como-comprar-Ethereum-en-Kraken/), y también la de [cómo comprar TRX en Kraken](/2026/10/30/como-comprar-trx-en-kraken/). Si prefieres guardar tus fondos en un monedero propio, [Trezor](https://affil.trezor.io/SH13Y) y [Keystone](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) son opciones habituales para la autocustodia; comprueba antes la compatibilidad con cada red.
 
 ## Conclusión
 
