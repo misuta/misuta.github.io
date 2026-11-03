@@ -14,7 +14,8 @@ Alemania
 
 ## Contacto
 
-Correo electrónico: [mizuta@mizuta.eu](mailto:mizuta@mizuta.eu)
+Correo electrónico: [mizuta@mizuta.eu](mailto:mizuta@mizuta.eu)  
+Formulario de contacto: [yukio-mizuta.autorenglück.me](https://yukio-mizuta.xn--autorenglck-1hb.me/)
 
 ## Responsable del contenido según el § 18, apdo. 2 MStV
 
