@@ -83,4 +83,6 @@ El suministro de STX está **limitado**: se emiten tokens nuevos cada año, pero
 
 Stacks propone algo que muchos consideraban imposible: contratos inteligentes y DeFi apoyados en la seguridad de Bitcoin, sin cambiar Bitcoin. Su Proof of Transfer y el Stacking con recompensas en BTC lo hacen único, y sBTC abre la puerta a usar bitcoin en aplicaciones descentralizadas. Aun así, sigue siendo una red distinta, con sus propios riesgos.
 
+Y si quieres hacerte con STX, te lo explicamos paso a paso en [cómo comprar STX en Kraken](/2026/11/06/como-comprar-stx-en-kraken/).
+
 Si lo que buscas es simplemente guardar tus bitcoins con seguridad, te recomendamos empezar por nuestra guía de [mejores wallets de Bitcoin](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/).
