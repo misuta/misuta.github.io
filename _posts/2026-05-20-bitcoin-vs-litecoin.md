@@ -104,7 +104,7 @@ Una de las diferencias más prácticas es la **velocidad de confirmación**. Lit
 
 Las **comisiones** en Litecoin también son significativamente más bajas. Si quieres enviar cripto a otra persona sin pagar mucho en tasas, Litecoin tiene ventaja en este aspecto.
 
-Dicho esto, Bitcoin ha desarrollado soluciones de segunda capa como la **Lightning Network**, que permite transacciones casi instantáneas y muy económicas, reduciendo esa brecha de forma considerable.
+Dicho esto, Bitcoin ha desarrollado soluciones de segunda capa como la **[Lightning Network](/2026/11/09/que-es-lightning-network/)**, que permite transacciones casi instantáneas y muy económicas, reduciendo esa brecha de forma considerable.
 
 ---
 

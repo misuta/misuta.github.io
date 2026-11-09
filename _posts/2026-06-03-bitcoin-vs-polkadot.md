@@ -26,7 +26,7 @@ En 2026, Bitcoin sigue siendo el activo dominante del mercado cripto, con una ca
 - Consenso: Proof of Work (PoW)
 - Función principal: reserva de valor y medio de intercambio
 - Cuarto halving completado en abril de 2024
-- Red de Lightning para pagos rápidos y baratos
+- Red de [Lightning](/2026/11/09/que-es-lightning-network/) para pagos rápidos y baratos
 
 ## ¿Qué es Polkadot?
 

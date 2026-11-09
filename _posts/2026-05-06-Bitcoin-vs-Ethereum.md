@@ -37,6 +37,8 @@ Esta diferencia de origen lo explica todo lo que viene después.
 | Suministro máximo | 21 millones de BTC | Sin límite fijo |
 | Consenso | Prueba de trabajo (PoW) | Prueba de participación (PoS) |
 
+Esos ~10 minutos son los de la cadena principal: para pagos del día a día, Bitcoin usa [Lightning Network](/2026/11/09/que-es-lightning-network/), que confirma pagos en segundos.
+
 ### 2. Contratos inteligentes: la gran ventaja de Ethereum
 
 Un **contrato inteligente** es un programa que se ejecuta automáticamente cuando se cumplen ciertas condiciones, sin necesidad de intermediarios. Sobre Ethereum corren aplicaciones DeFi (finanzas descentralizadas), NFTs, DAOs, protocolos de préstamo y mucho más.

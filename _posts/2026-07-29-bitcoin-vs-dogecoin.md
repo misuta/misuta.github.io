@@ -41,6 +41,8 @@ La diferencia estructural más importante es la **oferta monetaria**. Bitcoin ti
 
 Esto se traduce también en percepción de mercado. Bitcoin se asocia con convicción a largo plazo, educación financiera y seriedad institucional. Dogecoin se apoya en el humor, la cultura de internet y una identidad mucho más ligera, lo que también influye en cómo cada comunidad reacciona ante la volatilidad.
 
+Dogecoin suele presentarse como moneda para propinas y pagos pequeños, un terreno que en Bitcoin cubre [Lightning Network](/2026/11/09/que-es-lightning-network/), con pagos en segundos y comisiones mínimas.
+
 ## ¿Cuál te conviene?
 
 **Elige Bitcoin si...**

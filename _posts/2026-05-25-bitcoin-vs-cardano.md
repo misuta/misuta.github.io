@@ -46,6 +46,8 @@ Cardano se diferencia por su enfoque académico y científico: cada actualizaci�
 | **Capitalización de mercado** | La más alta del sector | Top 10 habitualmente |
 | **Descentralización** | Muy alta | Alta |
 
+Los ~7 TPS de Bitcoin se refieren a su cadena principal; para pagos rápidos existe [Lightning Network](/2026/11/09/que-es-lightning-network/), que procesa pagos en segundos fuera de la cadena.
+
 ---
 
 ## Casos de uso: ¿para qué sirve cada uno?

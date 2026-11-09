@@ -113,7 +113,7 @@ A pesar de sus diferencias, Bitcoin y XRP comparten algunas características:
 
 La diferencia más importante es **filosófica**:
 
-**Bitcoin** fue creado para escapar del sistema financiero tradicional. Es abierto, sin dueño y resistente a la censura.
+**Bitcoin** fue creado para escapar del sistema financiero tradicional. Es abierto, sin dueño y resistente a la censura. Para pagos rápidos y baratos, también entre países, cuenta con su segunda capa, [Lightning Network](/2026/11/09/que-es-lightning-network/), sin depender de bancos.
 
 **XRP** fue creado para mejorar ese sistema desde dentro. Ripple colabora con bancos y reguladores, no los evita.
 

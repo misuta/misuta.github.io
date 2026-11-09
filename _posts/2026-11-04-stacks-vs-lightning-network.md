@@ -30,7 +30,7 @@ Bitcoin es la red más segura del mundo cripto, pero también lenta y limitada a
 
 Lightning Network es una red de **canales de pago** construida sobre Bitcoin. La propusieron **Joseph Poon** y **Thaddeus Dryja** en 2015, y sus primeras implementaciones llegaron a la red principal en 2018.
 
-Su objetivo es uno: que puedas **pagar con bitcoin al instante y con comisiones mínimas**, incluso cantidades muy pequeñas, algo que en la cadena principal de Bitcoin sería lento y caro.
+Su objetivo es uno: que puedas **pagar con bitcoin al instante y con comisiones mínimas**, incluso cantidades muy pequeñas, algo que en la cadena principal de Bitcoin sería lento y caro. Te lo explicamos a fondo en [¿Qué es Lightning Network?](/2026/11/09/que-es-lightning-network/).
 
 **Características clave de Lightning:**
 
