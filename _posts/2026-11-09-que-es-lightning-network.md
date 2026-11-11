@@ -84,6 +84,8 @@ Lightning es también la respuesta de Bitcoin a quienes lo critican por lento o 
 
 Lightning Network convierte a Bitcoin en dinero para el día a día: pagos en segundos, comisiones mínimas y ningún token nuevo, solo BTC. No sustituye a la cadena principal, la complementa: la cadena para ahorrar y liquidar con la máxima seguridad, Lightning para gastar y enviar.
 
+Y si dudas entre enviar por la cadena o por Lightning, te lo explicamos en [Bitcoin on-chain vs Lightning: cuándo usar cada uno](/2026/11/11/bitcoin-on-chain-vs-lightning/).
+
 Si quieres ver cómo se compara con otra forma de ampliar Bitcoin, te lo contamos en [Stacks vs Lightning Network](/2026/11/04/stacks-vs-lightning-network/).
 
 ---
