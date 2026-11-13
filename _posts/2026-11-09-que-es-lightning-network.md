@@ -65,7 +65,7 @@ Lightning necesita una wallet **conectada a internet**, así que no es el sitio 
 - **Micropagos:** cantidades de unos pocos sats que en la cadena principal no tendrían sentido.
 - **Zaps en Nostr:** en la red social descentralizada Nostr puedes enviar propinas en sats a una publicación con un solo toque.
 - **Remesas:** enviar dinero entre países en segundos y casi sin comisiones, algo muy útil en Latinoamérica. Ya comparamos opciones de pagos internacionales en [Bitcoin vs XRP](/2026/05/13/bitcoin-vs-xrp/).
-- **Mover BTC entre exchanges y wallets:** exchanges como Kraken permiten depositar y retirar bitcoin por Lightning, más rápido y barato que en la cadena. Si aún no tienes BTC, te lo explicamos en [cómo comprar Bitcoin en Kraken](/2026/04/14/como-comprar-bitcoin-en-kraken/).
+- **Mover BTC entre exchanges y wallets:** exchanges como Kraken permiten depositar y retirar bitcoin por Lightning, más rápido y barato que en la cadena. Te enseñamos a hacerlo paso a paso en [Lightning en Kraken: enviar y recibir bitcoin](/2026/11/13/lightning-en-kraken-enviar-y-recibir-bitcoin/) y, si aún no tienes BTC, en [cómo comprar Bitcoin en Kraken](/2026/04/14/como-comprar-bitcoin-en-kraken/).
 
 Lightning es también la respuesta de Bitcoin a quienes lo critican por lento o caro. Lo vimos al comparar [Bitcoin vs Litecoin](/2026/05/20/bitcoin-vs-litecoin/): la cadena principal prioriza la seguridad y Lightning aporta la velocidad.
 

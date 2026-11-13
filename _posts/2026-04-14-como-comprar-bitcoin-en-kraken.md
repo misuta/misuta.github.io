@@ -131,6 +131,8 @@ La práctica recomendada es transferir tus Bitcoin a una wallet propia donde tú
 
 La regla de oro es: **compra en Kraken, guarda en tu wallet.**
 
+¿Quieres llevar una cantidad pequeña a una wallet para gastar? Puedes retirarla por Lightning en segundos: te lo explicamos en [Lightning en Kraken: enviar y recibir bitcoin](/2026/11/13/lightning-en-kraken-enviar-y-recibir-bitcoin/).
+
 ---
 
 ## Preguntas frecuentes

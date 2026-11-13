@@ -168,7 +168,7 @@ No es una cosa o la otra: lo habitual es combinarlas. El grueso de tus bitcoins,
 
 [Kraken](https://invite.kraken.com/JDNW/nmlddl67) permite **depositar y retirar BTC tanto on-chain como por Lightning**. Al retirar, eliges la red: Lightning para llevar una cantidad pequeña a tu wallet de gasto en segundos, on-chain para enviar tus ahorros a tu Trezor o Keystone. Si aún no tienes bitcoin, te lo explicamos paso a paso en [Cómo comprar Bitcoin en Kraken](/2026/04/14/como-comprar-bitcoin-en-kraken/).
 
-Puedes registrarte a través de nuestro [enlace de afiliado en Kraken](https://invite.kraken.com/JDNW/nmlddl67) sin coste adicional para ti, estés en España, Europa, Latinoamérica, EE. UU. o Canadá. Y este viernes publicamos una guía paso a paso para enviar y recibir bitcoin por Lightning en Kraken.
+Puedes registrarte a través de nuestro [enlace de afiliado en Kraken](https://invite.kraken.com/JDNW/nmlddl67) sin coste adicional para ti, estés en España, Europa, Latinoamérica, EE. UU. o Canadá. Y si quieres ver el proceso paso a paso, te lo explicamos en [Lightning en Kraken: enviar y recibir bitcoin](/2026/11/13/lightning-en-kraken-enviar-y-recibir-bitcoin/).
 
 ## Conclusión
 
