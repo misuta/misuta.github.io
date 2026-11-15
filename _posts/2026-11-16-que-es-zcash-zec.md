@@ -94,7 +94,7 @@ Si quieres guardar ZEC a largo plazo, lo más seguro es una wallet de hardware. 
 
 Zcash toma la base monetaria de Bitcoin (21 millones, prueba de trabajo, halvings) y le añade algo que Bitcoin no tiene: **privacidad real a nivel de protocolo**, opcional y verificable con viewing keys. Con NU7 es además más rápida que nunca.
 
-Su gran incógnita no es técnica sino regulatoria. Si te interesa la privacidad financiera, merece la pena entenderla bien antes de comprar. En los próximos días la comparamos con su gran rival, Monero, y te enseñamos a comprar ZEC paso a paso en Kraken.
+Su gran incógnita no es técnica sino regulatoria. Si te interesa la privacidad financiera, merece la pena entenderla bien antes de comprar. El miércoles la comparamos con su gran rival, Monero, y el viernes te enseñamos a comprar ZEC paso a paso en Kraken.
 
 ---
 
