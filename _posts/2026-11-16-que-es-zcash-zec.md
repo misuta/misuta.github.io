@@ -77,7 +77,7 @@ El **5 de noviembre de 2026** se activó en la red principal **NU7**, una de las
 
 Para aprovechar la privacidad de Zcash necesitas una wallet que admita **direcciones blindadas**; muchas wallets multimoneda solo admiten las transparentes.
 
-Si quieres guardar ZEC a largo plazo, lo más seguro es una wallet de hardware. [Keystone](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) admite **ZEC blindado** conectándola a la wallet móvil oficial de Zcash. [Trezor](https://affil.trezor.io/SH13Y), por ahora, solo admite **direcciones transparentes**. Las bases de la autocustodia te las explicamos en [mejores wallets de Bitcoin](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/).
+Si quieres guardar ZEC a largo plazo, lo más seguro es una wallet de hardware. [Keystone](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) admite ZEC transparente con su firmware multimoneda y **ZEC blindado** con su firmware Cypherpunk, conectándola a la wallet móvil oficial de Zcash. [Trezor](https://affil.trezor.io/SH13Y), por ahora, solo admite **direcciones transparentes**. Las bases de la autocustodia te las explicamos en [mejores wallets de Bitcoin](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/).
 
 ## Riesgos a considerar
 
@@ -94,7 +94,7 @@ Si quieres guardar ZEC a largo plazo, lo más seguro es una wallet de hardware. 
 
 Zcash toma la base monetaria de Bitcoin (21 millones, prueba de trabajo, halvings) y le añade algo que Bitcoin no tiene: **privacidad real a nivel de protocolo**, opcional y verificable con viewing keys. Con NU7 es además más rápida que nunca.
 
-Su gran incógnita no es técnica sino regulatoria. Si te interesa la privacidad financiera, merece la pena entenderla bien antes de comprar. El miércoles la comparamos con su gran rival, Monero, y el viernes te enseñamos a comprar ZEC paso a paso en Kraken.
+Su gran incógnita no es técnica sino regulatoria. Si te interesa la privacidad financiera, merece la pena entenderla bien antes de comprar. La comparamos con su gran rival en [Zcash vs Monero](/2026/11/18/zcash-vs-monero/), y el viernes te enseñamos a comprar ZEC paso a paso en Kraken.
 
 ---
 
