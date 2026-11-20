@@ -89,7 +89,7 @@ Las dos usan **prueba de trabajo**, pero con filosofías opuestas.
 
 ## Velocidad: tiempos de bloque
 
-Desde la actualización **NU7** (5 de noviembre de 2026), Zcash produce un bloque cada **25 segundos**. Monero produce uno cada **unos 2 minutos**. En los dos casos, un pago queda confirmado mucho antes que en Bitcoin, aunque los exchanges suelen pedir varias confirmaciones antes de abonarte un depósito.
+Desde la actualización **NU7** (6 de noviembre de 2026), Zcash produce un bloque cada **25 segundos**. Monero produce uno cada **unos 2 minutos**. En los dos casos, un pago queda confirmado mucho antes que en Bitcoin, aunque los exchanges suelen pedir varias confirmaciones antes de abonarte un depósito.
 
 ## Exchanges y regulación
 
@@ -152,7 +152,7 @@ Te contamos más sobre autocustodia en [mejores wallets de Bitcoin](/2026/04/13/
 
 Zcash y Monero persiguen lo mismo, la privacidad financiera, con filosofías opuestas. Monero apuesta por la **privacidad obligatoria para todos**, con una comunidad sin empresa al frente y una minería abierta a cualquiera. Zcash apuesta por la **privacidad opcional**, con una criptografía más avanzada y la flexibilidad de ser transparente cuando haga falta, y eso le ha permitido seguir en los exchanges regulados de Europa.
 
-Si te interesa Zcash, el viernes te enseñamos a comprar ZEC paso a paso en Kraken.
+Si te interesa Zcash, te enseñamos paso a paso [cómo comprar ZEC en Kraken](/2026/11/20/como-comprar-zec-en-kraken/) y cómo blindarlo después en tu wallet.
 
 ---
 
