@@ -337,4 +337,20 @@
     var path = document.createElementNS(ns, 'path'); path.setAttribute('d', d); s.appendChild(path);
     return s;
   }
+
+  /* ── Copiar enlace de suscripción ── */
+  var btnCopiar = document.getElementById('cal-copiar');
+  if (btnCopiar && navigator.clipboard && window.isSecureContext) {
+    btnCopiar.hidden = false;
+    var textoCopiar = btnCopiar.textContent;
+    btnCopiar.addEventListener('click', function () {
+      navigator.clipboard.writeText(btnCopiar.getAttribute('data-url')).then(function () {
+        btnCopiar.textContent = '¡Copiado!';
+        setTimeout(function () { btnCopiar.textContent = textoCopiar; }, 2000);
+      }, function () {
+        btnCopiar.textContent = 'No se pudo copiar';
+        setTimeout(function () { btnCopiar.textContent = textoCopiar; }, 2000);
+      });
+    });
+  }
 })();

@@ -341,6 +341,7 @@ article img.post-list-image {
   text-decoration: none;
 }
 .cal-btn:hover { border-color: var(--cal-acento); text-decoration: none; }
+button.cal-btn { background: transparent; font: inherit; font-weight: 600; cursor: pointer; }
 .cal-btn--primario,
 .cal-btn--primario:visited { background: #6d28d9; border-color: #6d28d9; color: #ffffff; }
 .cal-btn--primario:hover { background: #5b21b6; color: #ffffff; }
