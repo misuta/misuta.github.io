@@ -4,9 +4,10 @@ title: "¿Qué es Chainlink (LINK)? Los oráculos, explicados"
 date: 2026-06-01 06:00:00 +0200
 categories: [educacion]
 tags: [chainlink, link, oracles, contratos-inteligentes, defi, altcoins]
-description: "Qué es Chainlink: el problema del oráculo, cómo sus nodos verifican datos en 5 pasos, para qué sirve el token LINK, CCIP y qué riesgos tiene."
+description: "Qué es Chainlink: oráculos push y pull, CCIP 2.0, staking de LINK, la Chainlink Reserve y sus riesgos. Actualizado a noviembre de 2026."
 image: /assets/images/que-es-chainlink.webp
 author: Yukio Mizuta
+last_modified_at: 2026-11-23
 ---
 
 ¿Alguna vez te preguntaste cómo sabe un contrato inteligente el resultado de un partido de fútbol o el precio del dólar en tiempo real? La respuesta tiene nombre propio: **Chainlink**. En este artículo te explicamos qué es, cómo funciona y por qué es una de las piezas más importantes del ecosistema cripto, estés en España, Europa o Latinoamérica.
@@ -31,7 +32,7 @@ El riesgo de los oráculos centralizados es obvio: si un único proveedor de dat
 
 ## Chainlink: oráculos descentralizados
 
-Chainlink, lanzado en 2019 por Sergey Nazarov y Steve Ellis, resuelve este problema con una red de oráculos descentralizada. En lugar de depender de una sola fuente, Chainlink recopila datos de múltiples nodos independientes, los agrega y los verifica mediante consenso antes de entregarlos a la blockchain.
+Chainlink, presentado en 2017 por Sergey Nazarov y Steve Ellis y con red principal desde 2019, resuelve este problema con una red de oráculos descentralizada. En lugar de depender de una sola fuente, Chainlink recopila datos de múltiples nodos independientes, los agrega y los verifica mediante consenso antes de entregarlos a la blockchain.
 
 El proceso funciona así:
 
@@ -43,6 +44,13 @@ El proceso funciona así:
 
 Este mecanismo elimina los puntos únicos de fallo y hace que manipular los datos sea extremadamente costoso.
 
+### Dos formas de entregar los datos
+
+- **Data Feeds (modelo push):** la red publica los datos on-chain cada cierto tiempo o cuando el precio se mueve lo suficiente. Es el sistema clásico que usan protocolos de préstamos como Aave.
+- **Data Streams (modelo pull):** los datos se actualizan fuera de la cadena con muy baja latencia y la aplicación los trae a la blockchain, verificados, justo cuando los necesita. Está pensado para exchanges descentralizados y derivados. En 2026 se amplió a acciones y ETF de EE. UU. y a precios de fin de semana para activos tokenizados.
+
+Este modelo pull es el que popularizó su gran rival, [Pyth Network](/2026/11/23/que-es-pyth-network-pyth/); hoy Chainlink ofrece los dos.
+
 ## ¿Para qué se usa Chainlink?
 
 Chainlink es hoy una infraestructura crítica del ecosistema Web3. Sus principales casos de uso incluyen:
@@ -53,16 +61,19 @@ Chainlink es hoy una infraestructura crítica del ecosistema Web3. Sus principal
 
 **Apuestas deportivas y juegos:** Para distribuir ganancias de forma automática y justa, los contratos necesitan resultados verificados de partidos y eventos.
 
-**Interoperabilidad entre cadenas:** A través de su protocolo CCIP (*Cross-Chain Interoperability Protocol*), Chainlink permite que diferentes blockchains se comuniquen entre sí y con sistemas financieros tradicionales. En mayo de 2026, el DTCC —la principal cámara de compensación de EE. UU.— lanzó un sistema de colateral en blockchain usando Chainlink CCIP.
+**Interoperabilidad entre cadenas:** CCIP (*Cross-Chain Interoperability Protocol*) permite mover datos y valor entre blockchains. En septiembre de 2026 se lanzó **CCIP 2.0**, junto con la conexión de instituciones financieras al ledger de **Swift**. En mayo de 2026, el DTCC, la principal cámara de compensación de EE. UU., lanzó un sistema de colateral en blockchain usando Chainlink CCIP.
+
+**Activos tokenizados e instituciones:** Chainlink se ha convertido en infraestructura para la banca y los mercados tradicionales. Coinbase lo eligió para llevar acciones tokenizadas a DeFi, su **Proof of Reserve** permite verificar que un activo tokenizado está respaldado, y el **Chainlink Runtime Environment (CRE)**, activo desde noviembre de 2025, coordina todos estos servicios en flujos completos.
 
 ## El token LINK
 
-LINK es la criptomoneda nativa de Chainlink, basada en el estándar ERC-20 de Ethereum. Tiene dos funciones principales:
+LINK es la criptomoneda nativa de Chainlink, basada en el estándar ERC-20 de Ethereum. Sus funciones principales:
 
-- **Pago de servicios:** Quienes necesitan datos de la red Chainlink pagan en LINK a los operadores de nodo.
-- **Colateral:** Los operadores de nodo deben depositar LINK como garantía de su comportamiento honesto. Si intentan manipular datos, pierden su colateral.
+- **Pago de servicios:** quienes usan la red pagan a los operadores de nodo.
+- **Staking:** los titulares de LINK y los operadores de nodo pueden bloquear LINK para respaldar la seguridad de los servicios a cambio de recompensas. La versión actual (v0.2) tiene un límite de 45 millones de LINK y un periodo de espera de 28 días para retirarlos. Si un operador de nodo no cumple, parte de su LINK bloqueado puede ser **recortado** (*slashing*).
+- **Chainlink Reserve:** desde agosto de 2025, Chainlink usa parte de sus ingresos, de servicios on-chain y de clientes empresariales, para **comprar LINK y guardarlo** en una reserva on-chain. Así conecta la adopción real de la red con la demanda del token.
 
-Este mecanismo crea un incentivo económico directo para que los nodos actúen de forma correcta.
+Estos mecanismos crean un incentivo económico directo para que los nodos actúen de forma correcta.
 
 ## ¿Por qué importa Chainlink?
 
@@ -83,7 +94,9 @@ Como es un token ERC-20, se guarda en cualquier wallet compatible con Ethereum (
 - **Dependencia de los operadores de nodo:** la red es tan fiable como los nodos que la forman. La agregación y el colateral reducen el riesgo de datos manipulados, pero no lo eliminan.
 - **Competencia:** otros oráculos, como Pyth Network, compiten por los mismos protocolos.
 - **Complejidad:** CCIP y los servicios entre cadenas añaden piezas técnicas que pueden fallar.
+- **Dependencia de grandes clientes:** cada vez más ingresos vienen de bancos e instituciones; sus decisiones y la regulación financiera pesan sobre el proyecto.
 - **Regulación:** las reglas para criptoactivos siguen cambiando, tanto en Europa (MiCA) como en Latinoamérica.
+- **La reserva no garantiza nada:** que Chainlink compre LINK no impide que el precio caiga.
 - **Volatilidad:** como cualquier criptomoneda, LINK puede subir y bajar con mucha fuerza.
 
 > ⚠️ *Este post es únicamente educativo y no constituye asesoramiento financiero. Siempre haz tu propia investigación antes de invertir.*
