@@ -4,7 +4,7 @@ title: "Política de Cookies"
 permalink: /politica-de-cookies/
 ---
 
-*Última actualización: 24 de octubre de 2026*
+*Última actualización: 23 de noviembre de 2026*
 
 ## ¿Qué son las cookies?
 
@@ -20,6 +20,8 @@ Este sitio solo usa **Google Analytics 4**, con fines estadísticos: saber cuán
 |---|---|---|---|
 | `_ga` | Google Analytics | Distinguir visitantes de forma anónima | Hasta 2 años |
 | `_ga_<ID>` | Google Analytics | Mantener el estado de la sesión | Hasta 2 años |
+
+Al aceptar también se muestra, en algunos artículos, el **precio en vivo** de la criptomoneda con datos de CoinGecko. CoinGecko no instala cookies, pero recibe tu dirección IP al pedir el precio (ver [Política de Privacidad](/politica-de-privacidad/)). Si no aceptas, el precio no se muestra, pero puedes leer todo el contenido igual.
 
 Además, guardamos tu elección (aceptar o rechazar) en el almacenamiento local de tu navegador, con la clave `cookie_consent`, para no mostrarte el banner en cada visita. No sale de tu dispositivo.
 

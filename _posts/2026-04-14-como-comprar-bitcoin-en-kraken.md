@@ -6,6 +6,8 @@ categories: [guia]
 tags: [bitcoin, btc, kraken, guia, comprar-cripto, principiantes]
 description: "Compra bitcoin en Kraken en 5 pasos: registro, verificación, depósito SEPA sin comisión, compra desde pocos euros y retiro on-chain o por Lightning a tu wallet."
 image: /assets/images/como-comprar-bitcoin-en-kraken.webp
+coingecko_id: bitcoin
+coingecko_simbolo: BTC
 author: Yukio Mizuta
 redirect_from:
   - /exchanges/guias/2026/04/14/como-comprar-bitcoin-en-kraken.html

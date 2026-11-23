@@ -2,8 +2,10 @@
 <!-- Banner de consentimiento: Google Analytics NO se carga hasta que el visitante acepta -->
 <div id="cookie-banner" class="cookie-banner" role="dialog" aria-live="polite" aria-label="Consentimiento de cookies" hidden>
   <p class="cookie-text">
-    Usamos cookies de Google Analytics para saber qué artículos se leen.
+    Usamos cookies de Google Analytics para saber qué artículos se leen y, en algunos artículos,
+    mostramos el precio en vivo de las criptomonedas con datos de CoinGecko.
     No se carga nada hasta que aceptes, y puedes cambiar de opinión cuando quieras.
+    Si no aceptas, el precio en vivo no se muestra, pero puedes leer todo el contenido igual.
     <a href="{{ '/politica-de-cookies/' | relative_url }}">Más información</a>
   </p>
   <div class="cookie-actions">
@@ -48,6 +50,8 @@
       var previous = read();
       save(value);
       banner.hidden = true;
+      // Avisa a otros scripts de la página (p. ej. el precio en vivo) de la decisión
+      try { document.dispatchEvent(new CustomEvent('cookie-consent', { detail: value })); } catch (e) {}
       if (value === 'accepted') {
         loadAnalytics();
       } else if (previous === 'accepted') {

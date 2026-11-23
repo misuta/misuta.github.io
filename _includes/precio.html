@@ -1,0 +1,88 @@
+{%- comment -%}
+  Recuadro de precio en vivo. Se activa poniendo `coingecko_id:` en el frontmatter del post
+  (y opcionalmente `coingecko_simbolo:` para la etiqueta, p. ej. DOGE).
+  El navegador del lector pide el precio a la API pública de CoinGecko (sin clave),
+  SOLO si ha aceptado las cookies (ver _includes/cookie-consent.html).
+  Si la API falla o no responde, el recuadro se queda oculto: nunca se muestra un precio viejo.
+{%- endcomment -%}
+{%- assign cg_id = page.coingecko_id -%}
+{%- assign cg_simbolo = page.coingecko_simbolo | default: cg_id | upcase -%}
+<aside class="precio-live" data-coingecko-id="{{ cg_id }}" hidden aria-live="polite">
+  <div class="precio-live-head">
+    <span class="precio-live-label">Precio de {{ cg_simbolo }} ahora</span>
+    <span class="precio-live-cambio" data-campo="cambio"></span>
+  </div>
+  <div class="precio-live-valores">
+    <span data-campo="eur"></span>
+    <span class="precio-live-sep">·</span>
+    <span data-campo="usd"></span>
+  </div>
+  <p class="precio-live-fuente">
+    Actualizado a las <span data-campo="hora"></span> · Datos de
+    <a href="https://www.coingecko.com/es/monedas/{{ cg_id }}" target="_blank" rel="noopener nofollow">CoinGecko</a>
+  </p>
+</aside>
+<script>
+  (function () {
+    var box = document.querySelector('.precio-live[data-coingecko-id="{{ cg_id }}"]');
+    if (!box || !window.fetch) return;
+    var id = box.getAttribute('data-coingecko-id');
+    var url = 'https://api.coingecko.com/api/v3/simple/price?ids=' + encodeURIComponent(id) +
+      '&vs_currencies=eur,usd&include_24hr_change=true&include_last_updated_at=true';
+    var MAX_ANTIGUEDAD = 30 * 60; // segundos: si el dato tiene más de 30 min, no se muestra
+    var cargado = false;
+
+    function fmt(valor, moneda) {
+      // Monedas de céntimos (DOGE) necesitan decimales; BTC no
+      var opts = valor < 1
+        ? { style: 'currency', currency: moneda, minimumSignificantDigits: 2, maximumSignificantDigits: 4 }
+        : { style: 'currency', currency: moneda, maximumFractionDigits: valor < 100 ? 2 : 0 };
+      return new Intl.NumberFormat(moneda === 'EUR' ? 'es-ES' : 'en-US', opts).format(valor);
+    }
+    function set(campo, texto) { box.querySelector('[data-campo="' + campo + '"]').textContent = texto; }
+
+    function cargar() {
+      if (cargado) return;
+      cargado = true;
+      var ctrl = window.AbortController ? new AbortController() : null;
+      var timer = setTimeout(function () { if (ctrl) ctrl.abort(); }, 5000);
+
+      fetch(url, ctrl ? { signal: ctrl.signal } : {})
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (data) {
+          clearTimeout(timer);
+          var d = data[id];
+          if (!d || typeof d.eur !== 'number' || typeof d.usd !== 'number') return;
+          var ahora = Date.now() / 1000;
+          if (d.last_updated_at && ahora - d.last_updated_at > MAX_ANTIGUEDAD) return;
+
+          set('eur', fmt(d.eur, 'EUR'));
+          set('usd', fmt(d.usd, 'USD'));
+          var t = new Date((d.last_updated_at || ahora) * 1000);
+          set('hora', t.toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit' }));
+
+          var c = d.eur_24h_change;
+          if (typeof c === 'number') {
+            var el = box.querySelector('[data-campo="cambio"]');
+            el.textContent = (c >= 0 ? '▲ +' : '▼ ') + c.toFixed(2).replace('.', ',') + ' % (24 h)';
+            el.classList.add(c >= 0 ? 'sube' : 'baja');
+          }
+          box.hidden = false;
+        })
+        .catch(function () { clearTimeout(timer); /* se queda oculto */ });
+    }
+
+    {%- if jekyll.environment == 'production' and site.ga_measurement_id %}
+    // Solo con consentimiento: ya aceptado antes, o en cuanto pulse «Aceptar» en el banner
+    var consent = null;
+    try { consent = localStorage.getItem('cookie_consent'); } catch (e) {}
+    if (consent === 'accepted') cargar();
+    document.addEventListener('cookie-consent', function (e) {
+      if (e.detail === 'accepted') cargar();
+    });
+    {%- else %}
+    // En local (jekyll serve) no hay banner de cookies: se carga siempre para poder probar
+    cargar();
+    {%- endif %}
+  })();
+</script>

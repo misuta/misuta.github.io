@@ -4,7 +4,7 @@ title: "Política de Privacidad"
 permalink: /politica-de-privacidad/
 ---
 
-*Última actualización: 29 de octubre de 2026*
+*Última actualización: 23 de noviembre de 2026*
 
 ## Responsable
 
@@ -24,6 +24,16 @@ Si pulsas **Aceptar** en el banner de cookies, se carga **Google Analytics 4** (
 - **Conservación:** los datos a nivel de usuario y de evento se guardan durante 2 meses y después Google Analytics los elimina automáticamente. Las estadísticas agregadas (por ejemplo, el total de visitas) no contienen datos personales y pueden conservarse más tiempo.
 
 Puedes retirar tu consentimiento en cualquier momento desde **«Configurar cookies»** al pie de la página. Detalle de las cookies en la [Política de Cookies](/politica-de-cookies/).
+
+## Precios en vivo (solo con tu consentimiento)
+
+En algunos artículos mostramos el precio actual de una criptomoneda. Solo si pulsas **Aceptar** en el banner de cookies, tu navegador pide ese dato directamente a la API pública de CoinGecko (Gecko Labs Pte. Ltd., Singapur), que recibe tu dirección IP y datos básicos de la petición. No se usan cookies ni se envía ningún otro dato. Si no aceptas, el precio no se muestra, pero puedes leer todo el contenido igual.
+
+- **Base legal:** tu consentimiento (art. 6.1.a RGPD).
+- **Transferencias fuera de la UE:** CoinGecko trata los datos en Singapur.
+- Más información en la [política de privacidad de CoinGecko](https://www.coingecko.com/es/privacy).
+
+Puedes retirar tu consentimiento en cualquier momento desde **«Configurar cookies»** al pie de la página.
 
 ## Zaps y enlaces externos
 

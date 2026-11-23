@@ -24,6 +24,8 @@ layout: default
 - <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ post_author }}</span></span></p>
   </header>
 
+  {%- if page.coingecko_id -%}{%- include precio.html -%}{%- endif -%}
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>

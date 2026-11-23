@@ -5,6 +5,8 @@ date: 2026-07-22 06:00:00 +0200
 categories: educacion
 tags: [osmosis, osmo, cosmos, dex, ibc, defi, criptomonedas]
 image: /assets/images/que-es-osmosis-osmo.webp
+coingecko_id: osmosis
+coingecko_simbolo: OSMO
 description: "Descubre qué es Osmosis, el exchange descentralizado del ecosistema Cosmos, cómo funciona su modelo de liquidez y para qué sirve el token OSMO."
 author: Yukio Mizuta
 ---

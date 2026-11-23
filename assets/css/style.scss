@@ -635,3 +635,27 @@ button.cal-btn { background: transparent; font: inherit; font-weight: 600; curso
   .cal-linea-item::before { left: 63px; }
   .cal-linea-item::after { left: 69px; }
 }
+
+// ── Recuadro de precio en vivo (_includes/precio.html) ───────
+.precio-live {
+  margin: 0 0 1.5em;
+  padding: 12px 16px;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-left: 4px solid #1db87a;
+  border-radius: 6px;
+}
+.precio-live-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  font-size: 0.85em;
+  color: var(--text-secondary);
+}
+.precio-live-cambio.sube { color: #1db87a; }
+.precio-live-cambio.baja { color: #e5484d; }
+.precio-live-valores { font-size: 1.5em; font-weight: 700; color: var(--text); margin: 2px 0; }
+.precio-live-sep { color: var(--text-secondary); font-weight: 400; margin: 0 6px; }
+.precio-live-fuente { margin: 0; font-size: 0.75em; color: var(--text-secondary); }
