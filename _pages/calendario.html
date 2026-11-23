@@ -1,0 +1,113 @@
+---
+layout: page
+title: Calendario cripto y macro
+nav_title: Calendario
+permalink: /calendario/
+description: "Fechas que mueven a Bitcoin y las criptomonedas: Fed, BCE, inflación, empleo, desbloqueos de tokens y regulación, con la hora de tu zona."
+revisado: 2026-11-23
+---
+{%- include calendario-orden.html -%}
+{%- assign meses = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre" | split: "," -%}
+{%- assign meses_c = "ene,feb,mar,abr,may,jun,jul,ago,sep,oct,nov,dic" | split: "," -%}
+{%- assign dias_c = "dom,lun,mar,mié,jue,vie,sáb" | split: "," -%}
+
+<div class="cal">
+
+<p class="cal-intro">Las fechas que mueven a Bitcoin y al resto del mercado: decisiones de la Fed y el BCE, datos de inflación y empleo, desbloqueos de tokens y cambios regulatorios. Cada evento explica en una línea por qué importa.</p>
+
+<div class="cal-acciones">
+  <a class="cal-btn cal-btn--primario" href="webcal://mizuta.eu/calendario.ics">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+    Suscribirse (Apple, Outlook)
+  </a>
+  <a class="cal-btn" href="https://calendar.google.com/calendar/render?cid=webcal://mizuta.eu/calendario.ics" target="_blank" rel="noopener">Añadir a Google Calendar</a>
+  <a class="cal-btn" href="/calendario.ics" download>Descargar .ics</a>
+</div>
+
+<section class="cal-semana" id="cal-semana" aria-labelledby="cal-semana-titulo" hidden>
+  <div class="cal-semana-cab">
+    <h2 id="cal-semana-titulo">Esta semana</h2>
+    <span id="cal-semana-rango"></span>
+  </div>
+  <div class="cal-carrusel" id="cal-semana-lista"></div>
+  <div class="cal-puntos" id="cal-puntos" aria-hidden="true"></div>
+</section>
+
+<div class="cal-controles" id="cal-controles" hidden>
+  <div class="cal-vistas" role="group" aria-label="Vista del calendario">
+    <button type="button" data-vista="agenda" aria-pressed="true">Agenda</button>
+    <button type="button" data-vista="mes" aria-pressed="false">Mes</button>
+    <button type="button" data-vista="linea" aria-pressed="false">Línea de tiempo</button>
+  </div>
+  <label class="cal-zona">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>
+    Ver horas en
+    <select id="cal-zona"></select>
+  </label>
+</div>
+<p class="cal-nota" id="cal-nota">Las horas están en UTC.</p>
+
+{%- comment -%} Vista Agenda: se genera en el build para que Google la indexe y funcione sin JavaScript. {%- endcomment -%}
+{%- capture cal_meses_html -%}{%- endcapture -%}
+{%- assign mes_actual = "" -%}
+{%- assign primer_mes = "" -%}
+{%- capture cal_agenda -%}
+{%- for i in cal_orden -%}
+  {%- assign ev = site.data.eventos[i] -%}
+  {%- assign dia = ev.fecha | date: "%Y-%m-%d" -%}
+  {%- if dia < cal_hoy -%}{%- continue -%}{%- endif -%}
+  {%- assign mes = ev.fecha | date: "%Y-%m" -%}
+  {%- assign n_mes = ev.fecha | date: "%-m" | minus: 1 -%}
+  {%- assign anio = ev.fecha | date: "%Y" -%}
+  {%- if mes != mes_actual -%}
+    {%- if primer_mes == "" -%}{%- assign primer_mes = mes -%}{%- endif -%}
+    {%- unless mes_actual == "" -%}</section>{%- endunless -%}
+    {%- assign mes_actual = mes -%}
+    {%- capture enlace -%}<a href="#m-{{ mes }}">{{ meses_c[n_mes] | capitalize }} {{ anio }}</a>{%- endcapture -%}
+    {%- assign cal_meses_html = cal_meses_html | append: enlace -%}
+<section class="cal-mes" aria-labelledby="m-{{ mes }}">
+<h2 class="cal-mes-titulo" id="m-{{ mes }}">{{ meses[n_mes] | capitalize }} {{ anio }}</h2>
+  {%- endif -%}
+  {%- assign n_dia = ev.fecha | date: "%w" | plus: 0 -%}
+  {%- capture contexto -%}{% include calendario-contexto.html ev=ev %}{%- endcapture -%}
+<article class="cal-ev" id="ev-{{ ev.id }}">
+  <div class="cal-ev-fecha"><span class="cal-ev-dia">{{ ev.fecha | date: "%-d" }}</span><span class="cal-ev-sem">{{ dias_c[n_dia] }}</span></div>
+  <div class="cal-ev-cuerpo">
+    <div class="cal-ev-etiquetas">
+      <span class="cal-cat cal-cat--{{ ev.categoria }}">{% case ev.categoria %}{% when "macro" %}Macro{% when "cripto" %}Cripto{% when "regulacion" %}Regulación{% endcase %}</span>
+      {%- if ev.importancia == "alta" %}<span class="cal-alta">Importancia alta</span>{% endif %}
+      {%- if ev.estado == "provisional" %}<span class="cal-prov">Provisional</span>{% endif %}
+    </div>
+    <h3 class="cal-ev-titulo">{{ ev.titulo }}</h3>
+    <p class="cal-ev-ctx">{{ contexto | strip }}</p>
+    <p class="cal-ev-meta">
+      {%- if ev.todo_el_dia -%}<span class="cal-hora">Todo el día</span>
+      {%- else -%}<time class="cal-hora" datetime="{{ ev.fecha | date: '%Y-%m-%dT%H:%M:%SZ' }}" data-utc="{{ ev.fecha | date: '%Y-%m-%dT%H:%M:%SZ' }}">{{ ev.fecha | date: "%H:%M" }} UTC</time>{%- endif -%}
+      <span aria-hidden="true"> · </span>{{ ev.activos | join: ", " }}<span aria-hidden="true"> · </span><a href="{{ ev.fuente }}" target="_blank" rel="noopener">Fuente</a>
+    </p>
+  </div>
+</article>
+{%- endfor -%}
+{%- unless mes_actual == "" -%}</section>{%- endunless -%}
+{%- endcapture -%}
+
+<div class="cal-vista" id="cal-vista-agenda">
+  <nav class="cal-mesbar" aria-label="Ir a un mes">
+    <a class="cal-hoy" href="#m-{{ primer_mes }}">Hoy</a>
+    <div class="cal-mesbar-lista">{{ cal_meses_html }}</div>
+  </nav>
+  {%- if mes_actual == "" %}
+  <p>No hay eventos próximos en el calendario. Vuelve pronto.</p>
+  {%- endif %}
+  {{ cal_agenda }}
+</div>
+
+{%- assign n_rev = page.revisado | date: "%-m" | minus: 1 %}
+<div class="cal-vista" id="cal-vista-mes" hidden></div>
+<div class="cal-vista" id="cal-vista-linea" hidden></div>
+
+<p class="cal-pie">Fechas comprobadas con fuentes oficiales (BLS, BEA, Reserva Federal, BCE y documentación de cada proyecto). Última revisión: {{ page.revisado | date: "%-d" }} de {{ meses[n_rev] }} de {{ page.revisado | date: "%Y" }}. Las fechas marcadas como provisionales pueden cambiar. Este calendario es solo informativo y no constituye asesoramiento financiero.</p>
+
+</div>
+
+<script src="{{ '/assets/js/calendario.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>

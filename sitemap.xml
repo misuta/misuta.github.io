@@ -13,7 +13,7 @@ layout: null
     {% endif %}
   </url>
   {% endfor %}
-  {% assign excluded_paths = "404.html,sitemap.xml,search.json,redirects.json,feed.xml,robots.txt" | split: "," %}
+  {% assign excluded_paths = "404.html,sitemap.xml,search.json,redirects.json,feed.xml,robots.txt,calendario.json,calendario.ics" | split: "," %}
   {% for page in site.pages %}
     {% assign is_excluded = false %}
     {% for excl in excluded_paths %}

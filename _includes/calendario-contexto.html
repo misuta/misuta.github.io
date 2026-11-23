@@ -1,0 +1,18 @@
+{%- comment -%}
+  Devuelve el contexto de un evento de _data/eventos.yml.
+  Si el evento no tiene "contexto", usa la plantilla de su tipo (sufijo del id).
+  Uso: {% include calendario-contexto.html ev=ev %}
+{%- endcomment -%}
+{%- if include.ev.contexto -%}
+{{- include.ev.contexto -}}
+{%- else -%}
+{%- assign tipo = include.ev.id | split: "-" | last -%}
+{%- case tipo -%}
+{%- when "fomc" -%}La Fed decide los tipos de interés en EE. UU.; tipos más bajos suelen favorecer a BTC y a los activos de riesgo.
+{%- when "cpi" -%}Dato de inflación de EE. UU.; si sale por encima de lo esperado aleja las bajadas de tipos y suele presionar a la baja a cripto.
+{%- when "nfp" -%}Informe de empleo de EE. UU.; un mercado laboral débil aumenta las probabilidades de bajadas de tipos.
+{%- when "ppi" -%}Precios que pagan los productores; suele adelantar la tendencia del CPI.
+{%- when "pce" -%}Indicador de inflación preferido de la Fed; rara vez sorprende porque se estima a partir del CPI y el PPI.
+{%- when "bce" -%}El BCE decide los tipos en la eurozona; afecta al euro y al apetito por riesgo en Europa.
+{%- endcase -%}
+{%- endif -%}

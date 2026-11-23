@@ -1,0 +1,39 @@
+---
+layout: null
+sitemap: false
+---
+{%- include calendario-orden.html -%}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mizuta's Blog//Calendario cripto y macro//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendario cripto y macro (Mizuta's Blog)
+X-WR-CALDESC:Fed\, BCE\, inflación\, empleo\, desbloqueos y regulación cripto. mizuta.eu/calendario/
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+{%- comment -%} site.time está en la zona del equipo que hace el build; en GitHub Actions es UTC. {%- endcomment %}
+{%- assign sello = site.time | date: "%Y%m%dT%H%M%SZ" %}
+{%- for i in cal_orden %}
+{%- assign ev = site.data.eventos[i] %}
+{%- capture contexto -%}{% include calendario-contexto.html ev=ev %}{%- endcapture %}
+{%- assign titulo = ev.titulo | replace: "\", "\\" | replace: ";", "\;" | replace: ",", "\," %}
+{%- assign desc = contexto | strip | replace: "\", "\\" | replace: ";", "\;" | replace: ",", "\," %}
+BEGIN:VEVENT
+UID:{{ ev.id }}@mizuta.eu
+DTSTAMP:{{ sello }}
+{%- if ev.todo_el_dia %}
+DTSTART;VALUE=DATE:{{ ev.fecha | date: "%Y%m%d" }}
+DURATION:P1D
+{%- else %}
+DTSTART:{{ ev.fecha | date: "%Y%m%dT%H%M%SZ" }}
+DURATION:PT1H
+{%- endif %}
+SUMMARY:{{ titulo }}{% if ev.estado == "provisional" %} (provisional){% endif %}
+DESCRIPTION:{{ desc }}\nFuente: {{ ev.fuente }}\nMás en https://mizuta.eu/calendario/
+URL:{{ ev.fuente }}
+CATEGORIES:{{ ev.categoria }}
+TRANSP:TRANSPARENT
+END:VEVENT
+{%- endfor %}
+END:VCALENDAR

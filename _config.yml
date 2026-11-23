@@ -62,6 +62,7 @@ port: 45678
 header_pages:
   - about.markdown
   - _pages/buscar.md
+  - _pages/calendario.html
   - _pages/politica-de-cookies.md
 
 defaults:

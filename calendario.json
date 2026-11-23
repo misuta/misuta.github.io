@@ -1,0 +1,30 @@
+---
+layout: null
+sitemap: false
+---
+{%- include calendario-orden.html -%}
+{
+  "actualizado": {{ site.time | date_to_xmlschema | jsonify }},
+  "eventos": [
+{%- assign primero = true -%}
+{%- for i in cal_orden -%}
+  {%- assign ev = site.data.eventos[i] -%}
+  {%- assign dia = ev.fecha | date: "%Y-%m-%d" -%}
+  {%- if dia < cal_hoy -%}{%- continue -%}{%- endif -%}
+  {%- capture contexto -%}{% include calendario-contexto.html ev=ev %}{%- endcapture -%}
+  {%- unless primero -%},{%- endunless -%}{%- assign primero = false %}
+    {
+      "id": {{ ev.id | jsonify }},
+      "titulo": {{ ev.titulo | jsonify }},
+      "dia": {{ dia | jsonify }},
+      "utc": {% if ev.todo_el_dia %}null{% else %}{{ ev.fecha | date: "%Y-%m-%dT%H:%M:%SZ" | jsonify }}{% endif %},
+      "categoria": {{ ev.categoria | jsonify }},
+      "importancia": {{ ev.importancia | jsonify }},
+      "activos": {{ ev.activos | jsonify }},
+      "estado": {{ ev.estado | jsonify }},
+      "contexto": {{ contexto | strip | jsonify }},
+      "fuente": {{ ev.fuente | jsonify }}
+    }
+{%- endfor %}
+  ]
+}

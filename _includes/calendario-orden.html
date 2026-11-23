@@ -1,0 +1,18 @@
+{%- comment -%}
+  Ordena _data/eventos.yml por fecha (los eventos de todo el día son Date y los demás Time,
+  y Liquid no puede ordenarlos juntos con "sort"). Deja en cal_orden la lista de índices
+  ordenada y en cal_hoy la fecha del build (AAAA-MM-DD, UTC).
+  Uso: {% include calendario-orden.html %} y luego site.data.eventos[i] para cada i en cal_orden.
+{%- endcomment -%}
+{%- assign cal_hoy = site.time | date: "%Y-%m-%d" -%}
+{%- capture cal_claves -%}
+{%- for ev in site.data.eventos -%}
+{{- ev.fecha | date: "%Y-%m-%dT%H:%M" -}}|{{- forloop.index0 -}}{%- unless forloop.last -%};{%- endunless -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign cal_claves = cal_claves | split: ";" | sort -%}
+{%- assign cal_orden = "" | split: "" -%}
+{%- for clave in cal_claves -%}
+{%- assign cal_idx = clave | split: "|" | last | plus: 0 -%}
+{%- assign cal_orden = cal_orden | push: cal_idx -%}
+{%- endfor -%}
