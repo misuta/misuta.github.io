@@ -97,7 +97,9 @@ Uniswap ha sido auditado múltiples veces y su código es abierto. Sin embargo, 
 
 Como toda criptomoneda, UNI es un activo volátil. El token ha caído más de un 90% desde su máximo histórico. Antes de invertir, infórmate bien y evalúa tu tolerancia al riesgo.
 
-Si quieres comprar UNI de forma sencilla y segura, en nuestra próxima guía te explicamos paso a paso cómo hacerlo en [Kraken](https://invite.kraken.com/JDNW/nmlddl67).
+Si quieres comprar UNI de forma sencilla y segura, te explicamos paso a paso [cómo comprar UNI en Kraken](/2026/06/19/como-comprar-uni-en-kraken/).
+
+👉 [Abre tu cuenta en Kraken con nuestro enlace de afiliado](https://invite.kraken.com/JDNW/nmlddl67)
 
 ---
 

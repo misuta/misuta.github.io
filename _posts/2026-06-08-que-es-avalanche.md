@@ -83,7 +83,7 @@ El máximo histórico de AVAX fue de **144,96 dólares** en noviembre de 2021, l
 
 Toda inversión en criptomonedas conlleva riesgos. El mercado es altamente volátil y el precio de AVAX ha bajado más de un 95% desde su máximo histórico. Antes de tomar cualquier decisión, infórmate bien y no inviertas más de lo que puedas permitirte perder.
 
-Si quieres aprender a comprar AVAX de forma segura, en nuestra próxima guía te explicamos paso a paso cómo hacerlo en [Kraken](https://invite.kraken.com/JDNW/nmlddl67).
+Si quieres aprender a comprar AVAX de forma segura, te explicamos paso a paso [cómo comprar AVAX en Kraken](/2026/06/12/como-comprar-avax-en-kraken/).
 
 ---
 

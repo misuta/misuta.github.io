@@ -202,7 +202,7 @@ Como cualquier criptomoneda, ADA es volátil y conlleva riesgo de pérdida. Card
 
 Cardano es uno de los proyectos más singulares del ecosistema cripto. Su apuesta por el rigor académico, la verificación formal y el desarrollo pausado lo distingue radicalmente de la mayoría de blockchains. No es el proyecto más rápido ni el que tiene el ecosistema más grande, pero sí uno de los más sólidos desde el punto de vista de la ingeniería.
 
-Si te interesa profundizar más, el próximo post comparará **Bitcoin vs. Cardano**, analizando sus diferencias y casos de uso.
+Si te interesa profundizar más, te recomendamos [Bitcoin vs Cardano](/2026/05/25/bitcoin-vs-cardano/), y si quieres comprarlo, nuestra guía para [comprar Cardano en Kraken](/2026/05/27/como-comprar-cardano-en-kraken/).
 
 ---
 
