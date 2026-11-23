@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "¿Qué es Dogecoin (DOGE)?"
+title: "Dogecoin (DOGE): qué es, cómo funciona y dónde comprarlo (2026)"
 date: 2026-07-27 06:00:00 +0200
 categories: Educación
 author: Yukio Mizuta
 image: /assets/images/que-es-dogecoin-doge.webp
 coingecko_id: dogecoin
 coingecko_simbolo: DOGE
-description: "Descubre qué es Dogecoin (DOGE), cómo nació como meme, su funcionamiento técnico como fork de Litecoin y por qué su comunidad sigue tan activa."
+description: "Qué es Dogecoin (DOGE): de meme a una de las criptos más conocidas. Cómo funciona, su emisión sin límite, para qué se usa y cómo comprar DOGE en Kraken."
 ---
 
 Dogecoin nació en 2013 como una broma entre programadores, pero terminó convirtiéndose en una de las criptomonedas más conocidas del mundo. Si alguna vez viste ese perrito Shiba Inu asociado a una moneda digital, hoy te explicamos de dónde viene y cómo funciona.

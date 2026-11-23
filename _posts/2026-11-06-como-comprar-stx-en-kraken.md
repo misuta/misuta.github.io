@@ -52,7 +52,7 @@ Kraken pide verificación de identidad (KYC) para operar con más límites. El p
 
 ## Paso 4: Compra STX
 
-Busca el par STX/EUR o STX/USD en el buscador de mercados de Kraken (también hay pares contra stablecoins como STX/USDT). Verás un panel de compra con dos tipos de orden:
+Busca el par STX/EUR o STX/USD en el buscador de mercados de Kraken (según tu región, también puede haber pares contra stablecoins como USDC). Verás un panel de compra con dos tipos de orden:
 
 - **Orden de mercado:** compras al precio actual. Indica la cantidad de STX (o el importe en EUR/USD que quieres gastar) y confirma; la compra se ejecuta de inmediato.
 - **Orden límite:** fijas tú el precio de entrada. La orden queda pendiente y solo se ejecuta si el mercado llega a ese precio, algo que puede tardar o no ocurrir nunca.

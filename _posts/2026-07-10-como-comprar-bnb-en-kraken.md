@@ -62,7 +62,7 @@ Con fondos disponibles en tu cuenta, ya puedes comprar:
 4. Elige la orden **"Mercado"** para comprar al precio actual, o **"Límite"** si prefieres fijar el precio de entrada.
 5. Confirma la operación.
 
-Si ya tienes [USDT](/2026/06/29/que-es-tether-usdt/) o [USDC](/2026/07/01/que-es-usd-coin-usdc/), también puedes comprar BNB directamente con el par **BNB/USDT** o **BNB/USDC**, sin necesidad de pasar por euros o dólares.
+Si ya tienes [USDC](/2026/07/01/que-es-usd-coin-usdc/), también puedes comprar BNB directamente con el par **BNB/USDC**, sin necesidad de pasar por euros o dólares.
 
 ¡Listo! Ya tienes BNB en tu cuenta de Kraken.
 

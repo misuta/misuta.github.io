@@ -5,31 +5,33 @@ date: 2026-07-03 06:00:00 +0200
 categories: [guia]
 tags: [tether, usdt, kraken, guia, comprar-cripto, stablecoins]
 author: Yukio Mizuta
-description: "Compra Tether (USDT) en Kraken en 4 pasos: registro, KYC, depósito SEPA sin comisión y qué red elegir al retirar (ERC-20, TRC-20 o Solana). España y LATAM."
+description: "Compra Tether (USDT) en Kraken en 4 pasos y elige bien la red al retirar (ERC-20, TRC-20 o Solana). Para EE. UU. y Latinoamérica; en Europa y Canadá, USDC."
 image: /assets/images/como-comprar-usdt-en-kraken.webp
 faq:
   - question: "¿Qué es USDT y para qué sirve?"
     answer: "USDT (Tether) es una stablecoin diseñada para mantener un valor cercano al del dólar estadounidense. Se usa para protegerse de la volatilidad, mover dinero entre plataformas y operar en el mercado cripto."
   - question: "¿Es seguro comprar USDT en Kraken?"
-    answer: "Kraken es un exchange fundado en 2011 que opera bajo licencias en varias jurisdicciones y cumple la normativa MiCA en Europa. Aun así, todo exchange conlleva riesgos, y para guardar USDT a largo plazo lo más recomendable es una wallet propia."
+    answer: "Kraken es un exchange fundado en 2011 que opera bajo licencias en varias jurisdicciones. Aun así, todo exchange conlleva riesgos, y para guardar USDT a largo plazo lo más recomendable es una wallet propia."
   - question: "¿Qué red debo elegir para retirar USDT?"
     answer: "Debe ser la misma red que admite tu wallet o plataforma de destino (por ejemplo Ethereum, Tron o Solana). Enviar USDT por una red equivocada puede hacer que se pierdan los fondos, así que comprueba la dirección y haz antes un envío de prueba."
-  - question: "¿Puedo comprar USDT en Kraken desde España y Latinoamérica?"
-    answer: "Sí. Desde España y Europa puedes depositar euros por transferencia SEPA. En Latinoamérica los métodos de depósito varían según el país, así que verifica las opciones disponibles en Kraken."
+  - question: "¿Puedo comprar USDT en Kraken desde España o Europa?"
+    answer: "No. Kraken retiró USDT para sus clientes del EEE en 2025 y, desde julio de 2026, ningún exchange regulado por MiCA lo ofrece. En Canadá tampoco está disponible desde 2023. En Europa y Canadá, la alternativa es USDC. En EE. UU. y Latinoamérica sí puedes comprar USDT en Kraken."
 ---
 
-Si ya sabes [qué es Tether (USDT)](/2026/06/29/que-es-tether-usdt/) y quieres empezar a usarlo, Kraken es una de las opciones más seguras y sencillas para comprarlo. En esta guía te explico el proceso paso a paso, tanto si estás en España como en cualquier país de Latinoamérica.
+Si ya sabes [qué es Tether (USDT)](/2026/06/29/que-es-tether-usdt/) y quieres empezar a usarlo, Kraken es una de las opciones más seguras y sencillas para comprarlo. En esta guía te explicamos el proceso paso a paso si estás en EE. UU. o en Latinoamérica.
 
 <!--more-->
 
 > **Aviso de afiliado:** Este artículo contiene enlaces de afiliado. Si abres una cuenta a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Esto nos ayuda a mantener el blog. Gracias por tu apoyo. 🙏
 
+> ⚠️ **Si vives en España, el resto del EEE o Canadá, esta guía no te sirve:** Kraken no permite comprar USDT en esas regiones. La alternativa es USDC: sigue nuestra guía para [comprar USDC en Kraken](/2026/07/17/como-comprar-usdc-en-kraken/).
+
 ## ¿Por qué comprar USDT en Kraken?
 
-Kraken es uno de los exchanges más veteranos y confiables del mercado, fundado en 2011 en San Francisco. Está disponible tanto en España y Europa como en la mayoría de países de Latinoamérica, y ofrece:
+Kraken es uno de los exchanges más veteranos y confiables del mercado, fundado en 2011 en San Francisco. Está disponible en EE. UU. y en la mayoría de países de Latinoamérica, y ofrece:
 
-- **Regulación y seguridad**: opera bajo licencias en múltiples jurisdicciones y cumple con la normativa MiCA en Europa.
-- **Depósitos en fiat**: puedes ingresar euros (SEPA) o dólares fácilmente.
+- **Regulación y seguridad**: opera bajo licencias en múltiples jurisdicciones.
+- **Depósitos en fiat**: puedes ingresar dólares u otras monedas según tu país.
 - **Sin comisiones de depósito por transferencia bancaria**: ideal si vas a invertir cantidades medianas o grandes.
 - **Soporte en español**: interfaz y atención al cliente disponibles en tu idioma.
 
@@ -48,7 +50,7 @@ Haz clic en **"Crear cuenta"** e introduce tu correo electrónico y una contrase
 Para poder comprar cripto en Kraken necesitas verificar tu identidad. Es un proceso obligatorio por regulación en todos los exchanges serios.
 
 Necesitarás:
-- **DNI o pasaporte** vigente (en España, el DNI es suficiente).
+- **Documento de identidad oficial** vigente (pasaporte, cédula o licencia de conducir, según tu país).
 - **Selfie** para verificación facial.
 - En algunos países de Latinoamérica, puede requerirse también un comprobante de domicilio.
 
@@ -56,7 +58,7 @@ El proceso suele completarse en minutos si los documentos están en orden.
 
 ## Paso 3: Añadir fondos a tu cuenta
 
-Una vez verificado, toca añadir dinero. En Europa, la opción más cómoda es **transferencia SEPA en euros** — normalmente sin comisión y con llegada en 1-2 días hábiles.
+Una vez verificado, toca añadir dinero. En EE. UU., la opción habitual es la **transferencia bancaria**.
 
 En Latinoamérica, las opciones varían por país: transferencia bancaria local, tarjeta de débito/crédito o incluso otras stablecoins.
 
@@ -67,7 +69,7 @@ Ve a **"Fondos" → "Depositar"** y selecciona tu moneda o método preferido.
 Con fondos disponibles en tu cuenta, ya puedes comprar:
 
 1. Ve a **"Mercados"** o utiliza el buscador y escribe **"USDT"**.
-2. Selecciona el par **USDT/EUR** (si has depositado euros) o **USDT/USD**.
+2. Selecciona el par **USDT/USD**.
 3. Introduce el importe que deseas invertir.
 4. Elige la orden **"Mercado"** para comprar al precio actual, o **"Límite"** si prefieres fijar el precio de entrada.
 5. Confirma la operación.

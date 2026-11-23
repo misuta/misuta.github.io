@@ -34,7 +34,7 @@ Kraken es uno de los exchanges más antiguos del mercado, con buena reputación 
 
 Aunque tu objetivo no sea invertir en TRX, hay un motivo muy práctico para tener un poco: **cualquier envío por la red Tron necesita TRX para cubrir sus costes**. Las transacciones consumen ancho de banda y, si ejecutan un contrato inteligente (como enviar USDT), también energía. Si no tienes esos recursos por haber hecho stake de TRX, la red quema TRX de tu cuenta para pagarlos.
 
-En la práctica: si recibes USDT en una wallet propia por la red Tron y quieres moverlo después, necesitarás algo de TRX en esa misma dirección. Si lo que buscas es comprar la stablecoin, tienes la guía para [comprar USDT en Kraken](/2026/07/03/como-comprar-usdt-en-kraken/), con su sección «¿Qué red elegir para USDT?».
+En la práctica: si recibes USDT en una wallet propia por la red Tron y quieres moverlo después, necesitarás algo de TRX en esa misma dirección. Si lo que buscas es comprar la stablecoin, en Europa y Canadá la opción es [USDC](/2026/07/17/como-comprar-usdc-en-kraken/); en EE. UU. y Latinoamérica también tienes la guía para [comprar USDT en Kraken](/2026/07/03/como-comprar-usdt-en-kraken/), con su sección «¿Qué red elegir para USDT?».
 
 ## Paso 1: Crea tu cuenta
 

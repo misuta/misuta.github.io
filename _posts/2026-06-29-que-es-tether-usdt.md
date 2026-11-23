@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "¿Qué es Tether (USDT)? La stablecoin más usada del mundo"
+title: "¿Qué es USDT (Tether)? Cómo funciona y dónde comprarlo (2026)"
 date: 2026-06-29 06:00:00 +0200
 categories: educacion
 tags: [tether, usdt, stablecoins, criptomonedas]
 image: /assets/images/que-es-tether-usdt.webp
+author: Yukio Mizuta
+description: "Qué es USDT (Tether), cómo funciona y para qué se usa, y por qué desde 2026 ya no se compra en exchanges regulados de Europa: qué usar en su lugar."
 ---
 
 Si llevas aunque sea poco tiempo en el mundo de las criptomonedas, seguro que has escuchado el nombre **Tether (USDT)**. Es la stablecoin más utilizada del planeta y una de las herramientas más importantes del ecosistema crypto. Pero, ¿qué es exactamente y para qué sirve?
@@ -46,11 +48,21 @@ Esta es la pregunta del millón. Tether ha sido objeto de controversia por la fa
 
 Para la mayoría de los usuarios, USDT es una herramienta válida para operar en el ecosistema crypto, siempre que se use con conocimiento de sus riesgos.
 
+## USDT en Europa: qué cambió con MiCA
+
+El reglamento europeo MiCA exige una licencia a los emisores de stablecoins y les impone reglas sobre sus reservas. Tether decidió no solicitarla, así que desde el 1 de julio de 2026 ningún exchange autorizado en la UE puede ofrecer USDT. Kraken ya lo había retirado para sus clientes europeos en 2025.
+
+Esto no significa que tener USDT sea ilegal: MiCA regula a emisores y plataformas, no a las personas. Puedes seguir guardándolo en tu propia wallet, pero no comprarlo ni venderlo en exchanges regulados de Europa.
+
 ## ¿Dónde comprar USDT?
 
-Si estás en España, Europa o Latinoamérica, puedes comprar USDT fácilmente en **Kraken**, uno de los exchanges más seguros y regulados del mercado. Kraken cumple con la normativa MiCA en Europa y tiene soporte en español.
+Depende de dónde vivas:
 
-👉 [Compra USDT en Kraken con nuestro enlace de afiliado](https://invite.kraken.com/JDNW/nmlddl67)
+- **España y el resto del EEE:** no puedes comprar USDT en Kraken ni en ningún exchange regulado. Si buscas una stablecoin en dólares, usa **USDC**, que sí cumple MiCA: te explicamos [cómo comprar USDC en Kraken](/2026/07/17/como-comprar-usdc-en-kraken/).
+- **Canadá:** Kraken no permite comprar USDT desde 2023; USDC sí está disponible.
+- **EE. UU. y Latinoamérica:** puedes comprar USDT en Kraken (comprueba en la app que está disponible en tu país antes de depositar). Aun así, USDC también está disponible y es la opción que recomendamos en todas las regiones.
+
+👉 [Abre tu cuenta en Kraken con nuestro enlace de afiliado](https://invite.kraken.com/JDNW/nmlddl67)
 
 ---
 
