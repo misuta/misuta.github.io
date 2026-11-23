@@ -328,6 +328,7 @@ article img.post-list-image {
 .cal-acciones { display: flex; flex-wrap: wrap; gap: 0.75rem; }
 
 .cal-btn,
+.cal-btn:link,
 .cal-btn:visited {
   display: inline-flex;
   align-items: center;
@@ -342,7 +343,18 @@ article img.post-list-image {
 }
 .cal-btn:hover { border-color: var(--cal-acento); text-decoration: none; }
 button.cal-btn { background: transparent; font: inherit; font-weight: 600; cursor: pointer; }
+.cal-url {
+  flex: 1 1 260px;
+  min-height: 44px;
+  padding: 0 12px;
+  border-radius: 8px;
+  border: 1.5px solid var(--cal-acento);
+  background: var(--bg-secondary);
+  color: var(--text);
+  font: inherit;
+}
 .cal-btn--primario,
+.cal-btn--primario:link,
 .cal-btn--primario:visited { background: #6d28d9; border-color: #6d28d9; color: #ffffff; }
 .cal-btn--primario:hover { background: #5b21b6; color: #ffffff; }
 

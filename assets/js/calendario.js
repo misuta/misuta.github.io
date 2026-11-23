@@ -348,8 +348,19 @@
         btnCopiar.textContent = '¡Copiado!';
         setTimeout(function () { btnCopiar.textContent = textoCopiar; }, 2000);
       }, function () {
-        btnCopiar.textContent = 'No se pudo copiar';
-        setTimeout(function () { btnCopiar.textContent = textoCopiar; }, 2000);
+        // Sin permiso de portapapeles: mostramos la URL seleccionada para copiarla a mano
+        var campo = document.getElementById('cal-url');
+        if (!campo) {
+          campo = document.createElement('input');
+          campo.id = 'cal-url';
+          campo.className = 'cal-url';
+          campo.readOnly = true;
+          campo.value = btnCopiar.getAttribute('data-url');
+          campo.setAttribute('aria-label', 'Enlace de suscripción');
+          btnCopiar.parentNode.insertBefore(campo, btnCopiar.nextSibling);
+        }
+        campo.focus();
+        campo.select();
       });
     });
   }
