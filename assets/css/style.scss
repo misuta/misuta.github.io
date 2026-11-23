@@ -126,6 +126,34 @@ article img.post-list-image {
   margin-bottom: 0.75rem;
 }
 
+// ── Paginador ─────────────────────────────────────────────
+.pager {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 2rem 0;
+
+  a, .pager-current {
+    min-width: 2.2rem;
+    padding: 0.35rem 0.7rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  a:hover { border-color: #7c3aed; }
+
+  .pager-current {
+    background: #7c3aed;
+    border-color: #7c3aed;
+    color: #fff;
+    font-weight: 600;
+  }
+}
+
 // ── Content images: max-width safety ───────────────────────
 .post-content img {
   max-width: 100%;

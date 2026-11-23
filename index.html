@@ -75,15 +75,33 @@ SimpleJekyllSearch({
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
-  <nav>
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}">← Más recientes</a>
+  {%- assign p = paginator.page -%}
+  {%- assign total = paginator.total_pages -%}
+  {%- assign start = p | minus: 1 -%}
+  {%- if start < 1 -%}{%- assign start = 1 -%}{%- endif -%}
+  {%- assign finish = start | plus: 2 -%}
+  {%- if finish > total -%}
+    {%- assign finish = total -%}
+    {%- assign start = finish | minus: 2 -%}
+    {%- if start < 1 -%}{%- assign start = 1 -%}{%- endif -%}
+  {%- endif -%}
+  <nav class="pager" aria-label="Paginación">
+    {% if p > 1 %}
+      <a href="/" aria-label="Primera página">« Primera</a>
+      <a href="{{ paginator.previous_page_path }}" aria-label="Página anterior">‹</a>
     {% endif %}
-
-    <span>Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}">Más antiguos →</a>
+    {% for i in (start..finish) %}
+      {% if i == p %}
+        <span class="pager-current" aria-current="page">{{ i }}</span>
+      {% elsif i == 1 %}
+        <a href="/">1</a>
+      {% else %}
+        <a href="{{ site.paginate_path | replace: ':num', i }}">{{ i }}</a>
+      {% endif %}
+    {% endfor %}
+    {% if p < total %}
+      <a href="{{ paginator.next_page_path }}" aria-label="Página siguiente">›</a>
+      <a href="{{ site.paginate_path | replace: ':num', total }}" aria-label="Última página">Última »</a>
     {% endif %}
   </nav>
 {% endif %}
