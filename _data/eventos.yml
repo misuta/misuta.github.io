@@ -1,0 +1,367 @@
+# _data/eventos.yml — Calendario cripto y macro (Mizuta's Blog)
+# v3 · 23 nov 2026 · Aprobado
+# Cambios respecto a v2:
+#   - DAC8: el 1 ene 2027 no empiezan los reportes; se sustituye por el primer intercambio entre países (30 sep 2027)
+#   - GENIUS: fecha fija (18 ene 2027) al no haber reglas finales → confirmado; contexto ajustado (prohibición para plataformas en jul 2028)
+#   - BNB Jenner: confirmado (8 dic 2026, 02:30 UTC)
+#   - ARB: fechas corregidas (15 dic 2026 y 14 ene 2027); el bloqueo de equipo e inversores termina entre feb y mar 2027
+#   - Gobierno de EE.UU.: financiación hasta el 11 dic 2026 confirmada por ley
+#   - Banco de Japón: 17-18 dic 2026 confirmado
+#   - Deribit: fuente oficial (último viernes del trimestre, 08:00 UTC)
+#   - Actas FOMC dic: provisional (la Fed aún no publica la fecha; regla de 3 semanas)
+#   - ONDO: provisional, las fuentes difieren entre el 17 y el 18 ene 2027
+#   - Fuentes del agregador industrylink.online sustituidas por fuentes primarias o de datos
+#   - Verificadas contra fuentes oficiales: todas las fechas de CPI, NFP y PPI (BLS), PCE (BEA), FOMC 2027 (Fed) y BCE
+#
+# Campos:
+#   id           identificador único (aaaa-mm-dd-slug)
+#   titulo       nombre corto del evento
+#   fecha        ISO 8601 en UTC. Sin hora => "todo_el_dia: true"
+#   todo_el_dia  true si no hay hora fija
+#   categoria    macro | cripto | regulacion
+#   importancia  alta | media
+#   activos      monedas o mercados más afectados
+#   estado       confirmado (fuente oficial) | provisional (fecha sujeta a cambios)
+#   contexto     una línea: por qué importa (si falta, la página usa la plantilla de su tipo)
+#   fuente       URL de referencia
+#
+# Notas de horario:
+#   - EE.UU. en horario de verano del 14 mar al 7 nov 2027 → CPI/NFP/PPI/PCE a las 12:30 UTC, FOMC a las 18:00 UTC
+#   - UE en horario de verano del 28 mar al 31 oct 2027 → BCE a las 12:15 UTC
+#   - Fuera de esas fechas: CPI/NFP/PPI/PCE 13:30 UTC, FOMC 19:00 UTC, BCE 13:15 UTC
+
+# ───────────────────────── PLANTILLAS DE CONTEXTO (para reutilizar) ─────────────────────────
+# FOMC: "La Fed decide los tipos de interés en EE.UU.; tipos más bajos suelen favorecer a BTC y a los activos de riesgo."
+# CPI:  "Dato de inflación de EE.UU.; si sale por encima de lo esperado aleja las bajadas de tipos y suele presionar a la baja a cripto."
+# NFP:  "Informe de empleo de EE.UU.; un mercado laboral débil aumenta las probabilidades de bajadas de tipos."
+# PPI:  "Precios que pagan los productores; suele adelantar la tendencia del CPI."
+# PCE:  "Indicador de inflación preferido de la Fed; rara vez sorprende porque se estima a partir del CPI y el PPI."
+# BCE:  "El BCE decide los tipos en la eurozona; afecta al euro y al apetito por riesgo en Europa."
+
+# ═══════════════════════════════ DICIEMBRE 2026 ═══════════════════════════════
+
+- id: 2026-12-04-nfp
+  titulo: "Informe de empleo de EE.UU. (noviembre)"
+  fecha: 2026-12-04T13:30:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Último dato de empleo antes de la reunión de la Fed del 9 de diciembre."
+  fuente: https://www.bls.gov/schedule/news_release/empsit.htm
+
+- id: 2026-12-08-bnb-jenner
+  titulo: "Hard fork Jenner de BNB Chain"
+  fecha: 2026-12-08T02:30:00Z
+  categoria: cripto
+  importancia: media
+  activos: [BNB]
+  estado: confirmado
+  contexto: "Actualización de red de BNB Chain (carril reservado para pagos y marcas de tiempo en milisegundos); los exchanges pueden pausar depósitos y retiros de BNB durante unas horas."
+  fuente: https://docs.chainstack.com/docs/bnb-jenner-hardfork
+
+- id: 2026-12-09-fomc
+  titulo: "Decisión de tipos de la Fed (FOMC) + proyecciones"
+  fecha: 2026-12-09T19:00:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Última decisión de la Fed de 2026, con proyecciones económicas y rueda de prensa del presidente 30 minutos después."
+  fuente: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+
+- id: 2026-12-10-cpi
+  titulo: "Inflación de EE.UU. (CPI de noviembre)"
+  fecha: 2026-12-10T13:30:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Sale el día después de la Fed; un dato sorpresa puede cambiar la lectura de lo que dijo el FOMC."
+  fuente: https://www.bls.gov/schedule/news_release/cpi.htm
+
+- id: 2026-12-11-financiacion-eeuu
+  titulo: "Fin de la financiación temporal del Gobierno de EE.UU."
+  fecha: 2026-12-11
+  todo_el_dia: true
+  categoria: macro
+  importancia: media
+  activos: [BTC, USD]
+  estado: confirmado
+  contexto: "La ley de financiación temporal vence este día; si no se aprueba otra, habría cierre del Gobierno y se retrasarían los datos oficiales y las revisiones de ETFs de la SEC."
+  fuente: https://ofr.harvard.edu/news/2026/09/congress-extends-government-funding-through-december-11
+
+- id: 2026-12-15-arb-unlock
+  titulo: "Desbloqueo mensual de ARB (~92,65 M)"
+  fecha: 2026-12-15
+  todo_el_dia: true
+  categoria: cripto
+  importancia: media
+  activos: [ARB]
+  estado: provisional
+  contexto: "Entran en circulación tokens del equipo e inversores (~1,3 % del suministro en circulación); puede añadir presión vendedora. El bloqueo termina entre febrero y marzo de 2027."
+  fuente: https://defillama.com/unlocks/arbitrum
+
+- id: 2026-12-17-bce
+  titulo: "Decisión de tipos del BCE + proyecciones"
+  fecha: 2026-12-17T13:15:00Z
+  categoria: macro
+  importancia: alta
+  activos: [EUR]
+  estado: confirmado
+  contexto: "Última decisión del BCE de 2026; rueda de prensa a las 13:45 UTC."
+  fuente: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+
+- id: 2026-12-18-boj
+  titulo: "Decisión del Banco de Japón"
+  fecha: 2026-12-18
+  todo_el_dia: true
+  categoria: macro
+  importancia: media
+  activos: [BTC, JPY]
+  estado: confirmado
+  contexto: "Una subida de tipos en Japón puede deshacer el carry trade del yen y provocar ventas en activos de riesgo, como pasó en agosto de 2024."
+  fuente: https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm
+
+- id: 2026-12-25-deribit-trimestral
+  titulo: "Vencimiento trimestral de opciones en Deribit"
+  fecha: 2026-12-25T08:00:00Z
+  categoria: cripto
+  importancia: alta
+  activos: [BTC, ETH]
+  estado: confirmado
+  contexto: "Vencimiento de fin de año, con mucho interés abierto y poca liquidez por Navidad; suele traer volatilidad."
+  fuente: https://support.deribit.com/hc/en-us/articles/25944688876957-Contract-Introduction-Policy
+
+- id: 2026-12-30-actas-fomc
+  titulo: "Actas de la reunión de la Fed de diciembre"
+  fecha: 2026-12-30T19:00:00Z
+  categoria: macro
+  importancia: media
+  activos: [BTC, USD]
+  estado: provisional
+  contexto: "Detallan el debate interno de la Fed y dan pistas sobre el ritmo de bajadas de tipos en 2027. La Fed las publica tres semanas después de cada decisión."
+  fuente: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+
+# PPI / PCE
+- { id: 2026-12-15-ppi, titulo: "Precios de producción de EE.UU. (PPI de noviembre)", fecha: 2026-12-15T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, contexto: "Sale cinco días después del CPI; confirma o matiza la lectura de inflación antes del cierre del año.", fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2026-12-23-pce, titulo: "Inflación PCE de EE.UU. (noviembre)", fecha: 2026-12-23T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, contexto: "Indicador de inflación preferido de la Fed; sale en plena semana de Navidad, con poca liquidez.", fuente: https://www.bea.gov/news/schedule }
+
+# ═══════════════════════════════ ENERO 2027 ═══════════════════════════════
+
+- id: 2027-01-08-nfp
+  titulo: "Informe de empleo de EE.UU. (diciembre)"
+  fecha: 2027-01-08T13:30:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Primer gran dato macro de 2027."
+  fuente: https://www.bls.gov/schedule/news_release/empsit.htm
+
+- id: 2027-01-13-cpi
+  titulo: "Inflación de EE.UU. (CPI de diciembre)"
+  fecha: 2027-01-13T13:30:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Dato de inflación clave dos semanas antes de la primera reunión de la Fed del año."
+  fuente: https://www.bls.gov/schedule/news_release/cpi.htm
+
+- id: 2027-01-14-arb-unlock
+  titulo: "Desbloqueo mensual de ARB (~92,65 M)"
+  fecha: 2027-01-14
+  todo_el_dia: true
+  categoria: cripto
+  importancia: media
+  activos: [ARB]
+  estado: provisional
+  contexto: "Uno de los últimos desbloqueos mensuales de equipo e inversores de Arbitrum; el bloqueo termina entre febrero y marzo de 2027."
+  fuente: https://defillama.com/unlocks/arbitrum
+
+- id: 2027-01-17-ondo-unlock
+  titulo: "Desbloqueo anual de ONDO (~17 % del suministro)"
+  fecha: 2027-01-17T17:25:00Z
+  categoria: cripto
+  importancia: alta
+  activos: [ONDO]
+  estado: provisional
+  contexto: "Uno de los desbloqueos más grandes del trimestre (~1.710 M de tokens, cerca de un tercio de lo que circula); históricamente estos eventos presionan el precio. Algunas fuentes lo sitúan el 18 de enero."
+  fuente: https://defillama.com/unlocks/ondo-finance
+
+- id: 2027-01-18-genius-act
+  titulo: "Entra en vigor la ley GENIUS de stablecoins (EE.UU.)"
+  fecha: 2027-01-18
+  todo_el_dia: true
+  categoria: regulacion
+  importancia: alta
+  activos: [USDT, USDC]
+  estado: confirmado
+  contexto: "Primera ley federal de stablecoins de pago: solo emisores autorizados podrán emitirlas en EE.UU. Las plataformas tienen hasta julio de 2028 para dejar de ofrecer stablecoins no autorizadas."
+  fuente: https://crypto.news/us/genius-act/
+
+- id: 2027-01-27-fomc
+  titulo: "Decisión de tipos de la Fed (FOMC)"
+  fecha: 2027-01-27T19:00:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Primera reunión de 2027, con la nueva rotación de miembros con voto."
+  fuente: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm
+
+# PPI / PCE
+- { id: 2027-01-14-ppi, titulo: "Precios de producción de EE.UU. (PPI de diciembre)", fecha: 2027-01-14T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, contexto: "Llega al día siguiente del CPI de diciembre; ayuda a estimar el PCE que sigue la Fed.", fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-01-28-pce, titulo: "Inflación PCE de EE.UU. (diciembre)", fecha: 2027-01-28T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, contexto: "Sale el día después de la Fed de enero; puede confirmar o contradecir el tono del FOMC.", fuente: https://www.bea.gov/news/schedule/next-year }
+
+# ═══════════════════════════════ FEBRERO 2027 ═══════════════════════════════
+
+- id: 2027-02-04-bce
+  titulo: "Decisión de tipos del BCE"
+  fecha: 2027-02-04T13:15:00Z
+  categoria: macro
+  importancia: alta
+  activos: [EUR]
+  estado: confirmado
+  contexto: "Primera decisión del BCE de 2027."
+  fuente: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+
+- id: 2027-02-05-nfp
+  titulo: "Informe de empleo de EE.UU. (enero)"
+  fecha: 2027-02-05T13:30:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Incluye la revisión anual de los datos de empleo, que puede cambiar la foto del mercado laboral."
+  fuente: https://www.bls.gov/schedule/news_release/empsit.htm
+
+- id: 2027-02-11-cpi
+  titulo: "Inflación de EE.UU. (CPI de enero)"
+  fecha: 2027-02-11T13:30:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "El dato de enero suele recoger subidas de precios de inicio de año."
+  fuente: https://www.bls.gov/schedule/news_release/cpi.htm
+
+# PPI / PCE
+- { id: 2027-02-12-ppi, titulo: "Precios de producción de EE.UU. (PPI de enero)", fecha: 2027-02-12T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, contexto: "Al día siguiente del CPI; los analistas lo usan para afinar la previsión del PCE.", fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-02-25-pce, titulo: "Inflación PCE de EE.UU. (enero)", fecha: 2027-02-25T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, contexto: "Indicador de inflación preferido de la Fed; incluye ingresos y gasto de los hogares.", fuente: https://www.bea.gov/news/schedule/next-year }
+
+# ═══════════════════════════════ MARZO 2027 ═══════════════════════════════
+
+- id: 2027-03-05-nfp
+  titulo: "Informe de empleo de EE.UU. (febrero)"
+  fecha: 2027-03-05T13:30:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Informe de empleo de EE.UU.; un mercado laboral débil aumenta las probabilidades de bajadas de tipos."
+  fuente: https://www.bls.gov/schedule/news_release/empsit.htm
+
+- id: 2027-03-10-cpi
+  titulo: "Inflación de EE.UU. (CPI de febrero)"
+  fecha: 2027-03-10T13:30:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Último dato de inflación antes de la Fed del 17 de marzo."
+  fuente: https://www.bls.gov/schedule/news_release/cpi.htm
+
+- id: 2027-03-17-fomc
+  titulo: "Decisión de tipos de la Fed (FOMC) + proyecciones"
+  fecha: 2027-03-17T18:00:00Z
+  categoria: macro
+  importancia: alta
+  activos: [BTC, ETH, USD]
+  estado: confirmado
+  contexto: "Incluye el gráfico de puntos (dot plot) con las previsiones de tipos de cada miembro."
+  fuente: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm
+
+- id: 2027-03-18-bce
+  titulo: "Decisión de tipos del BCE + proyecciones"
+  fecha: 2027-03-18T13:15:00Z
+  categoria: macro
+  importancia: alta
+  activos: [EUR]
+  estado: confirmado
+  contexto: "Al día siguiente de la Fed; con nuevas proyecciones económicas del BCE."
+  fuente: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+
+- id: 2027-03-26-deribit-trimestral
+  titulo: "Vencimiento trimestral de opciones en Deribit"
+  fecha: 2027-03-26T08:00:00Z
+  categoria: cripto
+  importancia: alta
+  activos: [BTC, ETH]
+  estado: confirmado
+  contexto: "Vencimiento trimestral (último viernes del trimestre); suele concentrar volatilidad en BTC y ETH."
+  fuente: https://support.deribit.com/hc/en-us/articles/25944688876957-Contract-Introduction-Policy
+
+# PPI / PCE
+- { id: 2027-03-12-ppi, titulo: "Precios de producción de EE.UU. (PPI de febrero)", fecha: 2027-03-12T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, contexto: "Último dato de precios antes de la Fed del 17 de marzo.", fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-03-31-pce, titulo: "Inflación PCE de EE.UU. (febrero)", fecha: 2027-03-31T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, contexto: "Indicador de inflación preferido de la Fed; primer dato tras la reunión de marzo.", fuente: https://www.bea.gov/news/schedule/next-year }
+
+# ═══════════════════════════ ABRIL – DICIEMBRE 2027 (solo macro, fechas oficiales) ═══════════════════════════
+# Contexto genérico por ahora (ver plantillas arriba); se afina mes a mes.
+- { id: 2027-04-02-nfp,  titulo: "Informe de empleo de EE.UU. (marzo)",      fecha: 2027-04-02T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/empsit.htm }
+- { id: 2027-04-13-cpi,  titulo: "Inflación de EE.UU. (CPI de marzo)",       fecha: 2027-04-13T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/cpi.htm }
+- { id: 2027-04-14-ppi, titulo: "Precios de producción de EE.UU. (PPI de marzo)", fecha: 2027-04-14T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-04-28-fomc, titulo: "Decisión de tipos de la Fed (FOMC)",       fecha: 2027-04-28T18:00:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm }
+- { id: 2027-04-29-bce,  titulo: "Decisión de tipos del BCE",                fecha: 2027-04-29T12:15:00Z, categoria: macro, importancia: alta, activos: [EUR],           estado: confirmado, fuente: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html }
+- { id: 2027-04-29-pce, titulo: "Inflación PCE de EE.UU. (marzo)", fecha: 2027-04-29T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bea.gov/news/schedule/next-year }
+- { id: 2027-05-07-nfp,  titulo: "Informe de empleo de EE.UU. (abril)",      fecha: 2027-05-07T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/empsit.htm }
+- { id: 2027-05-12-cpi,  titulo: "Inflación de EE.UU. (CPI de abril)",       fecha: 2027-05-12T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/cpi.htm }
+- { id: 2027-05-13-ppi, titulo: "Precios de producción de EE.UU. (PPI de abril)", fecha: 2027-05-13T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-05-27-pce, titulo: "Inflación PCE de EE.UU. (abril)", fecha: 2027-05-27T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bea.gov/news/schedule/next-year }
+- { id: 2027-06-04-nfp,  titulo: "Informe de empleo de EE.UU. (mayo)",       fecha: 2027-06-04T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/empsit.htm }
+- { id: 2027-06-09-fomc, titulo: "Decisión de tipos de la Fed (FOMC) + proyecciones", fecha: 2027-06-09T18:00:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm }
+- { id: 2027-06-10-bce,  titulo: "Decisión de tipos del BCE + proyecciones", fecha: 2027-06-10T12:15:00Z, categoria: macro, importancia: alta, activos: [EUR],           estado: confirmado, fuente: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html }
+- { id: 2027-06-10-cpi,  titulo: "Inflación de EE.UU. (CPI de mayo)",        fecha: 2027-06-10T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/cpi.htm }
+- { id: 2027-06-11-ppi, titulo: "Precios de producción de EE.UU. (PPI de mayo)", fecha: 2027-06-11T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-06-25-pce, titulo: "Inflación PCE de EE.UU. (mayo)", fecha: 2027-06-25T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bea.gov/news/schedule/next-year }
+- { id: 2027-07-02-nfp,  titulo: "Informe de empleo de EE.UU. (junio)",      fecha: 2027-07-02T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/empsit.htm }
+- { id: 2027-07-14-cpi,  titulo: "Inflación de EE.UU. (CPI de junio)",       fecha: 2027-07-14T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/cpi.htm }
+- { id: 2027-07-15-ppi, titulo: "Precios de producción de EE.UU. (PPI de junio)", fecha: 2027-07-15T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-07-22-bce,  titulo: "Decisión de tipos del BCE",                fecha: 2027-07-22T12:15:00Z, categoria: macro, importancia: alta, activos: [EUR],           estado: confirmado, fuente: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html }
+- { id: 2027-07-28-fomc, titulo: "Decisión de tipos de la Fed (FOMC)",       fecha: 2027-07-28T18:00:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm }
+- { id: 2027-07-29-pce, titulo: "Inflación PCE de EE.UU. (junio)", fecha: 2027-07-29T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bea.gov/news/schedule/next-year }
+- { id: 2027-08-06-nfp,  titulo: "Informe de empleo de EE.UU. (julio)",      fecha: 2027-08-06T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/empsit.htm }
+- { id: 2027-08-10-ppi, titulo: "Precios de producción de EE.UU. (PPI de julio)", fecha: 2027-08-10T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-08-11-cpi,  titulo: "Inflación de EE.UU. (CPI de julio)",       fecha: 2027-08-11T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/cpi.htm }
+- { id: 2027-08-25-pce, titulo: "Inflación PCE de EE.UU. (julio)", fecha: 2027-08-25T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bea.gov/news/schedule/next-year }
+- { id: 2027-09-03-nfp,  titulo: "Informe de empleo de EE.UU. (agosto)",     fecha: 2027-09-03T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/empsit.htm }
+- { id: 2027-09-09-bce,  titulo: "Decisión de tipos del BCE + proyecciones", fecha: 2027-09-09T12:15:00Z, categoria: macro, importancia: alta, activos: [EUR],           estado: confirmado, fuente: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html }
+- { id: 2027-09-10-ppi, titulo: "Precios de producción de EE.UU. (PPI de agosto)", fecha: 2027-09-10T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-09-14-cpi,  titulo: "Inflación de EE.UU. (CPI de agosto)",      fecha: 2027-09-14T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/cpi.htm }
+- { id: 2027-09-15-fomc, titulo: "Decisión de tipos de la Fed (FOMC) + proyecciones", fecha: 2027-09-15T18:00:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm }
+- { id: 2027-09-30-pce, titulo: "Inflación PCE de EE.UU. (agosto)", fecha: 2027-09-30T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bea.gov/news/schedule/next-year }
+- { id: 2027-10-08-nfp,  titulo: "Informe de empleo de EE.UU. (septiembre)", fecha: 2027-10-08T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/empsit.htm }
+- { id: 2027-10-14-cpi,  titulo: "Inflación de EE.UU. (CPI de septiembre)",  fecha: 2027-10-14T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/cpi.htm }
+- { id: 2027-10-15-ppi, titulo: "Precios de producción de EE.UU. (PPI de septiembre)", fecha: 2027-10-15T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-10-27-fomc-estrategia, titulo: "Reunión de estrategia de la Fed (sin decisión de tipos)", fecha: 2027-10-27, todo_el_dia: true, categoria: macro, importancia: media, activos: [USD], estado: confirmado, contexto: "Primera reunión dedicada solo a estrategia a largo plazo; no habrá decisión de tipos.", fuente: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm }
+- { id: 2027-10-28-bce,  titulo: "Decisión de tipos del BCE",                fecha: 2027-10-28T12:15:00Z, categoria: macro, importancia: alta, activos: [EUR],           estado: confirmado, fuente: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html }
+- { id: 2027-10-28-pce, titulo: "Inflación PCE de EE.UU. (septiembre)", fecha: 2027-10-28T12:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bea.gov/news/schedule/next-year }
+- { id: 2027-11-05-nfp,  titulo: "Informe de empleo de EE.UU. (octubre)",    fecha: 2027-11-05T12:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/empsit.htm }
+- { id: 2027-11-10-cpi,  titulo: "Inflación de EE.UU. (CPI de octubre)",     fecha: 2027-11-10T13:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/cpi.htm }
+- { id: 2027-11-12-ppi, titulo: "Precios de producción de EE.UU. (PPI de octubre)", fecha: 2027-11-12T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-11-17-fomc, titulo: "Decisión de tipos de la Fed (FOMC) — última de 2027", fecha: 2027-11-17T19:00:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, contexto: "La Fed adelantó a noviembre su última reunión del año; en diciembre no habrá FOMC.", fuente: https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm }
+- { id: 2027-11-24-pce, titulo: "Inflación PCE de EE.UU. (octubre)", fecha: 2027-11-24T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bea.gov/news/schedule/next-year }
+- { id: 2027-12-03-nfp,  titulo: "Informe de empleo de EE.UU. (noviembre)",  fecha: 2027-12-03T13:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/empsit.htm }
+- { id: 2027-12-10-cpi,  titulo: "Inflación de EE.UU. (CPI de noviembre)",   fecha: 2027-12-10T13:30:00Z, categoria: macro, importancia: alta, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/cpi.htm }
+- { id: 2027-12-15-ppi, titulo: "Precios de producción de EE.UU. (PPI de noviembre)", fecha: 2027-12-15T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bls.gov/schedule/news_release/ppi.htm }
+- { id: 2027-12-16-bce,  titulo: "Decisión de tipos del BCE + proyecciones", fecha: 2027-12-16T13:15:00Z, categoria: macro, importancia: alta, activos: [EUR],           estado: confirmado, fuente: https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html }
+- { id: 2027-12-22-pce, titulo: "Inflación PCE de EE.UU. (noviembre)", fecha: 2027-12-22T13:30:00Z, categoria: macro, importancia: media, activos: [BTC, ETH, USD], estado: confirmado, fuente: https://www.bea.gov/news/schedule/next-year }
+
+- { id: 2027-09-30-dac8-intercambio, titulo: "Primer intercambio de datos DAC8 entre países de la UE", fecha: 2027-09-30, todo_el_dia: true, categoria: regulacion, importancia: media, activos: [Mercado], estado: confirmado, contexto: "Las haciendas de la UE se intercambian los datos de 2026 que les entregaron los exchanges (el plazo para los exchanges lo fija cada país durante 2027).", fuente: https://taxation-customs.ec.europa.eu/taxation/tax-transparency-cooperation/administrative-co-operation-and-mutual-assistance/directive-administrative-cooperation-dac/dac8_en }
+
+# ═══════════════════════════════ SIN FECHA (seguimiento) ═══════════════════════════════
+# No se publican hasta tener fecha. Se revisan en el mantenimiento semanal.
+# - Ethereum Glamsterdam (mainnet): previsto para el 4T 2026, sin fecha confirmada. Fuente: https://ethereum.org/roadmap/glamsterdam/
+# - Ethereum Hegotá: previsto para 2027.
+# - Plazos nacionales de DAC8 para exchanges (p. ej., Estonia y Chipre: junio de 2027); añadir el de España cuando Hacienda lo publique.
