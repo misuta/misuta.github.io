@@ -467,6 +467,14 @@ button.cal-btn { background: transparent; font: inherit; font-weight: 600; curso
 .cal-mesbar-lista { display: flex; gap: 6px; overflow-x: auto; min-width: 0; scrollbar-width: none; }
 .cal-mesbar-lista::-webkit-scrollbar { display: none; }
 
+// Con ratón o trackpad, barra fina visible para poder arrastrar (sin rueda no habría forma de ver más meses)
+@media (pointer: fine) {
+  .cal-mesbar-lista { scrollbar-width: thin; scrollbar-color: var(--border) transparent; padding-bottom: 4px; }
+  .cal-mesbar-lista::-webkit-scrollbar { display: block; height: 6px; }
+  .cal-mesbar-lista::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+  .cal-mesbar-lista::-webkit-scrollbar-thumb:hover { background: var(--text-secondary); }
+}
+
 .cal .cal-mes-titulo { margin: 1.25rem 0 0.25rem; font-size: 1.5rem; line-height: 1.3; scroll-margin-top: 72px; }
 .cal-ev {
   display: grid;
