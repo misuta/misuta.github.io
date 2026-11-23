@@ -55,7 +55,7 @@ body {
   border-color: var(--border);
 }
 
-.site-title, .site-title:visited {
+.site-title, .site-title:link, .site-title:visited {
   color: var(--text);
 }
 
