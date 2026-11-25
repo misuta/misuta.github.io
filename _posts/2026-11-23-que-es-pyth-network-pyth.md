@@ -45,9 +45,9 @@ Pyth popularizó el modelo **pull**: el precio se actualiza fuera de la cadena m
 
 ### De Pythnet a Pyth Pro: el cambio de 2026
 
-Hasta ahora, los precios se agregaban en **Pythnet**, una cadena propia basada en la tecnología de Solana, y se distribuían a otras redes mediante el puente **Wormhole**. En 2026 la DAO de Pyth aprobó un cambio de modelo importante:
+Hasta 2026, los precios se agregaban en **Pythnet**, una cadena propia basada en la tecnología de Solana, y se distribuían a otras redes mediante el puente **Wormhole**. En 2026 la DAO de Pyth aprobó un cambio de modelo importante:
 
-- **Nueva infraestructura (Lazer):** más rápida, con actualizaciones que van desde tiempo real hasta intervalos de milisegundos. Pythnet se está retirando.
+- **Nueva infraestructura (Lazer):** más rápida, con actualizaciones que van desde tiempo real hasta intervalos de milisegundos. Pythnet se cerró en septiembre de 2026, y hoy todo funciona sobre Lazer.
 - **Fin del acceso gratuito:** desde agosto de 2026, las aplicaciones necesitan un **plan de suscripción** (Pyth Pro) para leer los precios. El antiguo servicio gratuito, Pyth Core, se integró en el modelo de pago.
 - **Data Marketplace:** un mercado de datos institucionales donde Pyth distribuye información de bolsas como la de Nueva York o Nasdaq.
 
@@ -99,7 +99,7 @@ Para cantidades a largo plazo, lo más seguro es una wallet de hardware. Tanto [
 
 Pyth Network propone otra forma de llevar precios a la blockchain: **datos de primera mano**, de quienes realmente mueven el mercado, servidos con un **modelo pull** que los entrega justo cuando hacen falta. En 2026 ha dado además un giro de fondo, pasando de servicio gratuito a negocio de datos por suscripción, con el token PYTH conectado a esos ingresos.
 
-¿Es mejor que Chainlink? Depende de para qué. El miércoles los ponemos cara a cara en **Chainlink vs Pyth Network**.
+¿Es mejor que Chainlink? Depende de para qué: los ponemos cara a cara en [Chainlink vs Pyth Network](/2026/11/25/chainlink-vs-pyth-network/).
 
 ---
 
