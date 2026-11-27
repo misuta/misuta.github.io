@@ -156,7 +156,7 @@ Lo interesante: **los dos tokens tienen ahora recompras financiadas con ingresos
 
 ## Cómo comprar y guardar LINK y PYTH
 
-Los dos están disponibles en [Kraken](https://invite.kraken.com/JDNW/nmlddl67), donde puedes depositar euros por SEPA desde España y Europa, o usar otros métodos desde Latinoamérica (según el país). El viernes te enseñamos paso a paso cómo comprar LINK y PYTH en Kraken.
+Los dos están disponibles en [Kraken](https://invite.kraken.com/JDNW/nmlddl67), donde puedes depositar euros por SEPA desde España y Europa, o usar otros métodos desde Latinoamérica (según el país). Te lo explicamos paso a paso en nuestras guías para [comprar LINK en Kraken](/2026/11/27/como-comprar-link-en-kraken/) y [comprar PYTH en Kraken](/2026/11/27/como-comprar-pyth-en-kraken/).
 
 Ojo con las redes al retirarlos:
 

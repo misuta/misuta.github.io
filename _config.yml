@@ -26,6 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    cómo proteger tus activos digitales.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mizuta.eu" # the base hostname & protocol for your site, e.g. http://example.com
+locale: es_ES # og:locale de jekyll-seo-tag (por defecto sería en_US)
 twitter_username: MizutasBlog
 github_username:  misuta
 lightning_address: mizuta@getalby.com
