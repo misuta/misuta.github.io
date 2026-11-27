@@ -79,7 +79,7 @@ PYTH es un token de la red Solana con un suministro máximo de **10.000 millones
 
 ## Cómo guardar PYTH de forma segura
 
-El viernes te enseñamos paso a paso cómo comprar PYTH en Kraken. Mientras tanto, un apunte: PYTH es un **token de Solana**, así que se guarda en wallets compatibles con Solana (direcciones de Solana, no las `0x` de Ethereum) y necesitarás un poco de SOL para pagar las comisiones.
+Te enseñamos paso a paso a comprarlo en [cómo comprar PYTH en Kraken](/2026/11/27/como-comprar-pyth-en-kraken/). Lo esencial: PYTH es un **token de Solana**, así que se guarda en wallets compatibles con Solana (direcciones de Solana, no las `0x` de Ethereum) y necesitarás un poco de SOL para pagar las comisiones.
 
 Para cantidades a largo plazo, lo más seguro es una wallet de hardware. Tanto [Trezor](https://affil.trezor.io/SH13Y) como [Keystone](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2) admiten Solana y sus tokens. Las bases de la autocustodia te las explicamos en [mejores wallets de Bitcoin](/2026/04/13/Mejores-Wallets-de-Bitcoin-en-2026-Guia-para-Principiantes/).
 

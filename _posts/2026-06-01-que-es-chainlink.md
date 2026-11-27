@@ -85,7 +85,7 @@ Sin Chainlink (o proyectos similares), la mayoría de aplicaciones DeFi, seguros
 
 ## ¿Cómo comprar y guardar LINK?
 
-LINK está disponible en los principales exchanges, entre ellos [Kraken](https://invite.kraken.com/JDNW/nmlddl67), donde puedes comprarlo con euros por transferencia SEPA desde España y Europa, o con dólares y otros métodos desde Latinoamérica (la disponibilidad varía según el país).
+LINK está disponible en los principales exchanges, entre ellos [Kraken](https://invite.kraken.com/JDNW/nmlddl67), donde puedes comprarlo con euros por transferencia SEPA desde España y Europa, o con dólares y otros métodos desde Latinoamérica (la disponibilidad varía según el país). Te lo explicamos paso a paso en [cómo comprar LINK en Kraken](/2026/11/27/como-comprar-link-en-kraken/).
 
 Como es un token ERC-20, se guarda en cualquier wallet compatible con Ethereum (direcciones que empiezan por `0x`), y necesitarás un poco de ETH para pagar las comisiones al moverlo. Para cantidades a largo plazo, lo más seguro es una wallet de hardware como [Trezor](https://affil.trezor.io/SH13Y) o [Keystone](https://keyst.one/?rfsn=6408359.378bf2&utm_source=refersion&utm_medium=affiliate&utm_campaign=6408359.378bf2).
 
